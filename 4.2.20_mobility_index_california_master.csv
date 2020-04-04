@@ -447,3 +447,4 @@ date,samples,median_distance_traveled_km,median_distance_traveled_mi,mobility_in
 4/1/20,4054,1.063,0.660517373,17,US,California,Sonoma County,6097
 3/31/20,2668,0.97,0.60272987,16,US,California,Yolo County,6113
 4/1/20,2671,1.032,0.641254872,17,US,California,Yolo County,6113
+test,test,test,test,test,test,test,test,test
