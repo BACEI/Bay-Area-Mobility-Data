@@ -5,7 +5,7 @@ The Mobility Index and Connectivity data were developed by Descartes Labs. Desca
 The Mobility Index shows the change in movement since the Bay Area has been sheltering in place. It references a 100 value based on median distance traveled in each county the week of February 17, 2020. For example, a mobility index of 50 means the median distance traveled is half of what it was during the week of February 17, 2020.
 
 <strong>Connectivity Data:</strong>
-The connectivity data demonstrates the level of intercounty movement between Bay Area counties. Devices that have location reports spanning most of the day are included in the data. Devices with first and last location reports spanning less than eight hours of the day, or that have fewer than 50 total reports throughout the day are discarded. Then the overlap of unique device IDs that approach in multiple counties is reported and the overlap is quantified.
+The connectivity data demonstrates the level of intercounty movement between Bay Area counties. Devices that have location reports spanning most of the day are included in the data. Devices with first and last location reports spanning less than eight hours of the day, or that have fewer than 50 total reports throughout the day are discarded. Then the overlap of unique device IDs that appear in multiple counties is reported and the overlap is quantified.
 
 <strong> Connectivity Fields: </strong>
 
