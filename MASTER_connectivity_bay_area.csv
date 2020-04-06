@@ -1,0 +1,3001 @@
+date,Hub,Spoke,Value,Device sample
+3/2/20,Alameda,Contra Costa,0.386090356,28505
+3/3/20,Alameda,Contra Costa,0.328876541,25960
+3/4/20,Alameda,Contra Costa,0.334051969,26515
+3/5/20,Alameda,Contra Costa,0.332070959,26334
+3/6/20,Alameda,Contra Costa,0.338323013,26381
+3/7/20,Alameda,Contra Costa,0.360538014,26550
+3/8/20,Alameda,Contra Costa,0.367126989,25897
+3/9/20,Alameda,Contra Costa,0.386125212,27274
+3/10/20,Alameda,Contra Costa,0.329363883,25291
+3/11/20,Alameda,Contra Costa,0.331065896,25576
+3/12/20,Alameda,Contra Costa,0.328915296,25432
+3/13/20,Alameda,Contra Costa,0.324801834,24536
+3/14/20,Alameda,Contra Costa,0.334295765,23917
+3/15/20,Alameda,Contra Costa,0.303518187,20503
+3/16/20,Alameda,Contra Costa,0.327013299,20675
+3/17/20,Alameda,Contra Costa,0.300944978,20394
+3/18/20,Alameda,Contra Costa,0.262125604,16802
+3/19/20,Alameda,Contra Costa,0.256613629,16919
+3/20/20,Alameda,Contra Costa,0.269151921,15293
+3/21/20,Alameda,Contra Costa,0.262332332,11168
+3/22/20,Alameda,Contra Costa,0.217741936,10050
+3/23/20,Alameda,Contra Costa,0.252850985,15816
+3/24/20,Alameda,Contra Costa,0.243569387,15589
+3/25/20,Alameda,Contra Costa,0.23934338,15397
+3/26/20,Alameda,Contra Costa,0.244858342,15791
+3/27/20,Alameda,Contra Costa,0.243938989,15620
+3/28/20,Alameda,Contra Costa,0.24925274,15491
+3/29/20,Alameda,Contra Costa,0.203597349,13748
+3/30/20,Alameda,Contra Costa,0.243946033,14754
+3/31/20,Alameda,Contra Costa,0.246799045,15430
+3/2/20,Alameda,did not enter other counties,0.362309526,37341
+3/3/20,Alameda,did not enter other counties,0.429877872,34554
+3/4/20,Alameda,did not enter other counties,0.422926359,35252
+3/5/20,Alameda,did not enter other counties,0.425752442,35119
+3/6/20,Alameda,did not enter other counties,0.418763847,35206
+3/7/20,Alameda,did not enter other counties,0.400604126,35092
+3/8/20,Alameda,did not enter other counties,0.411768238,33310
+3/9/20,Alameda,did not enter other counties,0.365397631,35460
+3/10/20,Alameda,did not enter other counties,0.442960507,33170
+3/11/20,Alameda,did not enter other counties,0.445626442,33371
+3/12/20,Alameda,did not enter other counties,0.450517977,32820
+3/13/20,Alameda,did not enter other counties,0.458504441,31413
+3/14/20,Alameda,did not enter other counties,0.458217178,30132
+3/15/20,Alameda,did not enter other counties,0.515205725,25155
+3/16/20,Alameda,did not enter other counties,0.468496762,25791
+3/17/20,Alameda,did not enter other counties,0.506249047,26244
+3/18/20,Alameda,did not enter other counties,0.58236715,20700
+3/19/20,Alameda,did not enter other counties,0.589350486,20677
+3/20/20,Alameda,did not enter other counties,0.572129909,18536
+3/21/20,Alameda,did not enter other counties,0.587993843,13643
+3/22/20,Alameda,did not enter other counties,0.662733447,11780
+3/23/20,Alameda,did not enter other counties,0.608501119,18327
+3/24/20,Alameda,did not enter other counties,0.611834445,18894
+3/25/20,Alameda,did not enter other counties,0.611517761,18580
+3/26/20,Alameda,did not enter other counties,0.607135362,19060
+3/27/20,Alameda,did not enter other counties,0.607599679,18685
+3/28/20,Alameda,did not enter other counties,0.614579874,18066
+3/29/20,Alameda,did not enter other counties,0.686273272,15845
+3/30/20,Alameda,did not enter other counties,0.620733395,17344
+3/31/20,Alameda,did not enter other counties,0.610894097,18432
+3/2/20,Alameda,Marin,0.032725422,5323
+3/3/20,Alameda,Marin,0.021213174,4422
+3/4/20,Alameda,Marin,0.023714967,4625
+3/5/20,Alameda,Marin,0.02252342,4670
+3/6/20,Alameda,Marin,0.024541271,4703
+3/7/20,Alameda,Marin,0.026672746,4675
+3/8/20,Alameda,Marin,0.030681477,4692
+3/9/20,Alameda,Marin,0.03141568,4946
+3/10/20,Alameda,Marin,0.023123304,4429
+3/11/20,Alameda,Marin,0.021395823,4389
+3/12/20,Alameda,Marin,0.023430835,4498
+3/13/20,Alameda,Marin,0.023206953,4202
+3/14/20,Alameda,Marin,0.024160361,4185
+3/15/20,Alameda,Marin,0.02321606,3431
+3/16/20,Alameda,Marin,0.025822962,3608
+3/17/20,Alameda,Marin,0.0202713,3332
+3/18/20,Alameda,Marin,0.017971014,2726
+3/19/20,Alameda,Marin,0.018329545,2623
+3/20/20,Alameda,Marin,0.018234786,2427
+3/21/20,Alameda,Marin,0.019057392,1774
+3/22/20,Alameda,Marin,0.022156197,1602
+3/23/20,Alameda,Marin,0.019915971,2635
+3/24/20,Alameda,Marin,0.017307082,2348
+3/25/20,Alameda,Marin,0.016200215,2333
+3/26/20,Alameda,Marin,0.016054565,2422
+3/27/20,Alameda,Marin,0.01605566,2375
+3/28/20,Alameda,Marin,0.017436068,2435
+3/29/20,Alameda,Marin,0.016598296,2115
+3/30/20,Alameda,Marin,0.016028598,2199
+3/31/20,Alameda,Marin,0.017361111,2362
+3/2/20,Alameda,Napa,0.040866608,5618
+3/3/20,Alameda,Napa,0.025062221,4344
+3/4/20,Alameda,Napa,0.024424146,4465
+3/5/20,Alameda,Napa,0.025029186,4431
+3/6/20,Alameda,Napa,0.028432654,4632
+3/7/20,Alameda,Napa,0.035478172,4911
+3/8/20,Alameda,Napa,0.038787151,4886
+3/9/20,Alameda,Napa,0.042639594,5357
+3/10/20,Alameda,Napa,0.026409406,4326
+3/11/20,Alameda,Napa,0.025860777,4408
+3/12/20,Alameda,Napa,0.026112127,4509
+3/13/20,Alameda,Napa,0.025307994,4187
+3/14/20,Alameda,Napa,0.027943714,4198
+3/15/20,Alameda,Napa,0.029377857,3540
+3/16/20,Alameda,Napa,0.035477492,3790
+3/17/20,Alameda,Napa,0.028158817,3605
+3/18/20,Alameda,Napa,0.027777778,3227
+3/19/20,Alameda,Napa,0.025680708,3073
+3/20/20,Alameda,Napa,0.026111351,2794
+3/21/20,Alameda,Napa,0.019277285,1783
+3/22/20,Alameda,Napa,0.014516129,1390
+3/23/20,Alameda,Napa,0.021716593,2567
+3/24/20,Alameda,Napa,0.023711231,2625
+3/25/20,Alameda,Napa,0.022874058,2513
+3/26/20,Alameda,Napa,0.024763903,2674
+3/27/20,Alameda,Napa,0.023708857,2602
+3/28/20,Alameda,Napa,0.023358796,2509
+3/29/20,Alameda,Napa,0.015020511,2006
+3/30/20,Alameda,Napa,0.023523985,2441
+3/31/20,Alameda,Napa,0.0234375,2554
+3/2/20,Alameda,Sacramento,0.062130098,31896
+3/3/20,Alameda,Sacramento,0.028679748,31802
+3/4/20,Alameda,Sacramento,0.027572904,32037
+3/5/20,Alameda,Sacramento,0.028930209,32020
+3/6/20,Alameda,Sacramento,0.031926376,31919
+3/7/20,Alameda,Sacramento,0.054627835,30911
+3/8/20,Alameda,Sacramento,0.051876313,29682
+3/9/20,Alameda,Sacramento,0.06999436,30505
+3/10/20,Alameda,Sacramento,0.030931565,30514
+3/11/20,Alameda,Sacramento,0.031074885,30877
+3/12/20,Alameda,Sacramento,0.029646557,30800
+3/13/20,Alameda,Sacramento,0.029541909,29591
+3/14/20,Alameda,Sacramento,0.038995088,28442
+3/15/20,Alameda,Sacramento,0.03335321,25340
+3/16/20,Alameda,Sacramento,0.040905742,24923
+3/17/20,Alameda,Sacramento,0.031626276,26163
+3/18/20,Alameda,Sacramento,0.029806763,25300
+3/19/20,Alameda,Sacramento,0.027179958,24455
+3/20/20,Alameda,Sacramento,0.029024601,21986
+3/21/20,Alameda,Sacramento,0.030565125,15430
+3/22/20,Alameda,Sacramento,0.020967742,14583
+3/23/20,Alameda,Sacramento,0.026845638,21120
+3/24/20,Alameda,Sacramento,0.025193183,22005
+3/25/20,Alameda,Sacramento,0.026372443,21690
+3/26/20,Alameda,Sacramento,0.027649528,21929
+3/27/20,Alameda,Sacramento,0.027401659,21679
+3/28/20,Alameda,Sacramento,0.028340529,21263
+3/29/20,Alameda,Sacramento,0.016408962,19623
+3/30/20,Alameda,Sacramento,0.025426661,20294
+3/31/20,Alameda,Sacramento,0.025824653,21116
+3/2/20,Alameda,San Francisco,0.16330575,16571
+3/3/20,Alameda,San Francisco,0.150981073,15985
+3/4/20,Alameda,San Francisco,0.152587087,16288
+3/5/20,Alameda,San Francisco,0.155926991,16382
+3/6/20,Alameda,San Francisco,0.159177413,16379
+3/7/20,Alameda,San Francisco,0.157585775,15562
+3/8/20,Alameda,San Francisco,0.141669168,13832
+3/9/20,Alameda,San Francisco,0.15857304,15183
+3/10/20,Alameda,San Francisco,0.142930359,14509
+3/11/20,Alameda,San Francisco,0.144137125,14663
+3/12/20,Alameda,San Francisco,0.137446679,14190
+3/13/20,Alameda,San Francisco,0.132397415,13160
+3/14/20,Alameda,San Francisco,0.128302137,12460
+3/15/20,Alameda,San Francisco,0.106539455,9834
+3/16/20,Alameda,San Francisco,0.125121166,10610
+3/17/20,Alameda,San Francisco,0.11640756,10378
+3/18/20,Alameda,San Francisco,0.094589372,7831
+3/19/20,Alameda,San Francisco,0.093775693,7781
+3/20/20,Alameda,San Francisco,0.097917566,6948
+3/21/20,Alameda,San Francisco,0.09279484,5082
+3/22/20,Alameda,San Francisco,0.073599321,4329
+3/23/20,Alameda,San Francisco,0.086866372,7106
+3/24/20,Alameda,San Francisco,0.086059066,7003
+3/25/20,Alameda,San Francisco,0.087459634,6913
+3/26/20,Alameda,San Francisco,0.089034627,7084
+3/27/20,Alameda,San Francisco,0.085897779,6963
+3/28/20,Alameda,San Francisco,0.081921842,6671
+3/29/20,Alameda,San Francisco,0.066456295,5768
+3/30/20,Alameda,San Francisco,0.083198801,6327
+3/31/20,Alameda,San Francisco,0.085883247,6770
+3/2/20,Alameda,San Mateo,0.147291181,20335
+3/3/20,Alameda,San Mateo,0.127568444,19353
+3/4/20,Alameda,San Mateo,0.128928855,19617
+3/5/20,Alameda,San Mateo,0.129474074,19485
+3/6/20,Alameda,San Mateo,0.134749759,19563
+3/7/20,Alameda,San Mateo,0.138094153,18653
+3/8/20,Alameda,San Mateo,0.12455719,17357
+3/9/20,Alameda,San Mateo,0.142893401,18734
+3/10/20,Alameda,San Mateo,0.121706361,17728
+3/11/20,Alameda,San Mateo,0.118635941,17839
+3/12/20,Alameda,San Mateo,0.119530774,17749
+3/13/20,Alameda,San Mateo,0.118231306,16785
+3/14/20,Alameda,San Mateo,0.120071685,16170
+3/15/20,Alameda,San Mateo,0.104074737,13100
+3/16/20,Alameda,San Mateo,0.11504013,13538
+3/17/20,Alameda,San Mateo,0.105052583,13497
+3/18/20,Alameda,San Mateo,0.092077295,10477
+3/19/20,Alameda,San Mateo,0.088504135,10340
+3/20/20,Alameda,San Mateo,0.092360811,9120
+3/21/20,Alameda,San Mateo,0.088030492,6567
+3/22/20,Alameda,San Mateo,0.075042445,5735
+3/23/20,Alameda,San Mateo,0.079118241,9363
+3/24/20,Alameda,San Mateo,0.082618821,9294
+3/25/20,Alameda,San Mateo,0.082938644,9052
+3/26/20,Alameda,San Mateo,0.082686254,9331
+3/27/20,Alameda,San Mateo,0.079368477,9211
+3/28/20,Alameda,San Mateo,0.076884756,9004
+3/29/20,Alameda,San Mateo,0.06304828,8028
+3/30/20,Alameda,San Mateo,0.076971863,8548
+3/31/20,Alameda,San Mateo,0.081380208,9093
+3/2/20,Alameda,Santa Clara,0.213947136,34488
+3/3/20,Alameda,Santa Clara,0.176622099,34533
+3/4/20,Alameda,Santa Clara,0.179535913,35119
+3/5/20,Alameda,Santa Clara,0.177055155,34789
+3/6/20,Alameda,Santa Clara,0.182866557,34503
+3/7/20,Alameda,Santa Clara,0.188960447,32776
+3/8/20,Alameda,Santa Clara,0.195737016,31078
+3/9/20,Alameda,Santa Clara,0.215397631,32668
+3/10/20,Alameda,Santa Clara,0.171570696,32383
+3/11/20,Alameda,Santa Clara,0.164304336,32203
+3/12/20,Alameda,Santa Clara,0.162492383,31899
+3/13/20,Alameda,Santa Clara,0.159297106,30478
+3/14/20,Alameda,Santa Clara,0.162783752,29007
+3/15/20,Alameda,Santa Clara,0.146173723,24621
+3/16/20,Alameda,Santa Clara,0.16327401,24672
+3/17/20,Alameda,Santa Clara,0.146890718,25270
+3/18/20,Alameda,Santa Clara,0.117342995,20472
+3/19/20,Alameda,Santa Clara,0.116602989,20485
+3/20/20,Alameda,Santa Clara,0.12440656,18337
+3/21/20,Alameda,Santa Clara,0.119988272,13619
+3/22/20,Alameda,Santa Clara,0.095755518,12587
+3/23/20,Alameda,Santa Clara,0.105963878,18647
+3/24/20,Alameda,Santa Clara,0.107917858,19127
+3/25/20,Alameda,Santa Clara,0.110010764,18937
+3/26/20,Alameda,Santa Clara,0.110650577,18959
+3/27/20,Alameda,Santa Clara,0.113245919,19004
+3/28/20,Alameda,Santa Clara,0.106775158,18478
+3/29/20,Alameda,Santa Clara,0.084506153,17208
+3/30/20,Alameda,Santa Clara,0.101994926,17884
+3/31/20,Alameda,Santa Clara,0.109863281,18675
+3/2/20,Alameda,Solano,0.094427037,13192
+3/3/20,Alameda,Solano,0.059182728,10854
+3/4/20,Alameda,Solano,0.056876206,11018
+3/5/20,Alameda,Solano,0.058913978,11064
+3/6/20,Alameda,Solano,0.063398284,11230
+3/7/20,Alameda,Solano,0.084093241,11961
+3/8/20,Alameda,Solano,0.083968778,11968
+3/9/20,Alameda,Solano,0.09678511,12733
+3/10/20,Alameda,Solano,0.061621948,10732
+3/11/20,Alameda,Solano,0.059632615,10765
+3/12/20,Alameda,Solano,0.058988422,10848
+3/13/20,Alameda,Solano,0.059752332,10593
+3/14/20,Alameda,Solano,0.069162352,10615
+3/15/20,Alameda,Solano,0.062015504,9103
+3/16/20,Alameda,Solano,0.076150595,9433
+3/17/20,Alameda,Solano,0.062071331,9176
+3/18/20,Alameda,Solano,0.060338164,8559
+3/19/20,Alameda,Solano,0.056294433,8189
+3/20/20,Alameda,Solano,0.060962451,7346
+3/21/20,Alameda,Solano,0.062669501,5428
+3/22/20,Alameda,Solano,0.046689304,4684
+3/23/20,Alameda,Solano,0.051454139,7267
+3/24/20,Alameda,Solano,0.052080025,7246
+3/25/20,Alameda,Solano,0.051076426,7178
+3/26/20,Alameda,Solano,0.052833158,7298
+3/27/20,Alameda,Solano,0.051966818,7286
+3/28/20,Alameda,Solano,0.052363556,7097
+3/29/20,Alameda,Solano,0.034395708,6177
+3/30/20,Alameda,Solano,0.050853321,6765
+3/31/20,Alameda,Solano,0.050998264,7101
+3/2/20,Alameda,Sonoma,0.017674942,7868
+3/3/20,Alameda,Sonoma,0.009781791,7174
+3/4/20,Alameda,Sonoma,0.010609327,7420
+3/5/20,Alameda,Sonoma,0.009595945,7354
+3/6/20,Alameda,Sonoma,0.011304891,7344
+3/7/20,Alameda,Sonoma,0.01402029,7309
+3/8/20,Alameda,Sonoma,0.015821075,7367
+3/9/20,Alameda,Sonoma,0.01748449,7460
+3/10/20,Alameda,Sonoma,0.010762737,7146
+3/11/20,Alameda,Sonoma,0.010637979,7207
+3/12/20,Alameda,Sonoma,0.011060329,7241
+3/13/20,Alameda,Sonoma,0.011937733,7005
+3/14/20,Alameda,Sonoma,0.012511616,6800
+3/15/20,Alameda,Sonoma,0.012721129,5962
+3/16/20,Alameda,Sonoma,0.015470513,5836
+3/17/20,Alameda,Sonoma,0.010631001,5812
+3/18/20,Alameda,Sonoma,0.011256039,5393
+3/19/20,Alameda,Sonoma,0.010833293,4896
+3/20/20,Alameda,Sonoma,0.010789814,4539
+3/21/20,Alameda,Sonoma,0.010261673,3348
+3/22/20,Alameda,Sonoma,0.011120543,3172
+3/23/20,Alameda,Sonoma,0.009439625,4872
+3/24/20,Alameda,Sonoma,0.009473907,4914
+3/25/20,Alameda,Sonoma,0.009041981,4735
+3/26/20,Alameda,Sonoma,0.008079748,4797
+3/27/20,Alameda,Sonoma,0.008777094,4781
+3/28/20,Alameda,Sonoma,0.009852762,4806
+3/29/20,Alameda,Sonoma,0.00814137,4300
+3/30/20,Alameda,Sonoma,0.007783672,4420
+3/31/20,Alameda,Sonoma,0.00906033,4618
+3/2/20,Contra Costa,Alameda,0.505770917,37341
+3/3/20,Contra Costa,Alameda,0.437750385,34554
+3/4/20,Contra Costa,Alameda,0.444125966,35252
+3/5/20,Contra Costa,Alameda,0.442849548,35119
+3/6/20,Contra Costa,Alameda,0.451499185,35206
+3/7/20,Contra Costa,Alameda,0.47653484,35092
+3/8/20,Contra Costa,Alameda,0.472216859,33310
+3/9/20,Contra Costa,Alameda,0.502016573,35460
+3/10/20,Contra Costa,Alameda,0.431971848,33170
+3/11/20,Contra Costa,Alameda,0.43196747,33371
+3/12/20,Contra Costa,Alameda,0.424465241,32820
+3/13/20,Contra Costa,Alameda,0.415837952,31413
+3/14/20,Contra Costa,Alameda,0.421164862,30132
+3/15/20,Contra Costa,Alameda,0.372384529,25155
+3/16/20,Contra Costa,Alameda,0.407932285,25791
+3/17/20,Contra Costa,Alameda,0.387270766,26244
+3/18/20,Contra Costa,Alameda,0.322937746,20700
+3/19/20,Contra Costa,Alameda,0.313611916,20677
+3/20/20,Contra Costa,Alameda,0.326227686,18536
+3/21/20,Contra Costa,Alameda,0.320469198,13643
+3/22/20,Contra Costa,Alameda,0.255223881,11780
+3/23/20,Contra Costa,Alameda,0.292994436,18327
+3/24/20,Contra Costa,Alameda,0.29520816,18894
+3/25/20,Contra Costa,Alameda,0.288822498,18580
+3/26/20,Contra Costa,Alameda,0.295548097,19060
+3/27/20,Contra Costa,Alameda,0.291805378,18685
+3/28/20,Contra Costa,Alameda,0.290684914,18066
+3/29/20,Contra Costa,Alameda,0.234652313,15845
+3/30/20,Contra Costa,Alameda,0.28676969,17344
+3/31/20,Contra Costa,Alameda,0.294815295,18432
+3/2/20,Contra Costa,did not enter other counties,0.397649535,28505
+3/3/20,Contra Costa,did not enter other counties,0.4846302,25960
+3/4/20,Contra Costa,did not enter other counties,0.474259853,26515
+3/5/20,Contra Costa,did not enter other counties,0.475772765,26334
+3/6/20,Contra Costa,did not enter other counties,0.471058717,26381
+3/7/20,Contra Costa,did not enter other counties,0.4373258,26550
+3/8/20,Contra Costa,did not enter other counties,0.437965788,25897
+3/9/20,Contra Costa,did not enter other counties,0.398841387,27274
+3/10/20,Contra Costa,did not enter other counties,0.49029299,25291
+3/11/20,Contra Costa,did not enter other counties,0.488113857,25576
+3/12/20,Contra Costa,did not enter other counties,0.494849009,25432
+3/13/20,Contra Costa,did not enter other counties,0.502119335,24536
+3/14/20,Contra Costa,did not enter other counties,0.493163858,23917
+3/15/20,Contra Costa,did not enter other counties,0.554991952,20503
+3/16/20,Contra Costa,did not enter other counties,0.504232164,20675
+3/17/20,Contra Costa,did not enter other counties,0.535059331,20394
+3/18/20,Contra Costa,did not enter other counties,0.598857279,16802
+3/19/20,Contra Costa,did not enter other counties,0.611147231,16919
+3/20/20,Contra Costa,did not enter other counties,0.595566599,15293
+3/21/20,Contra Costa,did not enter other counties,0.597510745,11168
+3/22/20,Contra Costa,did not enter other counties,0.680597015,10050
+3/23/20,Contra Costa,did not enter other counties,0.640617097,15816
+3/24/20,Contra Costa,did not enter other counties,0.638655462,15589
+3/25/20,Contra Costa,did not enter other counties,0.642787556,15397
+3/26/20,Contra Costa,did not enter other counties,0.634601989,15791
+3/27/20,Contra Costa,did not enter other counties,0.639116517,15620
+3/28/20,Contra Costa,did not enter other counties,0.641598347,15491
+3/29/20,Contra Costa,did not enter other counties,0.711448938,13748
+3/30/20,Contra Costa,did not enter other counties,0.646875424,14754
+3/31/20,Contra Costa,did not enter other counties,0.635580039,15430
+3/2/20,Contra Costa,Marin,0.050271882,5323
+3/3/20,Contra Costa,Marin,0.03751926,4422
+3/4/20,Contra Costa,Marin,0.041636809,4625
+3/5/20,Contra Costa,Marin,0.039986329,4670
+3/6/20,Contra Costa,Marin,0.041886206,4703
+3/7/20,Contra Costa,Marin,0.044180791,4675
+3/8/20,Contra Costa,Marin,0.044136386,4692
+3/9/20,Contra Costa,Marin,0.047701107,4946
+3/10/20,Contra Costa,Marin,0.039697916,4429
+3/11/20,Contra Costa,Marin,0.038356272,4389
+3/12/20,Contra Costa,Marin,0.039674426,4498
+3/13/20,Contra Costa,Marin,0.039044669,4202
+3/14/20,Contra Costa,Marin,0.040431492,4185
+3/15/20,Contra Costa,Marin,0.035799639,3431
+3/16/20,Contra Costa,Marin,0.038307134,3608
+3/17/20,Contra Costa,Marin,0.034716093,3332
+3/18/20,Contra Costa,Marin,0.031186763,2726
+3/19/20,Contra Costa,Marin,0.030793782,2623
+3/20/20,Contra Costa,Marin,0.031125351,2427
+3/21/20,Contra Costa,Marin,0.033040831,1774
+3/22/20,Contra Costa,Marin,0.029950249,1602
+3/23/20,Contra Costa,Marin,0.029147699,2635
+3/24/20,Contra Costa,Marin,0.028738213,2348
+3/25/20,Contra Costa,Marin,0.027732675,2333
+3/26/20,Contra Costa,Marin,0.028940536,2422
+3/27/20,Contra Costa,Marin,0.026632522,2375
+3/28/20,Contra Costa,Marin,0.02930734,2435
+3/29/20,Contra Costa,Marin,0.024003491,2115
+3/30/20,Contra Costa,Marin,0.026162397,2199
+3/31/20,Contra Costa,Marin,0.029228775,2362
+3/2/20,Contra Costa,Napa,0.07556569,5618
+3/3/20,Contra Costa,Napa,0.049422188,4344
+3/4/20,Contra Costa,Napa,0.049745427,4465
+3/5/20,Contra Costa,Napa,0.049631655,4431
+3/6/20,Contra Costa,Napa,0.054850082,4632
+3/7/20,Contra Costa,Napa,0.065461394,4911
+3/8/20,Contra Costa,Napa,0.071359617,4886
+3/9/20,Contra Costa,Napa,0.076923077,5357
+3/10/20,Contra Costa,Napa,0.0521134,4326
+3/11/20,Contra Costa,Napa,0.051806381,4408
+3/12/20,Contra Costa,Napa,0.051824473,4509
+3/13/20,Contra Costa,Napa,0.049274535,4187
+3/14/20,Contra Costa,Napa,0.051553288,4198
+3/15/20,Contra Costa,Napa,0.052089938,3540
+3/16/20,Contra Costa,Napa,0.063555018,3790
+3/17/20,Contra Costa,Napa,0.052662548,3605
+3/18/20,Contra Costa,Napa,0.050589216,3227
+3/19/20,Contra Costa,Napa,0.046752172,3073
+3/20/20,Contra Costa,Napa,0.048257373,2794
+3/21/20,Contra Costa,Napa,0.03590616,1783
+3/22/20,Contra Costa,Napa,0.027064677,1390
+3/23/20,Contra Costa,Napa,0.039896308,2567
+3/24/20,Contra Costa,Napa,0.043171467,2625
+3/25/20,Contra Costa,Napa,0.04325518,2513
+3/26/20,Contra Costa,Napa,0.045342284,2674
+3/27/20,Contra Costa,Napa,0.041805378,2602
+3/28/20,Contra Costa,Napa,0.039700471,2509
+3/29/20,Contra Costa,Napa,0.028367763,2006
+3/30/20,Contra Costa,Napa,0.04134472,2441
+3/31/20,Contra Costa,Napa,0.042384964,2554
+3/2/20,Contra Costa,Sacramento,0.087738993,31896
+3/3/20,Contra Costa,Sacramento,0.048228043,31802
+3/4/20,Contra Costa,Sacramento,0.047293985,32037
+3/5/20,Contra Costa,Sacramento,0.046859573,32020
+3/6/20,Contra Costa,Sacramento,0.050187635,31919
+3/7/20,Contra Costa,Sacramento,0.077062147,30911
+3/8/20,Contra Costa,Sacramento,0.074526007,29682
+3/9/20,Contra Costa,Sacramento,0.09507223,30505
+3/10/20,Contra Costa,Sacramento,0.047843106,30514
+3/11/20,Contra Costa,Sacramento,0.048834845,30877
+3/12/20,Contra Costa,Sacramento,0.046791444,30800
+3/13/20,Contra Costa,Sacramento,0.045076622,29591
+3/14/20,Contra Costa,Sacramento,0.056403395,28442
+3/15/20,Contra Costa,Sacramento,0.046285909,25340
+3/16/20,Contra Costa,Sacramento,0.057750907,24923
+3/17/20,Contra Costa,Sacramento,0.048788859,26163
+3/18/20,Contra Costa,Sacramento,0.046065945,25300
+3/19/20,Contra Costa,Sacramento,0.042378391,24455
+3/20/20,Contra Costa,Sacramento,0.043091611,21986
+3/21/20,Contra Costa,Sacramento,0.048800143,15430
+3/22/20,Contra Costa,Sacramento,0.034527363,14583
+3/23/20,Contra Costa,Sacramento,0.03698786,21120
+3/24/20,Contra Costa,Sacramento,0.038232087,22005
+3/25/20,Contra Costa,Sacramento,0.037734624,21690
+3/26/20,Contra Costa,Sacramento,0.041669305,21929
+3/27/20,Contra Costa,Sacramento,0.04078105,21679
+3/28/20,Contra Costa,Sacramento,0.04092699,21263
+3/29/20,Contra Costa,Sacramento,0.025530986,19623
+3/30/20,Contra Costa,Sacramento,0.038701369,20294
+3/31/20,Contra Costa,Sacramento,0.038302009,21116
+3/2/20,Contra Costa,San Francisco,0.131801438,16571
+3/3/20,Contra Costa,San Francisco,0.111402157,15985
+3/4/20,Contra Costa,San Francisco,0.113558363,16288
+3/5/20,Contra Costa,San Francisco,0.11559201,16382
+3/6/20,Contra Costa,San Francisco,0.120579205,16379
+3/7/20,Contra Costa,San Francisco,0.124934087,15562
+3/8/20,Contra Costa,San Francisco,0.109703827,13832
+3/9/20,Contra Costa,San Francisco,0.129940603,15183
+3/10/20,Contra Costa,San Francisco,0.104938516,14509
+3/11/20,Contra Costa,San Francisco,0.106467,14663
+3/12/20,Contra Costa,San Francisco,0.101604278,14190
+3/13/20,Contra Costa,San Francisco,0.099404956,13160
+3/14/20,Contra Costa,San Francisco,0.1002216,12460
+3/15/20,Contra Costa,San Francisco,0.080134614,9834
+3/16/20,Contra Costa,San Francisco,0.098814994,10610
+3/17/20,Contra Costa,San Francisco,0.088212219,10378
+3/18/20,Contra Costa,San Francisco,0.07213427,7831
+3/19/20,Contra Costa,San Francisco,0.070926178,7781
+3/20/20,Contra Costa,San Francisco,0.074870856,6948
+3/21/20,Contra Costa,San Francisco,0.073603152,5082
+3/22/20,Contra Costa,San Francisco,0.05641791,4329
+3/23/20,Contra Costa,San Francisco,0.065376834,7106
+3/24/20,Contra Costa,San Francisco,0.063698762,7003
+3/25/20,Contra Costa,San Francisco,0.063908554,6913
+3/26/20,Contra Costa,San Francisco,0.067316826,7084
+3/27/20,Contra Costa,San Francisco,0.062740077,6963
+3/28/20,Contra Costa,San Francisco,0.062036021,6671
+3/29/20,Contra Costa,San Francisco,0.046479488,5768
+3/30/20,Contra Costa,San Francisco,0.063440423,6327
+3/31/20,Contra Costa,San Francisco,0.062929358,6770
+3/2/20,Contra Costa,San Mateo,0.079705315,20335
+3/3/20,Contra Costa,San Mateo,0.057627119,19353
+3/4/20,Contra Costa,San Mateo,0.058608335,19617
+3/5/20,Contra Costa,San Mateo,0.059011164,19485
+3/6/20,Contra Costa,San Mateo,0.064971002,19563
+3/7/20,Contra Costa,San Mateo,0.071826742,18653
+3/8/20,Contra Costa,San Mateo,0.070471483,17357
+3/9/20,Contra Costa,San Mateo,0.078939649,18734
+3/10/20,Contra Costa,San Mateo,0.054999802,17728
+3/11/20,Contra Costa,San Mateo,0.053995934,17839
+3/12/20,Contra Costa,San Mateo,0.053947782,17749
+3/13/20,Contra Costa,San Mateo,0.054206065,16785
+3/14/20,Contra Costa,San Mateo,0.061964293,16170
+3/15/20,Contra Costa,San Mateo,0.052577672,13100
+3/16/20,Contra Costa,San Mateo,0.060798065,13538
+3/17/20,Contra Costa,San Mateo,0.048837894,13497
+3/18/20,Contra Costa,San Mateo,0.043566242,10477
+3/19/20,Contra Costa,San Mateo,0.040900762,10340
+3/20/20,Contra Costa,San Mateo,0.045576408,9120
+3/21/20,Contra Costa,San Mateo,0.046024355,6567
+3/22/20,Contra Costa,San Mateo,0.03800995,5735
+3/23/20,Contra Costa,San Mateo,0.036165908,9363
+3/24/20,Contra Costa,San Mateo,0.037013279,9294
+3/25/20,Contra Costa,San Mateo,0.03585114,9052
+3/26/20,Contra Costa,San Mateo,0.036856437,9331
+3/27/20,Contra Costa,San Mateo,0.034507042,9211
+3/28/20,Contra Costa,San Mateo,0.035117165,9004
+3/29/20,Contra Costa,San Mateo,0.028513238,8028
+3/30/20,Contra Costa,San Mateo,0.035176901,8548
+3/31/20,Contra Costa,San Mateo,0.036098509,9093
+3/2/20,Contra Costa,Santa Clara,0.081564638,34488
+3/3/20,Contra Costa,Santa Clara,0.048998459,34533
+3/4/20,Contra Costa,Santa Clara,0.051103149,35119
+3/5/20,Contra Costa,Santa Clara,0.049289891,34789
+3/6/20,Contra Costa,Santa Clara,0.055873545,34503
+3/7/20,Contra Costa,Santa Clara,0.066440678,32776
+3/8/20,Contra Costa,Santa Clara,0.076572576,31078
+3/9/20,Contra Costa,Santa Clara,0.083926083,32668
+3/10/20,Contra Costa,Santa Clara,0.051203986,32383
+3/11/20,Contra Costa,Santa Clara,0.045706913,32203
+3/12/20,Contra Costa,Santa Clara,0.044550173,31899
+3/13/20,Contra Costa,Santa Clara,0.043487121,30478
+3/14/20,Contra Costa,Santa Clara,0.048584689,29007
+3/15/20,Contra Costa,Santa Clara,0.04731015,24621
+3/16/20,Contra Costa,Santa Clara,0.05407497,24672
+3/17/20,Contra Costa,Santa Clara,0.043297048,25270
+3/18/20,Contra Costa,Santa Clara,0.035233901,20472
+3/19/20,Contra Costa,Santa Clara,0.033039778,20485
+3/20/20,Contra Costa,Santa Clara,0.037991238,18337
+3/21/20,Contra Costa,Santa Clara,0.040025072,13619
+3/22/20,Contra Costa,Santa Clara,0.034726368,12587
+3/23/20,Contra Costa,Santa Clara,0.02977997,18647
+3/24/20,Contra Costa,Santa Clara,0.029572134,19127
+3/25/20,Contra Costa,Santa Clara,0.030655322,18937
+3/26/20,Contra Costa,Santa Clara,0.030397062,18959
+3/27/20,Contra Costa,Santa Clara,0.029705506,19004
+3/28/20,Contra Costa,Santa Clara,0.028726357,18478
+3/29/20,Contra Costa,Santa Clara,0.023057899,17208
+3/30/20,Contra Costa,Santa Clara,0.028670191,17884
+3/31/20,Contra Costa,Santa Clara,0.031497084,18675
+3/2/20,Contra Costa,Solano,0.196562007,13192
+3/3/20,Contra Costa,Solano,0.137788906,10854
+3/4/20,Contra Costa,Solano,0.138449934,11018
+3/5/20,Contra Costa,Solano,0.14027493,11064
+3/6/20,Contra Costa,Solano,0.14415678,11230
+3/7/20,Contra Costa,Solano,0.17487759,11961
+3/8/20,Contra Costa,Solano,0.177935668,11968
+3/9/20,Contra Costa,Solano,0.200227323,12733
+3/10/20,Contra Costa,Solano,0.141038314,10732
+3/11/20,Contra Costa,Solano,0.138958399,10765
+3/12/20,Contra Costa,Solano,0.137779176,10848
+3/13/20,Contra Costa,Solano,0.138449625,10593
+3/14/20,Contra Costa,Solano,0.151440398,10615
+3/15/20,Contra Costa,Solano,0.130371165,9103
+3/16/20,Contra Costa,Solano,0.158500605,9433
+3/17/20,Contra Costa,Solano,0.139501814,9176
+3/18/20,Contra Costa,Solano,0.135162481,8559
+3/19/20,Contra Costa,Solano,0.127076068,8189
+3/20/20,Contra Costa,Solano,0.13162885,7346
+3/21/20,Contra Costa,Solano,0.135476361,5428
+3/22/20,Contra Costa,Solano,0.102089552,4684
+3/23/20,Contra Costa,Solano,0.110963581,7267
+3/24/20,Contra Costa,Solano,0.113669895,7246
+3/25/20,Contra Costa,Solano,0.113333766,7178
+3/26/20,Contra Costa,Solano,0.115952125,7298
+3/27/20,Contra Costa,Solano,0.115044814,7286
+3/28/20,Contra Costa,Solano,0.110128462,7097
+3/29/20,Contra Costa,Solano,0.080811754,6177
+3/30/20,Contra Costa,Solano,0.108919615,6765
+3/31/20,Contra Costa,Solano,0.115683733,7101
+3/2/20,Contra Costa,Sonoma,0.029608841,7868
+3/3/20,Contra Costa,Sonoma,0.017758089,7174
+3/4/20,Contra Costa,Sonoma,0.019573826,7420
+3/5/20,Contra Costa,Sonoma,0.018645098,7354
+3/6/20,Contra Costa,Sonoma,0.01986278,7344
+3/7/20,Contra Costa,Sonoma,0.023088512,7309
+3/8/20,Contra Costa,Sonoma,0.025948952,7367
+3/9/20,Contra Costa,Sonoma,0.027902031,7460
+3/10/20,Contra Costa,Sonoma,0.019097703,7146
+3/11/20,Contra Costa,Sonoma,0.019158586,7207
+3/12/20,Contra Costa,Sonoma,0.01962095,7241
+3/13/20,Contra Costa,Sonoma,0.019481578,7005
+3/14/20,Contra Costa,Sonoma,0.020529331,6800
+3/15/20,Contra Costa,Sonoma,0.02009462,5962
+3/16/20,Contra Costa,Sonoma,0.023168077,5836
+3/17/20,Contra Costa,Sonoma,0.018927135,5812
+3/18/20,Contra Costa,Sonoma,0.019402452,5393
+3/19/20,Contra Costa,Sonoma,0.01779065,4896
+3/20/20,Contra Costa,Sonoma,0.017851305,4539
+3/21/20,Contra Costa,Sonoma,0.016923352,3348
+3/22/20,Contra Costa,Sonoma,0.016019901,3172
+3/23/20,Contra Costa,Sonoma,0.015680324,4872
+3/24/20,Contra Costa,Sonoma,0.015908654,4914
+3/25/20,Contra Costa,Sonoma,0.016431772,4735
+3/26/20,Contra Costa,Sonoma,0.015135204,4797
+3/27/20,Contra Costa,Sonoma,0.014020487,4781
+3/28/20,Contra Costa,Sonoma,0.01465367,4806
+3/29/20,Contra Costa,Sonoma,0.012510911,4300
+3/30/20,Contra Costa,Sonoma,0.012877864,4420
+3/31/20,Contra Costa,Sonoma,0.015424498,4618
+3/2/20,Marin,Alameda,0.229569792,37341
+3/3/20,Marin,Alameda,0.165762099,34554
+3/4/20,Marin,Alameda,0.180756757,35252
+3/5/20,Marin,Alameda,0.169379015,35119
+3/6/20,Marin,Alameda,0.183712524,35206
+3/7/20,Marin,Alameda,0.200213904,35092
+3/8/20,Marin,Alameda,0.217817562,33310
+3/9/20,Marin,Alameda,0.225232511,35460
+3/10/20,Marin,Alameda,0.173176789,33170
+3/11/20,Marin,Alameda,0.162679426,33371
+3/12/20,Marin,Alameda,0.170964873,32820
+3/13/20,Marin,Alameda,0.173488815,31413
+3/14/20,Marin,Alameda,0.1739546,30132
+3/15/20,Marin,Alameda,0.170212766,25155
+3/16/20,Marin,Alameda,0.1845898,25791
+3/17/20,Marin,Alameda,0.159663866,26244
+3/18/20,Marin,Alameda,0.136463683,20700
+3/19/20,Marin,Alameda,0.144491041,20677
+3/20/20,Marin,Alameda,0.139266584,18536
+3/21/20,Marin,Alameda,0.146561443,13643
+3/22/20,Marin,Alameda,0.162921348,11780
+3/23/20,Marin,Alameda,0.138519924,18327
+3/24/20,Marin,Alameda,0.139267462,18894
+3/25/20,Marin,Alameda,0.129018431,18580
+3/26/20,Marin,Alameda,0.126341866,19060
+3/27/20,Marin,Alameda,0.12631579,18685
+3/28/20,Marin,Alameda,0.12936345,18066
+3/29/20,Marin,Alameda,0.124349882,15845
+3/30/20,Marin,Alameda,0.126421101,17344
+3/31/20,Marin,Alameda,0.135478408,18432
+3/2/20,Marin,Contra Costa,0.269209093,28505
+3/3/20,Marin,Contra Costa,0.220262325,25960
+3/4/20,Marin,Contra Costa,0.238702703,26515
+3/5/20,Marin,Contra Costa,0.225481799,26334
+3/6/20,Marin,Contra Costa,0.234956411,26381
+3/7/20,Marin,Contra Costa,0.250909091,26550
+3/8/20,Marin,Contra Costa,0.243606138,25897
+3/9/20,Marin,Contra Costa,0.263040841,27274
+3/10/20,Marin,Contra Costa,0.22668774,25291
+3/11/20,Marin,Contra Costa,0.223513329,25576
+3/12/20,Marin,Contra Costa,0.224321921,25432
+3/13/20,Marin,Contra Costa,0.227986673,24536
+3/14/20,Marin,Contra Costa,0.231063321,23917
+3/15/20,Marin,Contra Costa,0.213931798,20503
+3/16/20,Marin,Contra Costa,0.219512195,20675
+3/17/20,Marin,Contra Costa,0.212484994,20394
+3/18/20,Marin,Contra Costa,0.192223037,16802
+3/19/20,Marin,Contra Costa,0.198627526,16919
+3/20/20,Marin,Contra Costa,0.196126906,15293
+3/21/20,Marin,Contra Costa,0.20800451,11168
+3/22/20,Marin,Contra Costa,0.187890137,10050
+3/23/20,Marin,Contra Costa,0.174952562,15816
+3/24/20,Marin,Contra Costa,0.190800681,15589
+3/25/20,Marin,Contra Costa,0.183026147,15397
+3/26/20,Marin,Contra Costa,0.188687036,15791
+3/27/20,Marin,Contra Costa,0.175157895,15620
+3/28/20,Marin,Contra Costa,0.186447639,15491
+3/29/20,Marin,Contra Costa,0.156028369,13748
+3/30/20,Marin,Contra Costa,0.175534334,14754
+3/31/20,Marin,Contra Costa,0.190939882,15430
+3/2/20,Marin,did not enter other counties,0.287056171,5323
+3/3/20,Marin,did not enter other counties,0.372682044,4422
+3/4/20,Marin,did not enter other counties,0.354378378,4625
+3/5/20,Marin,did not enter other counties,0.357173448,4670
+3/6/20,Marin,did not enter other counties,0.347437806,4703
+3/7/20,Marin,did not enter other counties,0.334117647,4675
+3/8/20,Marin,did not enter other counties,0.330988917,4692
+3/9/20,Marin,did not enter other counties,0.302668823,4946
+3/10/20,Marin,did not enter other counties,0.378414992,4429
+3/11/20,Marin,did not enter other counties,0.381635908,4389
+3/12/20,Marin,did not enter other counties,0.379946643,4498
+3/13/20,Marin,did not enter other counties,0.390052356,4202
+3/14/20,Marin,did not enter other counties,0.381600956,4185
+3/15/20,Marin,did not enter other counties,0.435733022,3431
+3/16/20,Marin,did not enter other counties,0.385254989,3608
+3/17/20,Marin,did not enter other counties,0.429171669,3332
+3/18/20,Marin,did not enter other counties,0.47432135,2726
+3/19/20,Marin,did not enter other counties,0.497140679,2623
+3/20/20,Marin,did not enter other counties,0.482076638,2427
+3/21/20,Marin,did not enter other counties,0.453213078,1774
+3/22/20,Marin,did not enter other counties,0.465667915,1602
+3/23/20,Marin,did not enter other counties,0.478557875,2635
+3/24/20,Marin,did not enter other counties,0.496592845,2348
+3/25/20,Marin,did not enter other counties,0.507501072,2333
+3/26/20,Marin,did not enter other counties,0.516928159,2422
+3/27/20,Marin,did not enter other counties,0.512421053,2375
+3/28/20,Marin,did not enter other counties,0.510882957,2435
+3/29/20,Marin,did not enter other counties,0.586761229,2115
+3/30/20,Marin,did not enter other counties,0.523874488,2199
+3/31/20,Marin,did not enter other counties,0.50592718,2362
+3/2/20,Marin,Napa,0.103700921,5618
+3/3/20,Marin,Napa,0.074626866,4344
+3/4/20,Marin,Napa,0.085621622,4465
+3/5/20,Marin,Napa,0.07751606,4431
+3/6/20,Marin,Napa,0.09036785,4632
+3/7/20,Marin,Napa,0.09026738,4911
+3/8/20,Marin,Napa,0.091432225,4886
+3/9/20,Marin,Napa,0.102304893,5357
+3/10/20,Marin,Napa,0.083314518,4326
+3/11/20,Marin,Napa,0.08498519,4408
+3/12/20,Marin,Napa,0.081147177,4509
+3/13/20,Marin,Napa,0.078058068,4187
+3/14/20,Marin,Napa,0.087455197,4198
+3/15/20,Marin,Napa,0.074322355,3540
+3/16/20,Marin,Napa,0.078713969,3790
+3/17/20,Marin,Napa,0.078631453,3605
+3/18/20,Marin,Napa,0.091342627,3227
+3/19/20,Marin,Napa,0.078536027,3073
+3/20/20,Marin,Napa,0.076637824,2794
+3/21/20,Marin,Napa,0.067643743,1783
+3/22/20,Marin,Napa,0.056179775,1390
+3/23/20,Marin,Napa,0.068690702,2567
+3/24/20,Marin,Napa,0.080494037,2625
+3/25/20,Marin,Napa,0.082297471,2513
+3/26/20,Marin,Napa,0.078447564,2674
+3/27/20,Marin,Napa,0.077052632,2602
+3/28/20,Marin,Napa,0.07063655,2509
+3/29/20,Marin,Napa,0.057210402,2006
+3/30/20,Marin,Napa,0.076853115,2441
+3/31/20,Marin,Napa,0.072819644,2554
+3/2/20,Marin,Sacramento,0.0584257,31896
+3/3/20,Marin,Sacramento,0.023066486,31802
+3/4/20,Marin,Sacramento,0.028756757,32037
+3/5/20,Marin,Sacramento,0.024411135,32020
+3/6/20,Marin,Sacramento,0.034020838,31919
+3/7/20,Marin,Sacramento,0.042352941,30911
+3/8/20,Marin,Sacramento,0.043052003,29682
+3/9/20,Marin,Sacramento,0.052972099,30505
+3/10/20,Marin,Sacramento,0.028900429,30514
+3/11/20,Marin,Sacramento,0.025290499,30877
+3/12/20,Marin,Sacramento,0.025122277,30800
+3/13/20,Marin,Sacramento,0.030461685,29591
+3/14/20,Marin,Sacramento,0.034886499,28442
+3/15/20,Marin,Sacramento,0.026231419,25340
+3/16/20,Marin,Sacramento,0.027439024,24923
+3/17/20,Marin,Sacramento,0.027010804,26163
+3/18/20,Marin,Sacramento,0.032281731,25300
+3/19/20,Marin,Sacramento,0.028974457,24455
+3/20/20,Marin,Sacramento,0.023897816,21986
+3/21/20,Marin,Sacramento,0.03156708,15430
+3/22/20,Marin,Sacramento,0.026841448,14583
+3/23/20,Marin,Sacramento,0.033396584,21120
+3/24/20,Marin,Sacramento,0.022572402,22005
+3/25/20,Marin,Sacramento,0.030004286,21690
+3/26/20,Marin,Sacramento,0.023947151,21929
+3/27/20,Marin,Sacramento,0.027789474,21679
+3/28/20,Marin,Sacramento,0.022587269,21263
+3/29/20,Marin,Sacramento,0.015602837,19623
+3/30/20,Marin,Sacramento,0.022282856,20294
+3/31/20,Marin,Sacramento,0.026672312,21116
+3/2/20,Marin,San Francisco,0.34022168,16571
+3/3/20,Marin,San Francisco,0.291723202,15985
+3/4/20,Marin,San Francisco,0.302054054,16288
+3/5/20,Marin,San Francisco,0.311991435,16382
+3/6/20,Marin,San Francisco,0.322985329,16379
+3/7/20,Marin,San Francisco,0.311229947,15562
+3/8/20,Marin,San Francisco,0.30370844,13832
+3/9/20,Marin,San Francisco,0.318641326,15183
+3/10/20,Marin,San Francisco,0.28358546,14509
+3/11/20,Marin,San Francisco,0.264524949,14663
+3/12/20,Marin,San Francisco,0.271898622,14190
+3/13/20,Marin,San Francisco,0.259638268,13160
+3/14/20,Marin,San Francisco,0.267383513,12460
+3/15/20,Marin,San Francisco,0.231419411,9834
+3/16/20,Marin,San Francisco,0.247228381,10610
+3/17/20,Marin,San Francisco,0.220588235,10378
+3/18/20,Marin,San Francisco,0.174981658,7831
+3/19/20,Marin,San Francisco,0.167746855,7781
+3/20/20,Marin,San Francisco,0.166460651,6948
+3/21/20,Marin,San Francisco,0.191657272,5082
+3/22/20,Marin,San Francisco,0.194132335,4329
+3/23/20,Marin,San Francisco,0.199620493,7106
+3/24/20,Marin,San Francisco,0.156729131,7003
+3/25/20,Marin,San Francisco,0.150021432,6913
+3/26/20,Marin,San Francisco,0.153179191,7084
+3/27/20,Marin,San Francisco,0.163789474,6963
+3/28/20,Marin,San Francisco,0.163449692,6671
+3/29/20,Marin,San Francisco,0.154609929,5768
+3/30/20,Marin,San Francisco,0.157344247,6327
+3/31/20,Marin,San Francisco,0.16934801,6770
+3/2/20,Marin,San Mateo,0.147473229,20335
+3/3/20,Marin,San Mateo,0.092492085,19353
+3/4/20,Marin,San Mateo,0.103567568,19617
+3/5/20,Marin,San Mateo,0.111134904,19485
+3/6/20,Marin,San Mateo,0.119285562,19563
+3/7/20,Marin,San Mateo,0.118930481,18653
+3/8/20,Marin,San Mateo,0.135549872,17357
+3/9/20,Marin,San Mateo,0.138697938,18734
+3/10/20,Marin,San Mateo,0.100022579,17728
+3/11/20,Marin,San Mateo,0.082934609,17839
+3/12/20,Marin,San Mateo,0.093374833,17749
+3/13/20,Marin,San Mateo,0.094716802,16785
+3/14/20,Marin,San Mateo,0.117801673,16170
+3/15/20,Marin,San Mateo,0.104342757,13100
+3/16/20,Marin,San Mateo,0.10421286,13538
+3/17/20,Marin,San Mateo,0.087935174,13497
+3/18/20,Marin,San Mateo,0.07703595,10477
+3/19/20,Marin,San Mateo,0.064048799,10340
+3/20/20,Marin,San Mateo,0.065100948,9120
+3/21/20,Marin,San Mateo,0.083990981,6567
+3/22/20,Marin,San Mateo,0.083645443,5735
+3/23/20,Marin,San Mateo,0.064895636,9363
+3/24/20,Marin,San Mateo,0.055366269,9294
+3/25/20,Marin,San Mateo,0.051007287,9052
+3/26/20,Marin,San Mateo,0.047068538,9331
+3/27/20,Marin,San Mateo,0.059368421,9211
+3/28/20,Marin,San Mateo,0.056673511,9004
+3/29/20,Marin,San Mateo,0.050591017,8028
+3/30/20,Marin,San Mateo,0.043656207,8548
+3/31/20,Marin,San Mateo,0.059271804,9093
+3/2/20,Marin,Santa Clara,0.070073267,34488
+3/3/20,Marin,Santa Clara,0.040705563,34533
+3/4/20,Marin,Santa Clara,0.035675676,35119
+3/5/20,Marin,Santa Clara,0.037473233,34789
+3/6/20,Marin,Santa Clara,0.044439719,34503
+3/7/20,Marin,Santa Clara,0.054545455,32776
+3/8/20,Marin,Santa Clara,0.064364876,31078
+3/9/20,Marin,Santa Clara,0.069551152,32668
+3/10/20,Marin,Santa Clara,0.037480244,32383
+3/11/20,Marin,Santa Clara,0.029619503,32203
+3/12/20,Marin,Santa Clara,0.030902623,31899
+3/13/20,Marin,Santa Clara,0.03736316,30478
+3/14/20,Marin,Santa Clara,0.048267622,29007
+3/15/20,Marin,Santa Clara,0.036723987,24621
+3/16/20,Marin,Santa Clara,0.047117517,24672
+3/17/20,Marin,Santa Clara,0.038715486,25270
+3/18/20,Marin,Santa Clara,0.031181218,20472
+3/19/20,Marin,Santa Clara,0.028593214,20485
+3/20/20,Marin,Santa Clara,0.026782035,18337
+3/21/20,Marin,Santa Clara,0.033258174,13619
+3/22/20,Marin,Santa Clara,0.031210986,12587
+3/23/20,Marin,Santa Clara,0.027324478,18647
+3/24/20,Marin,Santa Clara,0.028109029,19127
+3/25/20,Marin,Santa Clara,0.02571796,18937
+3/26/20,Marin,Santa Clara,0.022295623,18959
+3/27/20,Marin,Santa Clara,0.024,19004
+3/28/20,Marin,Santa Clara,0.028747433,18478
+3/29/20,Marin,Santa Clara,0.024113475,17208
+3/30/20,Marin,Santa Clara,0.020009095,17884
+3/31/20,Marin,Santa Clara,0.027942422,18675
+3/2/20,Marin,Solano,0.132444111,13192
+3/3/20,Marin,Solano,0.096788783,10854
+3/4/20,Marin,Solano,0.108756757,11018
+3/5/20,Marin,Solano,0.099143469,11064
+3/6/20,Marin,Solano,0.113119286,11230
+3/7/20,Marin,Solano,0.112513369,11961
+3/8/20,Marin,Solano,0.110400682,11968
+3/9/20,Marin,Solano,0.128184391,12733
+3/10/20,Marin,Solano,0.107021901,10732
+3/11/20,Marin,Solano,0.104807473,10765
+3/12/20,Marin,Solano,0.104268564,10848
+3/13/20,Marin,Solano,0.103998096,10593
+3/14/20,Marin,Solano,0.109916368,10615
+3/15/20,Marin,Solano,0.090935587,9103
+3/16/20,Marin,Solano,0.101441242,9433
+3/17/20,Marin,Solano,0.099339736,9176
+3/18/20,Marin,Solano,0.117021277,8559
+3/19/20,Marin,Solano,0.105223027,8189
+3/20/20,Marin,Solano,0.108776267,7346
+3/21/20,Marin,Solano,0.123449831,5428
+3/22/20,Marin,Solano,0.09051186,4684
+3/23/20,Marin,Solano,0.095635674,7267
+3/24/20,Marin,Solano,0.105621806,7246
+3/25/20,Marin,Solano,0.113587655,7178
+3/26/20,Marin,Solano,0.108175062,7298
+3/27/20,Marin,Solano,0.101473684,7286
+3/28/20,Marin,Solano,0.095687885,7097
+3/29/20,Marin,Solano,0.076122931,6177
+3/30/20,Marin,Solano,0.098681219,6765
+3/31/20,Marin,Solano,0.108806097,7101
+3/2/20,Marin,Sonoma,0.401465339,7868
+3/3/20,Marin,Sonoma,0.311849842,7174
+3/4/20,Marin,Sonoma,0.330378378,7420
+3/5/20,Marin,Sonoma,0.320985011,7354
+3/6/20,Marin,Sonoma,0.327450564,7344
+3/7/20,Marin,Sonoma,0.353796791,7309
+3/8/20,Marin,Sonoma,0.380647911,7367
+3/9/20,Marin,Sonoma,0.395673271,7460
+3/10/20,Marin,Sonoma,0.329419734,7146
+3/11/20,Marin,Sonoma,0.339485076,7207
+3/12/20,Marin,Sonoma,0.330813695,7241
+3/13/20,Marin,Sonoma,0.328177059,7005
+3/14/20,Marin,Sonoma,0.354360812,6800
+3/15/20,Marin,Sonoma,0.329932964,5962
+3/16/20,Marin,Sonoma,0.368070953,5836
+3/17/20,Marin,Sonoma,0.342737095,5812
+3/18/20,Marin,Sonoma,0.336757153,5393
+3/19/20,Marin,Sonoma,0.306519253,4896
+3/20/20,Marin,Sonoma,0.326740832,4539
+3/21/20,Marin,Sonoma,0.324689966,3348
+3/22/20,Marin,Sonoma,0.310861423,3172
+3/23/20,Marin,Sonoma,0.30512334,4872
+3/24/20,Marin,Sonoma,0.321124361,4914
+3/25/20,Marin,Sonoma,0.312901843,4735
+3/26/20,Marin,Sonoma,0.294384806,4797
+3/27/20,Marin,Sonoma,0.290105263,4781
+3/28/20,Marin,Sonoma,0.296919918,4806
+3/29/20,Marin,Sonoma,0.236879433,4300
+3/30/20,Marin,Sonoma,0.295588904,4420
+3/31/20,Marin,Sonoma,0.301439458,4618
+3/2/20,Napa,Alameda,0.271626914,37341
+3/3/20,Napa,Alameda,0.199355433,34554
+3/4/20,Napa,Alameda,0.192833147,35252
+3/5/20,Napa,Alameda,0.198375085,35119
+3/6/20,Napa,Alameda,0.216105354,35206
+3/7/20,Napa,Alameda,0.253512523,35092
+3/8/20,Napa,Alameda,0.264428981,33310
+3/9/20,Napa,Alameda,0.282247527,35460
+3/10/20,Napa,Alameda,0.202496533,33170
+3/11/20,Napa,Alameda,0.195780399,33371
+3/12/20,Napa,Alameda,0.190064316,32820
+3/13/20,Napa,Alameda,0.189873418,31413
+3/14/20,Napa,Alameda,0.200571701,30132
+3/15/20,Napa,Alameda,0.208757062,25155
+3/16/20,Napa,Alameda,0.241424802,25791
+3/17/20,Napa,Alameda,0.204993065,26244
+3/18/20,Napa,Alameda,0.178184072,20700
+3/19/20,Napa,Alameda,0.172795314,20677
+3/20/20,Napa,Alameda,0.173228347,18536
+3/21/20,Napa,Alameda,0.147504206,13643
+3/22/20,Napa,Alameda,0.123021583,11780
+3/23/20,Napa,Alameda,0.155044799,18327
+3/24/20,Napa,Alameda,0.170666667,18894
+3/25/20,Napa,Alameda,0.169120573,18580
+3/26/20,Napa,Alameda,0.176514585,19060
+3/27/20,Napa,Alameda,0.170253651,18685
+3/28/20,Napa,Alameda,0.1681945,18066
+3/29/20,Napa,Alameda,0.118644068,15845
+3/30/20,Napa,Alameda,0.167144613,17344
+3/31/20,Napa,Alameda,0.169146437,18432
+3/2/20,Napa,Contra Costa,0.383410466,28505
+3/3/20,Napa,Contra Costa,0.295349908,25960
+3/4/20,Napa,Contra Costa,0.295408735,26515
+3/5/20,Napa,Contra Costa,0.294967276,26334
+3/6/20,Napa,Contra Costa,0.312392055,26381
+3/7/20,Napa,Contra Costa,0.35389941,26550
+3/8/20,Napa,Contra Costa,0.378223496,25897
+3/9/20,Napa,Contra Costa,0.39163711,27274
+3/10/20,Napa,Contra Costa,0.304669441,25291
+3/11/20,Napa,Contra Costa,0.300589837,25576
+3/12/20,Napa,Contra Costa,0.29230428,25432
+3/13/20,Napa,Contra Costa,0.288750896,24536
+3/14/20,Napa,Contra Costa,0.293711291,23917
+3/15/20,Napa,Contra Costa,0.301694915,20503
+3/16/20,Napa,Contra Costa,0.346701847,20675
+3/17/20,Napa,Contra Costa,0.297919556,20394
+3/18/20,Napa,Contra Costa,0.263402541,16802
+3/19/20,Napa,Contra Costa,0.257403189,16919
+3/20/20,Napa,Contra Costa,0.264137437,15293
+3/21/20,Napa,Contra Costa,0.224901851,11168
+3/22/20,Napa,Contra Costa,0.195683453,10050
+3/23/20,Napa,Contra Costa,0.245812232,15816
+3/24/20,Napa,Contra Costa,0.256380952,15589
+3/25/20,Napa,Contra Costa,0.265021886,15397
+3/26/20,Napa,Contra Costa,0.26776365,15791
+3/27/20,Napa,Contra Costa,0.250960799,15620
+3/28/20,Napa,Contra Costa,0.245117577,15491
+3/29/20,Napa,Contra Costa,0.19441675,13748
+3/30/20,Napa,Contra Costa,0.249897583,14754
+3/31/20,Napa,Contra Costa,0.256068912,15430
+3/2/20,Napa,did not enter other counties,0.156461374,5618
+3/3/20,Napa,did not enter other counties,0.24286372,4344
+3/4/20,Napa,did not enter other counties,0.234714446,4465
+3/5/20,Napa,did not enter other counties,0.236289777,4431
+3/6/20,Napa,did not enter other counties,0.220423143,4632
+3/7/20,Napa,did not enter other counties,0.199144777,4911
+3/8/20,Napa,did not enter other counties,0.180515759,4886
+3/9/20,Napa,did not enter other counties,0.156244167,5357
+3/10/20,Napa,did not enter other counties,0.235090153,4326
+3/11/20,Napa,did not enter other counties,0.234346643,4408
+3/12/20,Napa,did not enter other counties,0.229540918,4509
+3/13/20,Napa,did not enter other counties,0.231191784,4187
+3/14/20,Napa,did not enter other counties,0.214626012,4198
+3/15/20,Napa,did not enter other counties,0.256497175,3540
+3/16/20,Napa,did not enter other counties,0.216358839,3790
+3/17/20,Napa,did not enter other counties,0.251317614,3605
+3/18/20,Napa,did not enter other counties,0.275488069,3227
+3/19/20,Napa,did not enter other counties,0.293524243,3073
+3/20/20,Napa,did not enter other counties,0.288117394,2794
+3/21/20,Napa,did not enter other counties,0.32361189,1783
+3/22/20,Napa,did not enter other counties,0.397122302,1390
+3/23/20,Napa,did not enter other counties,0.314764316,2567
+3/24/20,Napa,did not enter other counties,0.316190476,2625
+3/25/20,Napa,did not enter other counties,0.300039793,2513
+3/26/20,Napa,did not enter other counties,0.309274495,2674
+3/27/20,Napa,did not enter other counties,0.318601076,2602
+3/28/20,Napa,did not enter other counties,0.317656437,2509
+3/29/20,Napa,did not enter other counties,0.370887338,2006
+3/30/20,Napa,did not enter other counties,0.312986481,2441
+3/31/20,Napa,did not enter other counties,0.310101801,2554
+3/2/20,Napa,Marin,0.098255607,5323
+3/3/20,Napa,Marin,0.075966851,4422
+3/4/20,Napa,Marin,0.08868981,4625
+3/5/20,Napa,Marin,0.081697134,4670
+3/6/20,Napa,Marin,0.091753022,4703
+3/7/20,Napa,Marin,0.085929546,4675
+3/8/20,Napa,Marin,0.087801883,4692
+3/9/20,Napa,Marin,0.094455852,4946
+3/10/20,Napa,Marin,0.085298197,4429
+3/11/20,Napa,Marin,0.084618875,4389
+3/12/20,Napa,Marin,0.080949213,4498
+3/13/20,Napa,Marin,0.078337712,4202
+3/14/20,Napa,Marin,0.087184374,4185
+3/15/20,Napa,Marin,0.072033898,3431
+3/16/20,Napa,Marin,0.074934037,3608
+3/17/20,Napa,Marin,0.072676838,3332
+3/18/20,Napa,Marin,0.07716145,2726
+3/19/20,Napa,Marin,0.06703547,2623
+3/20/20,Napa,Marin,0.066571224,2427
+3/21/20,Napa,Marin,0.0673023,1774
+3/22/20,Napa,Marin,0.064748201,1602
+3/23/20,Napa,Marin,0.070510323,2635
+3/24/20,Napa,Marin,0.072,2348
+3/25/20,Napa,Marin,0.076402706,2333
+3/26/20,Napa,Marin,0.0710546,2422
+3/27/20,Napa,Marin,0.070330515,2375
+3/28/20,Napa,Marin,0.068553208,2435
+3/29/20,Napa,Marin,0.060319043,2115
+3/30/20,Napa,Marin,0.069233921,2199
+3/31/20,Napa,Marin,0.067345341,2362
+3/2/20,Napa,Sacramento,0.224279103,31896
+3/3/20,Napa,Sacramento,0.146178637,31802
+3/4/20,Napa,Sacramento,0.151399776,32037
+3/5/20,Napa,Sacramento,0.150078989,32020
+3/6/20,Napa,Sacramento,0.167314335,31919
+3/7/20,Napa,Sacramento,0.228670332,30911
+3/8/20,Napa,Sacramento,0.240892346,29682
+3/9/20,Napa,Sacramento,0.247153257,30505
+3/10/20,Napa,Sacramento,0.148404993,30514
+3/11/20,Napa,Sacramento,0.153357532,30877
+3/12/20,Napa,Sacramento,0.149700599,30800
+3/13/20,Napa,Sacramento,0.154287079,29591
+3/14/20,Napa,Sacramento,0.176036208,28442
+3/15/20,Napa,Sacramento,0.163841808,25340
+3/16/20,Napa,Sacramento,0.183641161,24923
+3/17/20,Napa,Sacramento,0.154785021,26163
+3/18/20,Napa,Sacramento,0.153083359,25300
+3/19/20,Napa,Sacramento,0.141880898,24455
+3/20/20,Napa,Sacramento,0.12956335,21986
+3/21/20,Napa,Sacramento,0.129556927,15430
+3/22/20,Napa,Sacramento,0.107913669,14583
+3/23/20,Napa,Sacramento,0.149980522,21120
+3/24/20,Napa,Sacramento,0.134476191,22005
+3/25/20,Napa,Sacramento,0.140071628,21690
+3/26/20,Napa,Sacramento,0.145474944,21929
+3/27/20,Napa,Sacramento,0.139892391,21679
+3/28/20,Napa,Sacramento,0.141092069,21263
+3/29/20,Napa,Sacramento,0.113659023,19623
+3/30/20,Napa,Sacramento,0.140516182,20294
+3/31/20,Napa,Sacramento,0.142913078,21116
+3/2/20,Napa,San Francisco,0.170167319,16571
+3/3/20,Napa,San Francisco,0.111187845,15985
+3/4/20,Napa,San Francisco,0.109518477,16288
+3/5/20,Napa,San Francisco,0.118483412,16382
+3/6/20,Napa,San Francisco,0.126943005,16379
+3/7/20,Napa,San Francisco,0.153532885,15562
+3/8/20,Napa,San Francisco,0.148792468,13832
+3/9/20,Napa,San Francisco,0.16912451,15183
+3/10/20,Napa,San Francisco,0.114655571,14509
+3/11/20,Napa,San Francisco,0.113883848,14663
+3/12/20,Napa,San Francisco,0.104901309,14190
+3/13/20,Napa,San Francisco,0.104370671,13160
+3/14/20,Napa,San Francisco,0.123392092,12460
+3/15/20,Napa,San Francisco,0.125141243,9834
+3/16/20,Napa,San Francisco,0.13641161,10610
+3/17/20,Napa,San Francisco,0.098474341,10378
+3/18/20,Napa,San Francisco,0.08180973,7831
+3/19/20,Napa,San Francisco,0.083306215,7781
+3/20/20,Napa,San Francisco,0.078740157,6948
+3/21/20,Napa,San Francisco,0.074593382,5082
+3/22/20,Napa,San Francisco,0.070503597,4329
+3/23/20,Napa,San Francisco,0.081028438,7106
+3/24/20,Napa,San Francisco,0.072761905,7003
+3/25/20,Napa,San Francisco,0.076800637,6913
+3/26/20,Napa,San Francisco,0.080403889,7084
+3/27/20,Napa,San Francisco,0.076479631,6963
+3/28/20,Napa,San Francisco,0.088082902,6671
+3/29/20,Napa,San Francisco,0.066301097,5768
+3/30/20,Napa,San Francisco,0.086849652,6327
+3/31/20,Napa,San Francisco,0.075567737,6770
+3/2/20,Napa,San Mateo,0.095763617,20335
+3/3/20,Napa,San Mateo,0.053867403,19353
+3/4/20,Napa,San Mateo,0.057110862,19617
+3/5/20,Napa,San Mateo,0.062739788,19485
+3/6/20,Napa,San Mateo,0.067141623,19563
+3/7/20,Napa,San Mateo,0.090816534,18653
+3/8/20,Napa,San Mateo,0.089439214,17357
+3/9/20,Napa,San Mateo,0.098562628,18734
+3/10/20,Napa,San Mateo,0.057096625,17728
+3/11/20,Napa,San Mateo,0.058756806,17839
+3/12/20,Napa,San Mateo,0.05145265,17749
+3/13/20,Napa,San Mateo,0.057797946,16785
+3/14/20,Napa,San Mateo,0.078608861,16170
+3/15/20,Napa,San Mateo,0.075423729,13100
+3/16/20,Napa,San Mateo,0.082849604,13538
+3/17/20,Napa,San Mateo,0.052427184,13497
+3/18/20,Napa,San Mateo,0.046482801,10477
+3/19/20,Napa,San Mateo,0.0523918,10340
+3/20/20,Napa,San Mateo,0.049033644,9120
+3/21/20,Napa,San Mateo,0.044307347,6567
+3/22/20,Napa,San Mateo,0.044604317,5735
+3/23/20,Napa,San Mateo,0.045578496,9363
+3/24/20,Napa,San Mateo,0.04,9294
+3/25/20,Napa,San Mateo,0.042976522,9052
+3/26/20,Napa,San Mateo,0.044876589,9331
+3/27/20,Napa,San Mateo,0.037279016,9211
+3/28/20,Napa,San Mateo,0.04862495,9004
+3/29/20,Napa,San Mateo,0.035393819,8028
+3/30/20,Napa,San Mateo,0.04260549,8548
+3/31/20,Napa,San Mateo,0.041503524,9093
+3/2/20,Napa,Santa Clara,0.038625846,34488
+3/3/20,Napa,Santa Clara,0.022099448,34533
+3/4/20,Napa,Santa Clara,0.02150056,35119
+3/5/20,Napa,Santa Clara,0.021439856,34789
+3/6/20,Napa,Santa Clara,0.022668394,34503
+3/7/20,Napa,Santa Clara,0.034005294,32776
+3/8/20,Napa,Santa Clara,0.033974621,31078
+3/9/20,Napa,Santa Clara,0.038267687,32668
+3/10/20,Napa,Santa Clara,0.025196486,32383
+3/11/20,Napa,Santa Clara,0.018375681,32203
+3/12/20,Napa,Santa Clara,0.019072965,31899
+3/13/20,Napa,Santa Clara,0.022689276,30478
+3/14/20,Napa,Santa Clara,0.023582658,29007
+3/15/20,Napa,Santa Clara,0.022316384,24621
+3/16/20,Napa,Santa Clara,0.031926121,24672
+3/17/20,Napa,Santa Clara,0.017753121,25270
+3/18/20,Napa,Santa Clara,0.019212891,20472
+3/19/20,Napa,Santa Clara,0.013992841,20485
+3/20/20,Napa,Santa Clara,0.019685039,18337
+3/21/20,Napa,Santa Clara,0.011777902,13619
+3/22/20,Napa,Santa Clara,0.01294964,12587
+3/23/20,Napa,Santa Clara,0.010907674,18647
+3/24/20,Napa,Santa Clara,0.017142857,19127
+3/25/20,Napa,Santa Clara,0.016315161,18937
+3/26/20,Napa,Santa Clara,0.017950636,18959
+3/27/20,Napa,Santa Clara,0.01614143,19004
+3/28/20,Napa,Santa Clara,0.013949781,18478
+3/29/20,Napa,Santa Clara,0.013459621,17208
+3/30/20,Napa,Santa Clara,0.011061041,17884
+3/31/20,Napa,Santa Clara,0.018010963,18675
+3/2/20,Napa,Solano,0.764150943,13192
+3/3/20,Napa,Solano,0.676335175,10854
+3/4/20,Napa,Solano,0.678387458,11018
+3/5/20,Napa,Solano,0.677725119,11064
+3/6/20,Napa,Solano,0.693005181,11230
+3/7/20,Napa,Solano,0.723477907,11961
+3/8/20,Napa,Solano,0.750920999,11968
+3/9/20,Napa,Solano,0.769460519,12733
+3/10/20,Napa,Solano,0.686777624,10732
+3/11/20,Napa,Solano,0.686932849,10765
+3/12/20,Napa,Solano,0.686848525,10848
+3/13/20,Napa,Solano,0.689276332,10593
+3/14/20,Napa,Solano,0.703668414,10615
+3/15/20,Napa,Solano,0.679096045,9103
+3/16/20,Napa,Solano,0.715039578,9433
+3/17/20,Napa,Solano,0.676837725,9176
+3/18/20,Napa,Solano,0.657886582,8559
+3/19/20,Napa,Solano,0.64367068,8189
+3/20/20,Napa,Solano,0.64889048,7346
+3/21/20,Napa,Solano,0.600673023,5428
+3/22/20,Napa,Solano,0.538848921,4684
+3/23/20,Napa,Solano,0.631086872,7267
+3/24/20,Napa,Solano,0.614857143,7246
+3/25/20,Napa,Solano,0.639076801,7178
+3/26/20,Napa,Solano,0.630516081,7298
+3/27/20,Napa,Solano,0.611837048,7286
+3/28/20,Napa,Solano,0.618971702,7097
+3/29/20,Napa,Solano,0.575274178,6177
+3/30/20,Napa,Solano,0.633346989,6765
+3/31/20,Napa,Solano,0.6256852,7101
+3/2/20,Napa,Sonoma,0.224813101,7868
+3/3/20,Napa,Sonoma,0.188996317,7174
+3/4/20,Napa,Sonoma,0.204927212,7420
+3/5/20,Napa,Sonoma,0.193861431,7354
+3/6/20,Napa,Sonoma,0.208981002,7344
+3/7/20,Napa,Sonoma,0.20423539,7309
+3/8/20,Napa,Sonoma,0.214081048,7367
+3/9/20,Napa,Sonoma,0.206458839,7460
+3/10/20,Napa,Sonoma,0.181923255,7146
+3/11/20,Napa,Sonoma,0.191243194,7207
+3/12/20,Napa,Sonoma,0.199822577,7241
+3/13/20,Napa,Sonoma,0.193217101,7005
+3/14/20,Napa,Sonoma,0.206765126,6800
+3/15/20,Napa,Sonoma,0.180508475,5962
+3/16/20,Napa,Sonoma,0.186807388,5836
+3/17/20,Napa,Sonoma,0.182524272,5812
+3/18/20,Napa,Sonoma,0.191199256,5393
+3/19/20,Napa,Sonoma,0.171819069,4896
+3/20/20,Napa,Sonoma,0.174302076,4539
+3/21/20,Napa,Sonoma,0.174985979,3348
+3/22/20,Napa,Sonoma,0.150359712,3172
+3/23/20,Napa,Sonoma,0.163615115,4872
+3/24/20,Napa,Sonoma,0.170666667,4914
+3/25/20,Napa,Sonoma,0.179864704,4735
+3/26/20,Napa,Sonoma,0.17053104,4797
+3/27/20,Napa,Sonoma,0.176402767,4781
+3/28/20,Napa,Sonoma,0.167795935,4806
+3/29/20,Napa,Sonoma,0.156530409,4300
+3/30/20,Napa,Sonoma,0.162638263,4420
+3/31/20,Napa,Sonoma,0.166014096,4618
+3/2/20,Sacramento,Alameda,0.072736393,37341
+3/3/20,Sacramento,Alameda,0.031161562,34554
+3/4/20,Sacramento,Alameda,0.030339919,35252
+3/5/20,Sacramento,Alameda,0.031730169,35119
+3/6/20,Sacramento,Alameda,0.035214136,35206
+3/7/20,Sacramento,Alameda,0.062016758,35092
+3/8/20,Sacramento,Alameda,0.058217101,33310
+3/9/20,Sacramento,Alameda,0.081363711,35460
+3/10/20,Sacramento,Alameda,0.03362391,33170
+3/11/20,Sacramento,Alameda,0.033584869,33371
+3/12/20,Sacramento,Alameda,0.031590909,32820
+3/13/20,Sacramento,Alameda,0.031360887,31413
+3/14/20,Sacramento,Alameda,0.041312144,30132
+3/15/20,Sacramento,Alameda,0.033109708,25155
+3/16/20,Sacramento,Alameda,0.042330378,25791
+3/17/20,Sacramento,Alameda,0.031724191,26244
+3/18/20,Sacramento,Alameda,0.024387352,20700
+3/19/20,Sacramento,Alameda,0.022980985,20677
+3/20/20,Sacramento,Alameda,0.024470117,18536
+3/21/20,Sacramento,Alameda,0.027025275,13643
+3/22/20,Sacramento,Alameda,0.01693753,11780
+3/23/20,Sacramento,Alameda,0.023295455,18327
+3/24/20,Sacramento,Alameda,0.021631447,18894
+3/25/20,Sacramento,Alameda,0.022591056,18580
+3/26/20,Sacramento,Alameda,0.024032104,19060
+3/27/20,Sacramento,Alameda,0.023617326,18685
+3/28/20,Sacramento,Alameda,0.024079387,18066
+3/29/20,Sacramento,Alameda,0.013249758,15845
+3/30/20,Sacramento,Alameda,0.021730561,17344
+3/31/20,Sacramento,Alameda,0.022542148,18432
+3/2/20,Sacramento,Contra Costa,0.078411086,28505
+3/3/20,Sacramento,Contra Costa,0.039368593,25960
+3/4/20,Sacramento,Contra Costa,0.039142242,26515
+3/5/20,Sacramento,Contra Costa,0.038538413,26334
+3/6/20,Sacramento,Contra Costa,0.041479996,26381
+3/7/20,Sacramento,Contra Costa,0.066190029,26550
+3/8/20,Sacramento,Contra Costa,0.065022573,25897
+3/9/20,Sacramento,Contra Costa,0.085002459,27274
+3/10/20,Sacramento,Contra Costa,0.039653929,25291
+3/11/20,Sacramento,Contra Costa,0.040450821,25576
+3/12/20,Sacramento,Contra Costa,0.038636364,25432
+3/13/20,Sacramento,Contra Costa,0.037376229,24536
+3/14/20,Sacramento,Contra Costa,0.047429857,23917
+3/15/20,Sacramento,Contra Costa,0.037450671,20503
+3/16/20,Sacramento,Contra Costa,0.047907555,20675
+3/17/20,Sacramento,Contra Costa,0.038030807,20394
+3/18/20,Sacramento,Contra Costa,0.030592885,16802
+3/19/20,Sacramento,Contra Costa,0.029319158,16919
+3/20/20,Sacramento,Contra Costa,0.02997362,15293
+3/21/20,Sacramento,Contra Costa,0.035320804,11168
+3/22/20,Sacramento,Contra Costa,0.02379483,10050
+3/23/20,Sacramento,Contra Costa,0.027698864,15816
+3/24/20,Sacramento,Contra Costa,0.027084753,15589
+3/25/20,Sacramento,Contra Costa,0.026786538,15397
+3/26/20,Sacramento,Contra Costa,0.030005928,15791
+3/27/20,Sacramento,Contra Costa,0.029383274,15620
+3/28/20,Sacramento,Contra Costa,0.029817053,15491
+3/29/20,Sacramento,Contra Costa,0.017887173,13748
+3/30/20,Sacramento,Contra Costa,0.028136395,14754
+3/31/20,Sacramento,Contra Costa,0.027988255,15430
+3/2/20,Sacramento,did not enter other counties,0.847755204,31896
+3/3/20,Sacramento,did not enter other counties,0.917615244,31802
+3/4/20,Sacramento,did not enter other counties,0.914817243,32037
+3/5/20,Sacramento,did not enter other counties,0.912898189,32020
+3/6/20,Sacramento,did not enter other counties,0.90616874,31919
+3/7/20,Sacramento,did not enter other counties,0.866811168,30911
+3/8/20,Sacramento,did not enter other counties,0.861801765,29682
+3/9/20,Sacramento,did not enter other counties,0.834223898,30505
+3/10/20,Sacramento,did not enter other counties,0.912204234,30514
+3/11/20,Sacramento,did not enter other counties,0.912685818,30877
+3/12/20,Sacramento,did not enter other counties,0.911493507,30800
+3/13/20,Sacramento,did not enter other counties,0.909702274,29591
+3/14/20,Sacramento,did not enter other counties,0.896877857,28442
+3/15/20,Sacramento,did not enter other counties,0.916219416,25340
+3/16/20,Sacramento,did not enter other counties,0.897002769,24923
+3/17/20,Sacramento,did not enter other counties,0.917096663,26163
+3/18/20,Sacramento,did not enter other counties,0.92687747,25300
+3/19/20,Sacramento,did not enter other counties,0.930443672,24455
+3/20/20,Sacramento,did not enter other counties,0.92909124,21986
+3/21/20,Sacramento,did not enter other counties,0.925275438,15430
+3/22/20,Sacramento,did not enter other counties,0.9443873,14583
+3/23/20,Sacramento,did not enter other counties,0.932717803,21120
+3/24/20,Sacramento,did not enter other counties,0.938877528,22005
+3/25/20,Sacramento,did not enter other counties,0.938450899,21690
+3/26/20,Sacramento,did not enter other counties,0.93378631,21929
+3/27/20,Sacramento,did not enter other counties,0.93265372,21679
+3/28/20,Sacramento,did not enter other counties,0.938672812,21263
+3/29/20,Sacramento,did not enter other counties,0.957600775,19623
+3/30/20,Sacramento,did not enter other counties,0.938898197,20294
+3/31/20,Sacramento,did not enter other counties,0.937204016,21116
+3/2/20,Sacramento,Marin,0.009750439,5323
+3/3/20,Sacramento,Marin,0.003207345,4422
+3/4/20,Sacramento,Marin,0.00415145,4625
+3/5/20,Sacramento,Marin,0.003560275,4670
+3/6/20,Sacramento,Marin,0.005012688,4703
+3/7/20,Sacramento,Marin,0.006405487,4675
+3/8/20,Sacramento,Marin,0.006805471,4692
+3/9/20,Sacramento,Marin,0.008588756,4946
+3/10/20,Sacramento,Marin,0.004194796,4429
+3/11/20,Sacramento,Marin,0.003594909,4389
+3/12/20,Sacramento,Marin,0.003668831,4498
+3/13/20,Sacramento,Marin,0.00432564,4202
+3/14/20,Sacramento,Marin,0.005133254,4185
+3/15/20,Sacramento,Marin,0.003551697,3431
+3/16/20,Sacramento,Marin,0.003972234,3608
+3/17/20,Sacramento,Marin,0.003439972,3332
+3/18/20,Sacramento,Marin,0.003478261,2726
+3/19/20,Sacramento,Marin,0.003107749,2623
+3/20/20,Sacramento,Marin,0.002638042,2427
+3/21/20,Sacramento,Marin,0.003629294,1774
+3/22/20,Sacramento,Marin,0.002948639,1602
+3/23/20,Sacramento,Marin,0.004166667,2635
+3/24/20,Sacramento,Marin,0.002408544,2348
+3/25/20,Sacramento,Marin,0.003227294,2333
+3/26/20,Sacramento,Marin,0.002644899,2422
+3/27/20,Sacramento,Marin,0.003044421,2375
+3/28/20,Sacramento,Marin,0.002586653,2435
+3/29/20,Sacramento,Marin,0.0016817,2115
+3/30/20,Sacramento,Marin,0.002414507,2199
+3/31/20,Sacramento,Marin,0.00298352,2362
+3/2/20,Sacramento,Napa,0.039503386,5618
+3/3/20,Sacramento,Napa,0.019967298,4344
+3/4/20,Sacramento,Napa,0.021100602,4465
+3/5/20,Sacramento,Napa,0.02076827,4431
+3/6/20,Sacramento,Napa,0.024280209,4632
+3/7/20,Sacramento,Napa,0.036330109,4911
+3/8/20,Sacramento,Napa,0.039653662,4886
+3/9/20,Sacramento,Napa,0.043402721,5357
+3/10/20,Sacramento,Napa,0.021039523,4326
+3/11/20,Sacramento,Napa,0.021893319,4408
+3/12/20,Sacramento,Napa,0.021915584,4509
+3/13/20,Sacramento,Napa,0.021830962,4187
+3/14/20,Sacramento,Napa,0.025982702,4198
+3/15/20,Sacramento,Napa,0.022888714,3540
+3/16/20,Sacramento,Napa,0.027926012,3790
+3/17/20,Sacramento,Napa,0.021327829,3605
+3/18/20,Sacramento,Napa,0.019525692,3227
+3/19/20,Sacramento,Napa,0.017828665,3073
+3/20/20,Sacramento,Napa,0.016465023,2794
+3/21/20,Sacramento,Napa,0.014970836,1783
+3/22/20,Sacramento,Napa,0.010285949,1390
+3/23/20,Sacramento,Napa,0.018229167,2567
+3/24/20,Sacramento,Napa,0.016041809,2625
+3/25/20,Sacramento,Napa,0.016228677,2513
+3/26/20,Sacramento,Napa,0.017739067,2674
+3/27/20,Sacramento,Napa,0.016790442,2602
+3/28/20,Sacramento,Napa,0.016648638,2509
+3/29/20,Sacramento,Napa,0.011619019,2006
+3/30/20,Sacramento,Napa,0.016901547,2441
+3/31/20,Sacramento,Napa,0.017285471,2554
+3/2/20,Sacramento,San Francisco,0.027589666,16571
+3/3/20,Sacramento,San Francisco,0.009559147,15985
+3/4/20,Sacramento,San Francisco,0.009988451,16288
+3/5/20,Sacramento,San Francisco,0.010743285,16382
+3/6/20,Sacramento,San Francisco,0.012657038,16379
+3/7/20,Sacramento,San Francisco,0.021642781,15562
+3/8/20,Sacramento,San Francisco,0.018125463,13832
+3/9/20,Sacramento,San Francisco,0.028814948,15183
+3/10/20,Sacramento,San Francisco,0.010683621,14509
+3/11/20,Sacramento,San Francisco,0.010396088,14663
+3/12/20,Sacramento,San Francisco,0.010227273,14190
+3/13/20,Sacramento,San Francisco,0.010476158,13160
+3/14/20,Sacramento,San Francisco,0.013255045,12460
+3/15/20,Sacramento,San Francisco,0.012273086,9834
+3/16/20,Sacramento,San Francisco,0.014243871,10610
+3/17/20,Sacramento,San Francisco,0.009096816,10378
+3/18/20,Sacramento,San Francisco,0.006482213,7831
+3/19/20,Sacramento,San Francisco,0.005520343,7781
+3/20/20,Sacramento,San Francisco,0.005367052,6948
+3/21/20,Sacramento,San Francisco,0.007193778,5082
+3/22/20,Sacramento,San Francisco,0.00480011,4329
+3/23/20,Sacramento,San Francisco,0.007433712,7106
+3/24/20,Sacramento,San Francisco,0.005362418,7003
+3/25/20,Sacramento,San Francisco,0.004840941,6913
+3/26/20,Sacramento,San Francisco,0.00665785,7084
+3/27/20,Sacramento,San Francisco,0.005443055,6963
+3/28/20,Sacramento,San Francisco,0.007242628,6671
+3/29/20,Sacramento,San Francisco,0.004586455,5768
+3/30/20,Sacramento,San Francisco,0.007144969,6327
+3/31/20,Sacramento,San Francisco,0.005682894,6770
+3/2/20,Sacramento,San Mateo,0.020880361,20335
+3/3/20,Sacramento,San Mateo,0.006383246,19353
+3/4/20,Sacramento,San Mateo,0.006648563,19617
+3/5/20,Sacramento,San Mateo,0.007432854,19485
+3/6/20,Sacramento,San Mateo,0.009116827,19563
+3/7/20,Sacramento,San Mateo,0.015981366,18653
+3/8/20,Sacramento,San Mateo,0.012937134,17357
+3/9/20,Sacramento,San Mateo,0.021537453,18734
+3/10/20,Sacramento,San Mateo,0.007570296,17728
+3/11/20,Sacramento,San Mateo,0.006639246,17839
+3/12/20,Sacramento,San Mateo,0.006948052,17749
+3/13/20,Sacramento,San Mateo,0.007468487,16785
+3/14/20,Sacramento,San Mateo,0.0106181,16170
+3/15/20,Sacramento,San Mateo,0.008563536,13100
+3/16/20,Sacramento,San Mateo,0.010672872,13538
+3/17/20,Sacramento,San Mateo,0.006459504,13497
+3/18/20,Sacramento,San Mateo,0.00486166,10477
+3/19/20,Sacramento,San Mateo,0.004825189,10340
+3/20/20,Sacramento,San Mateo,0.00482125,9120
+3/21/20,Sacramento,San Mateo,0.005379132,6567
+3/22/20,Sacramento,San Mateo,0.002880066,5735
+3/23/20,Sacramento,San Mateo,0.004876894,9363
+3/24/20,Sacramento,San Mateo,0.003635537,9294
+3/25/20,Sacramento,San Mateo,0.003273398,9052
+3/26/20,Sacramento,San Mateo,0.004742578,9331
+3/27/20,Sacramento,San Mateo,0.004059228,9211
+3/28/20,Sacramento,San Mateo,0.004985186,9004
+3/29/20,Sacramento,San Mateo,0.002853794,8028
+3/30/20,Sacramento,San Mateo,0.004829014,8548
+3/31/20,Sacramento,San Mateo,0.004167456,9093
+3/2/20,Sacramento,Santa Clara,0.027244796,34488
+3/3/20,Sacramento,Santa Clara,0.009842148,34533
+3/4/20,Sacramento,Santa Clara,0.008396541,35119
+3/5/20,Sacramento,Santa Clara,0.010118676,34789
+3/6/20,Sacramento,Santa Clara,0.011466525,34503
+3/7/20,Sacramento,Santa Clara,0.021060464,32776
+3/8/20,Sacramento,Santa Clara,0.020517485,31078
+3/9/20,Sacramento,Santa Clara,0.031044091,32668
+3/10/20,Sacramento,Santa Clara,0.010650849,32383
+3/11/20,Sacramento,Santa Clara,0.009133012,32203
+3/12/20,Sacramento,Santa Clara,0.008506494,31899
+3/13/20,Sacramento,Santa Clara,0.009597513,30478
+3/14/20,Sacramento,Santa Clara,0.013923072,29007
+3/15/20,Sacramento,Santa Clara,0.008918706,24621
+3/16/20,Sacramento,Santa Clara,0.013842635,24672
+3/17/20,Sacramento,Santa Clara,0.009708367,25270
+3/18/20,Sacramento,Santa Clara,0.00743083,20472
+3/19/20,Sacramento,Santa Clara,0.006215498,20485
+3/20/20,Sacramento,Santa Clara,0.008687346,18337
+3/21/20,Sacramento,Santa Clara,0.007517822,13619
+3/22/20,Sacramento,Santa Clara,0.006583008,12587
+3/23/20,Sacramento,Santa Clara,0.007054924,18647
+3/24/20,Sacramento,Santa Clara,0.005907748,19127
+3/25/20,Sacramento,Santa Clara,0.007192254,18937
+3/26/20,Sacramento,Santa Clara,0.006475443,18959
+3/27/20,Sacramento,Santa Clara,0.007611052,19004
+3/28/20,Sacramento,Santa Clara,0.006584207,18478
+3/29/20,Sacramento,Santa Clara,0.003669164,17208
+3/30/20,Sacramento,Santa Clara,0.005617424,17884
+3/31/20,Sacramento,Santa Clara,0.006724758,18675
+3/2/20,Sacramento,Solano,0.118855029,13192
+3/3/20,Sacramento,Solano,0.068674926,10854
+3/4/20,Sacramento,Solano,0.070761932,11018
+3/5/20,Sacramento,Solano,0.07270456,11064
+3/6/20,Sacramento,Solano,0.078793195,11230
+3/7/20,Sacramento,Solano,0.106661059,11961
+3/8/20,Sacramento,Solano,0.110336231,11968
+3/9/20,Sacramento,Solano,0.127421734,12733
+3/10/20,Sacramento,Solano,0.073474471,10732
+3/11/20,Sacramento,Solano,0.071218059,10765
+3/12/20,Sacramento,Solano,0.0725,10848
+3/13/20,Sacramento,Solano,0.073806225,10593
+3/14/20,Sacramento,Solano,0.081323395,10615
+3/15/20,Sacramento,Solano,0.067442778,9103
+3/16/20,Sacramento,Solano,0.082052722,9433
+3/17/20,Sacramento,Solano,0.067843902,9176
+3/18/20,Sacramento,Solano,0.060988142,8559
+3/19/20,Sacramento,Solano,0.057370681,8189
+3/20/20,Sacramento,Solano,0.056354043,7346
+3/21/20,Sacramento,Solano,0.06117952,5428
+3/22/20,Sacramento,Solano,0.04464102,4684
+3/23/20,Sacramento,Solano,0.054876894,7267
+3/24/20,Sacramento,Solano,0.050079527,7246
+3/25/20,Sacramento,Solano,0.050714615,7178
+3/26/20,Sacramento,Solano,0.054129235,7298
+3/27/20,Sacramento,Solano,0.053646386,7286
+3/28/20,Sacramento,Solano,0.049287495,7097
+3/29/20,Sacramento,Solano,0.034602252,6177
+3/30/20,Sacramento,Solano,0.049275648,6765
+3/31/20,Sacramento,Solano,0.05133548,7101
+3/2/20,Sacramento,Sonoma,0.015613243,7868
+3/3/20,Sacramento,Sonoma,0.005848689,7174
+3/4/20,Sacramento,Sonoma,0.007491338,7420
+3/5/20,Sacramento,Sonoma,0.006277327,7354
+3/6/20,Sacramento,Sonoma,0.008427582,7344
+3/7/20,Sacramento,Sonoma,0.010934619,7309
+3/8/20,Sacramento,Sonoma,0.013577252,7367
+3/9/20,Sacramento,Sonoma,0.014423865,7460
+3/10/20,Sacramento,Sonoma,0.006488825,7146
+3/11/20,Sacramento,Sonoma,0.006444927,7207
+3/12/20,Sacramento,Sonoma,0.006785714,7241
+3/13/20,Sacramento,Sonoma,0.007333311,7005
+3/14/20,Sacramento,Sonoma,0.009985233,6800
+3/15/20,Sacramento,Sonoma,0.007932123,5962
+3/16/20,Sacramento,Sonoma,0.009830277,5836
+3/17/20,Sacramento,Sonoma,0.007491496,5812
+3/18/20,Sacramento,Sonoma,0.006996047,5393
+3/19/20,Sacramento,Sonoma,0.006869761,4896
+3/20/20,Sacramento,Sonoma,0.006686073,4539
+3/21/20,Sacramento,Sonoma,0.007258587,3348
+3/22/20,Sacramento,Sonoma,0.005074402,3172
+3/23/20,Sacramento,Sonoma,0.007291667,4872
+3/24/20,Sacramento,Sonoma,0.004771643,4914
+3/25/20,Sacramento,Sonoma,0.005809129,4735
+3/26/20,Sacramento,Sonoma,0.004924985,4797
+3/27/20,Sacramento,Sonoma,0.005304673,4781
+3/28/20,Sacramento,Sonoma,0.004797065,4806
+3/29/20,Sacramento,Sonoma,0.00417877,4300
+3/30/20,Sacramento,Sonoma,0.005272494,4420
+3/31/20,Sacramento,Sonoma,0.005446107,4618
+3/2/20,San Francisco,Alameda,0.367992276,37341
+3/3/20,San Francisco,Alameda,0.32636847,34554
+3/4/20,San Francisco,Alameda,0.330243124,35252
+3/5/20,San Francisco,Alameda,0.33426932,35119
+3/6/20,San Francisco,Alameda,0.34214543,35206
+3/7/20,San Francisco,Alameda,0.355352782,35092
+3/8/20,San Francisco,Alameda,0.341165414,33310
+3/9/20,San Francisco,Alameda,0.370348416,35460
+3/10/20,San Francisco,Alameda,0.326762699,33170
+3/11/20,San Francisco,Alameda,0.328036555,33371
+3/12/20,San Francisco,Alameda,0.31789993,32820
+3/13/20,San Francisco,Alameda,0.316033435,31413
+3/14/20,San Francisco,Alameda,0.310272873,30132
+3/15/20,San Francisco,Alameda,0.272523897,25155
+3/16/20,San Francisco,Alameda,0.304147031,25791
+3/17/20,San Francisco,Alameda,0.294372712,26244
+3/18/20,San Francisco,Alameda,0.250031924,20700
+3/19/20,San Francisco,Alameda,0.249196761,20677
+3/20/20,San Francisco,Alameda,0.261226252,18536
+3/21/20,San Francisco,Alameda,0.249114522,13643
+3/22/20,San Francisco,Alameda,0.2002772,11780
+3/23/20,San Francisco,Alameda,0.224036026,18327
+3/24/20,San Francisco,Alameda,0.232186206,18894
+3/25/20,San Francisco,Alameda,0.235064372,18580
+3/26/20,San Francisco,Alameda,0.239553924,19060
+3/27/20,San Francisco,Alameda,0.230504093,18685
+3/28/20,San Francisco,Alameda,0.221855794,18066
+3/29/20,San Francisco,Alameda,0.182558946,15845
+3/30/20,San Francisco,Alameda,0.228070175,17344
+3/31/20,San Francisco,Alameda,0.233825702,18432
+3/2/20,San Francisco,Contra Costa,0.226721381,28505
+3/3/20,San Francisco,Contra Costa,0.180919612,25960
+3/4/20,San Francisco,Contra Costa,0.18486002,26515
+3/5/20,San Francisco,Contra Costa,0.185813698,26334
+3/6/20,San Francisco,Contra Costa,0.194212101,26381
+3/7/20,San Francisco,Contra Costa,0.21314741,26550
+3/8/20,San Francisco,Contra Costa,0.205393291,25897
+3/9/20,San Francisco,Contra Costa,0.233418955,27274
+3/10/20,San Francisco,Contra Costa,0.182920946,25291
+3/11/20,San Francisco,Contra Costa,0.185705517,25576
+3/12/20,San Francisco,Contra Costa,0.182100071,25432
+3/13/20,San Francisco,Contra Costa,0.185334347,24536
+3/14/20,San Francisco,Contra Costa,0.192375602,23917
+3/15/20,San Francisco,Contra Costa,0.167073419,20503
+3/16/20,San Francisco,Contra Costa,0.192554194,20675
+3/17/20,San Francisco,Contra Costa,0.173347466,20394
+3/18/20,San Francisco,Contra Costa,0.154769506,16802
+3/19/20,San Francisco,Contra Costa,0.154221822,16919
+3/20/20,San Francisco,Contra Costa,0.164795625,15293
+3/21/20,San Francisco,Contra Costa,0.161747344,11168
+3/22/20,San Francisco,Contra Costa,0.130977131,10050
+3/23/20,San Francisco,Contra Costa,0.145510836,15816
+3/24/20,San Francisco,Contra Costa,0.141796373,15589
+3/25/20,San Francisco,Contra Costa,0.142340518,15397
+3/26/20,San Francisco,Contra Costa,0.150056465,15791
+3/27/20,San Francisco,Contra Costa,0.140743932,15620
+3/28/20,San Francisco,Contra Costa,0.144056363,15491
+3/29/20,San Francisco,Contra Costa,0.110783634,13748
+3/30/20,San Francisco,Contra Costa,0.147937411,14754
+3/31/20,San Francisco,Contra Costa,0.143426883,15430
+3/2/20,San Francisco,did not enter other counties,0.218997043,16571
+3/3/20,San Francisco,did not enter other counties,0.291961214,15985
+3/4/20,San Francisco,did not enter other counties,0.287696464,16288
+3/5/20,San Francisco,did not enter other counties,0.285007936,16382
+3/6/20,San Francisco,did not enter other counties,0.280297943,16379
+3/7/20,San Francisco,did not enter other counties,0.260956175,15562
+3/8/20,San Francisco,did not enter other counties,0.264314633,13832
+3/9/20,San Francisco,did not enter other counties,0.233879997,15183
+3/10/20,San Francisco,did not enter other counties,0.301330209,14509
+3/11/20,San Francisco,did not enter other counties,0.300211417,14663
+3/12/20,San Francisco,did not enter other counties,0.301057083,14190
+3/13/20,San Francisco,did not enter other counties,0.3056231,13160
+3/14/20,San Francisco,did not enter other counties,0.299277689,12460
+3/15/20,San Francisco,did not enter other counties,0.349400041,9834
+3/16/20,San Francisco,did not enter other counties,0.300942507,10610
+3/17/20,San Francisco,did not enter other counties,0.33802274,10378
+3/18/20,San Francisco,did not enter other counties,0.425233048,7831
+3/19/20,San Francisco,did not enter other counties,0.42565223,7781
+3/20/20,San Francisco,did not enter other counties,0.419545193,6948
+3/21/20,San Francisco,did not enter other counties,0.432900433,5082
+3/22/20,San Francisco,did not enter other counties,0.497343497,4329
+3/23/20,San Francisco,did not enter other counties,0.435828877,7106
+3/24/20,San Francisco,did not enter other counties,0.460659717,7003
+3/25/20,San Francisco,did not enter other counties,0.470852018,6913
+3/26/20,San Francisco,did not enter other counties,0.451722191,7084
+3/27/20,San Francisco,did not enter other counties,0.460290105,6963
+3/28/20,San Francisco,did not enter other counties,0.45435467,6671
+3/29/20,San Francisco,did not enter other counties,0.520457698,5768
+3/30/20,San Francisco,did not enter other counties,0.458036984,6327
+3/31/20,San Francisco,did not enter other counties,0.451255539,6770
+3/2/20,San Francisco,Marin,0.109287309,5323
+3/3/20,San Francisco,Marin,0.080700657,4422
+3/4/20,San Francisco,Marin,0.085768664,4625
+3/5/20,San Francisco,Marin,0.088939079,4670
+3/6/20,San Francisco,Marin,0.092740705,4703
+3/7/20,San Francisco,Marin,0.09349698,4675
+3/8/20,San Francisco,Marin,0.103021978,4692
+3/9/20,San Francisco,Marin,0.103800303,4946
+3/10/20,San Francisco,Marin,0.086566958,4429
+3/11/20,San Francisco,Marin,0.079178886,4389
+3/12/20,San Francisco,Marin,0.086187456,4498
+3/13/20,San Francisco,Marin,0.082902736,4202
+3/14/20,San Francisco,Marin,0.089807384,4185
+3/15/20,San Francisco,Marin,0.080740289,3431
+3/16/20,San Francisco,Marin,0.084071631,3608
+3/17/20,San Francisco,Marin,0.070822895,3332
+3/18/20,San Francisco,Marin,0.060911761,2726
+3/19/20,San Francisco,Marin,0.056548002,2623
+3/20/20,San Francisco,Marin,0.058146229,2427
+3/21/20,San Francisco,Marin,0.066902794,1774
+3/22/20,San Francisco,Marin,0.071841072,1602
+3/23/20,San Francisco,Marin,0.074021953,2635
+3/24/20,San Francisco,Marin,0.052548908,2348
+3/25/20,San Francisco,Marin,0.050629249,2333
+3/26/20,San Francisco,Marin,0.052371542,2422
+3/27/20,San Francisco,Marin,0.055866724,2375
+3/28/20,San Francisco,Marin,0.05966122,2435
+3/29/20,San Francisco,Marin,0.056692094,2115
+3/30/20,San Francisco,Marin,0.054686265,2199
+3/31/20,San Francisco,Marin,0.059084195,2362
+3/2/20,San Francisco,Napa,0.057691147,5618
+3/3/20,San Francisco,Napa,0.030215827,4344
+3/4/20,San Francisco,Napa,0.030022102,4465
+3/5/20,San Francisco,Napa,0.032047369,4431
+3/6/20,San Francisco,Napa,0.035899628,4632
+3/7/20,San Francisco,Napa,0.048451356,4911
+3/8/20,San Francisco,Napa,0.052559283,4886
+3/9/20,San Francisco,Napa,0.059672002,5357
+3/10/20,San Francisco,Napa,0.034185678,4326
+3/11/20,San Francisco,Napa,0.034235832,4408
+3/12/20,San Francisco,Napa,0.033333333,4509
+3/13/20,San Francisco,Napa,0.033206687,4187
+3/14/20,San Francisco,Napa,0.041573034,4198
+3/15/20,San Francisco,Napa,0.045047793,3540
+3/16/20,San Francisco,Napa,0.048727615,3790
+3/17/20,San Francisco,Napa,0.034206976,3605
+3/18/20,San Francisco,Napa,0.03371217,3227
+3/19/20,San Francisco,Napa,0.032900655,3073
+3/20/20,San Francisco,Napa,0.031663788,2794
+3/21/20,San Francisco,Napa,0.026170799,1783
+3/22/20,San Francisco,Napa,0.022638023,1390
+3/23/20,San Francisco,Napa,0.029271039,2567
+3/24/20,San Francisco,Napa,0.027274025,2625
+3/25/20,San Francisco,Napa,0.027918415,2513
+3/26/20,San Francisco,Napa,0.030350085,2674
+3/27/20,San Francisco,Napa,0.028579635,2602
+3/28/20,San Francisco,Napa,0.033128467,2509
+3/29/20,San Francisco,Napa,0.023058252,2006
+3/30/20,San Francisco,Napa,0.033507191,2441
+3/31/20,San Francisco,Napa,0.028508124,2554
+3/2/20,San Francisco,Sacramento,0.053104822,31896
+3/3/20,San Francisco,Sacramento,0.019017829,31802
+3/4/20,San Francisco,Sacramento,0.019646365,32037
+3/5/20,San Francisco,Sacramento,0.020998657,32020
+3/6/20,San Francisco,Sacramento,0.024665731,31919
+3/7/20,San Francisco,Sacramento,0.042989333,30911
+3/8/20,San Francisco,Sacramento,0.038895315,29682
+3/9/20,San Francisco,Sacramento,0.057893697,30505
+3/10/20,San Francisco,Sacramento,0.022468812,30514
+3/11/20,San Francisco,Sacramento,0.021891837,30877
+3/12/20,San Francisco,Sacramento,0.022198732,30800
+3/13/20,San Francisco,Sacramento,0.023556231,29591
+3/14/20,San Francisco,Sacramento,0.030256822,28442
+3/15/20,San Francisco,Sacramento,0.031624975,25340
+3/16/20,San Francisco,Sacramento,0.033459001,24923
+3/17/20,San Francisco,Sacramento,0.022933128,26163
+3/18/20,San Francisco,Sacramento,0.020942408,25300
+3/19/20,San Francisco,Sacramento,0.017349955,24455
+3/20/20,San Francisco,Sacramento,0.016983305,21986
+3/21/20,San Francisco,Sacramento,0.021841795,15430
+3/22/20,San Francisco,Sacramento,0.016170016,14583
+3/23/20,San Francisco,Sacramento,0.022094005,21120
+3/24/20,San Francisco,Sacramento,0.016849921,22005
+3/25/20,San Francisco,Sacramento,0.015188775,21690
+3/26/20,San Francisco,Sacramento,0.020609825,21929
+3/27/20,San Francisco,Sacramento,0.016946718,21679
+3/28/20,San Francisco,Sacramento,0.023084995,21263
+3/29/20,San Francisco,Sacramento,0.015603329,19623
+3/30/20,San Francisco,Sacramento,0.022917655,20294
+3/31/20,San Francisco,Sacramento,0.017725258,21116
+3/2/20,San Francisco,San Mateo,53%,20335
+3/3/20,San Francisco,San Mateo,45%,19353
+3/4/20,San Francisco,San Mateo,45%,19617
+3/5/20,San Francisco,San Mateo,46%,19485
+3/6/20,San Francisco,San Mateo,46%,19563
+3/7/20,San Francisco,San Mateo,49%,18653
+3/8/20,San Francisco,San Mateo,52%,17357
+3/9/20,San Francisco,San Mateo,51%,18734
+3/10/20,San Francisco,San Mateo,44%,17728
+3/11/20,San Francisco,San Mateo,45%,17839
+3/12/20,San Francisco,San Mateo,45%,17749
+3/13/20,San Francisco,San Mateo,46%,16785
+3/14/20,San Francisco,San Mateo,49%,16170
+3/15/20,San Francisco,San Mateo,48%,13100
+3/16/20,San Francisco,San Mateo,48%,13538
+3/17/20,San Francisco,San Mateo,45%,13497
+3/18/20,San Francisco,San Mateo,41%,10477
+3/19/20,San Francisco,San Mateo,40%,10340
+3/20/20,San Francisco,San Mateo,40%,9120
+3/21/20,San Francisco,San Mateo,39%,6567
+3/22/20,San Francisco,San Mateo,37%,5735
+3/23/20,San Francisco,San Mateo,40%,9363
+3/24/20,San Francisco,San Mateo,38%,9294
+3/25/20,San Francisco,San Mateo,36%,9052
+3/26/20,San Francisco,San Mateo,38%,9331
+3/27/20,San Francisco,San Mateo,37%,9211
+3/28/20,San Francisco,San Mateo,39%,9004
+3/29/20,San Francisco,San Mateo,35%,8028
+3/30/20,San Francisco,San Mateo,37%,8548
+3/31/20,San Francisco,San Mateo,38%,9093
+3/2/20,San Francisco,Santa Clara,0.117253032,34488
+3/3/20,San Francisco,Santa Clara,0.082452299,34533
+3/4/20,San Francisco,Santa Clara,0.086444008,35119
+3/5/20,San Francisco,Santa Clara,0.088328653,34789
+3/6/20,San Francisco,Santa Clara,0.09396178,34503
+3/7/20,San Francisco,Santa Clara,0.096838453,32776
+3/8/20,San Francisco,Santa Clara,0.110685367,31078
+3/9/20,San Francisco,Santa Clara,0.109266943,32668
+3/10/20,San Francisco,Santa Clara,0.076504239,32383
+3/11/20,San Francisco,Santa Clara,0.077610312,32203
+3/12/20,San Francisco,Santa Clara,0.077589852,31899
+3/13/20,San Francisco,Santa Clara,0.074924012,30478
+3/14/20,San Francisco,Santa Clara,0.075842697,29007
+3/15/20,San Francisco,Santa Clara,0.063351637,24621
+3/16/20,San Francisco,Santa Clara,0.078510839,24672
+3/17/20,San Francisco,Santa Clara,0.061572557,25270
+3/18/20,San Francisco,Santa Clara,0.048908185,20472
+3/19/20,San Francisco,Santa Clara,0.048451356,20485
+3/20/20,San Francisco,Santa Clara,0.05224525,18337
+3/21/20,San Francisco,Santa Clara,0.055686738,13619
+3/22/20,San Francisco,Santa Clara,0.051975052,12587
+3/23/20,San Francisco,Santa Clara,0.047424712,18647
+3/24/20,San Francisco,Santa Clara,0.038983293,19127
+3/25/20,San Francisco,Santa Clara,0.042817879,18937
+3/26/20,San Francisco,Santa Clara,0.046019198,18959
+3/27/20,San Francisco,Santa Clara,0.047393365,19004
+3/28/20,San Francisco,Santa Clara,0.046919502,18478
+3/29/20,San Francisco,Santa Clara,0.038661581,17208
+3/30/20,San Francisco,Santa Clara,0.046151415,17884
+3/31/20,San Francisco,Santa Clara,0.047415066,18675
+3/2/20,San Francisco,Solano,0.093416209,13192
+3/3/20,San Francisco,Solano,0.052674382,10854
+3/4/20,San Francisco,Solano,0.052369843,11018
+3/5/20,San Francisco,Solano,0.054388964,11064
+3/6/20,San Francisco,Solano,0.060504304,11230
+3/7/20,San Francisco,Solano,0.081994602,11961
+3/8/20,San Francisco,Solano,0.078152111,11968
+3/9/20,San Francisco,Solano,0.096621221,12733
+3/10/20,San Francisco,Solano,0.058170791,10732
+3/11/20,San Francisco,Solano,0.056809657,10765
+3/12/20,San Francisco,Solano,0.055954898,10848
+3/13/20,San Francisco,Solano,0.060106383,10593
+3/14/20,San Francisco,Solano,0.070224719,10615
+3/15/20,San Francisco,Solano,0.065588774,9103
+3/16/20,San Francisco,Solano,0.075777568,9433
+3/17/20,San Francisco,Solano,0.058296396,9176
+3/18/20,San Francisco,Solano,0.055803856,8559
+3/19/20,San Francisco,Solano,0.052178383,8189
+3/20/20,San Francisco,Solano,0.056850892,7346
+3/21/20,San Francisco,Solano,0.062180244,5428
+3/22/20,San Francisco,Solano,0.047355047,4684
+3/23/20,San Francisco,Solano,0.050661413,7267
+3/24/20,San Francisco,Solano,0.047122662,7246
+3/25/20,San Francisco,Solano,0.048604079,7178
+3/26/20,San Francisco,Solano,0.051383399,7298
+3/27/20,San Francisco,Solano,0.049547609,7286
+3/28/20,San Francisco,Solano,0.053515215,7097
+3/29/20,San Francisco,Solano,0.039528433,6177
+3/30/20,San Francisco,Solano,0.054844318,6765
+3/31/20,San Francisco,Solano,0.050221566,7101
+3/2/20,San Francisco,Sonoma,0.045983948,7868
+3/3/20,San Francisco,Sonoma,0.023396935,7174
+3/4/20,San Francisco,Sonoma,0.026031434,7420
+3/5/20,San Francisco,Sonoma,0.026370407,7354
+3/6/20,San Francisco,Sonoma,0.028451065,7344
+3/7/20,San Francisco,Sonoma,0.032515101,7309
+3/8/20,San Francisco,Sonoma,0.039112204,7367
+3/9/20,San Francisco,Sonoma,0.043074491,7460
+3/10/20,San Francisco,Sonoma,0.029085395,7146
+3/11/20,San Francisco,Sonoma,0.027484144,7207
+3/12/20,San Francisco,Sonoma,0.028118393,7241
+3/13/20,San Francisco,Sonoma,0.027431611,7005
+3/14/20,San Francisco,Sonoma,0.036195827,6800
+3/15/20,San Francisco,Sonoma,0.034065487,5962
+3/16/20,San Francisco,Sonoma,0.035626767,5836
+3/17/20,San Francisco,Sonoma,0.027847369,5812
+3/18/20,San Francisco,Sonoma,0.026433406,5393
+3/19/20,San Francisco,Sonoma,0.022233646,4896
+3/20/20,San Francisco,Sonoma,0.02302821,4539
+3/21/20,San Francisco,Sonoma,0.026957891,3348
+3/22/20,San Francisco,Sonoma,0.028644029,3172
+3/23/20,San Francisco,Sonoma,0.025893611,4872
+3/24/20,San Francisco,Sonoma,0.020562616,4914
+3/25/20,San Francisco,Sonoma,0.0202517,4735
+3/26/20,San Francisco,Sonoma,0.01863354,4797
+3/27/20,San Francisco,Sonoma,0.020393509,4781
+3/28/20,San Francisco,Sonoma,0.026083046,4806
+3/29/20,San Francisco,Sonoma,0.018203884,4300
+3/30/20,San Francisco,Sonoma,0.022917655,4420
+3/31/20,San Francisco,Sonoma,0.023633678,4618
+3/2/20,San Mateo,Alameda,0.270469634,37341
+3/3/20,San Mateo,Alameda,0.227768305,34554
+3/4/20,San Mateo,Alameda,0.231686802,35252
+3/5/20,San Mateo,Alameda,0.233358994,35119
+3/6/20,San Mateo,Alameda,0.242498594,35206
+3/7/20,San Mateo,Alameda,0.259797352,35092
+3/8/20,San Mateo,Alameda,0.239039004,33310
+3/9/20,San Mateo,Alameda,0.270470802,35460
+3/10/20,San Mateo,Alameda,0.227718863,33170
+3/11/20,San Mateo,Alameda,0.22192948,33371
+3/12/20,San Mateo,Alameda,0.221026537,32820
+3/13/20,San Mateo,Alameda,0.22126899,31413
+3/14/20,San Mateo,Alameda,0.223747681,30132
+3/15/20,San Mateo,Alameda,0.199847328,25155
+3/16/20,San Mateo,Alameda,0.219160881,25791
+3/17/20,San Mateo,Alameda,0.204267615,26244
+3/18/20,San Mateo,Alameda,0.181922306,20700
+3/19/20,San Mateo,Alameda,0.176982592,20677
+3/20/20,San Mateo,Alameda,0.187719298,18536
+3/21/20,San Mateo,Alameda,0.182884118,13643
+3/22/20,San Mateo,Alameda,0.154141238,11780
+3/23/20,San Mateo,Alameda,0.154864894,18327
+3/24/20,San Mateo,Alameda,0.167957822,18894
+3/25/20,San Mateo,Alameda,0.170238621,18580
+3/26/20,San Mateo,Alameda,0.168899368,19060
+3/27/20,San Mateo,Alameda,0.161003148,18685
+3/28/20,San Mateo,Alameda,0.154264771,18066
+3/29/20,San Mateo,Alameda,0.124439462,15845
+3/30/20,San Mateo,Alameda,0.156176884,17344
+3/31/20,San Mateo,Alameda,0.164962059,18432
+3/2/20,San Mateo,Contra Costa,0.111728547,28505
+3/3/20,San Mateo,Contra Costa,0.077300677,25960
+3/4/20,San Mateo,Contra Costa,0.079217006,26515
+3/5/20,San Mateo,Contra Costa,0.079753657,26334
+3/6/20,San Mateo,Contra Costa,0.087614374,26381
+3/7/20,San Mateo,Contra Costa,0.102235565,26550
+3/8/20,San Mateo,Contra Costa,0.105144898,25897
+3/9/20,San Mateo,Contra Costa,0.114924736,27274
+3/10/20,San Mateo,Contra Costa,0.078463448,25291
+3/11/20,San Mateo,Contra Costa,0.077414653,25576
+3/12/20,San Mateo,Contra Costa,0.07730013,25432
+3/13/20,San Mateo,Contra Costa,0.079237414,24536
+3/14/20,San Mateo,Contra Costa,0.091651206,23917
+3/15/20,San Mateo,Contra Costa,0.082290076,20503
+3/16/20,San Mateo,Contra Costa,0.092849756,20675
+3/17/20,San Mateo,Contra Costa,0.073794176,20394
+3/18/20,San Mateo,Contra Costa,0.069867328,16802
+3/19/20,San Mateo,Contra Costa,0.066924565,16919
+3/20/20,San Mateo,Contra Costa,0.076425439,15293
+3/21/20,San Mateo,Contra Costa,0.078270139,11168
+3/22/20,San Mateo,Contra Costa,0.066608544,10050
+3/23/20,San Mateo,Contra Costa,0.06109153,15816
+3/24/20,San Mateo,Contra Costa,0.062083064,15589
+3/25/20,San Mateo,Contra Costa,0.060980999,15397
+3/26/20,San Mateo,Contra Costa,0.062372736,15791
+3/27/20,San Mateo,Contra Costa,0.058516991,15620
+3/28/20,San Mateo,Contra Costa,0.060417592,15491
+3/29/20,San Mateo,Contra Costa,0.048829098,13748
+3/30/20,San Mateo,Contra Costa,0.060715957,14754
+3/31/20,San Mateo,Contra Costa,0.061255911,15430
+3/2/20,San Mateo,did not enter other counties,0.260732727,20335
+3/3/20,San Mateo,did not enter other counties,0.314059836,19353
+3/4/20,San Mateo,did not enter other counties,0.309884284,19617
+3/5/20,San Mateo,did not enter other counties,0.310289967,19485
+3/6/20,San Mateo,did not enter other counties,0.304503399,19563
+3/7/20,San Mateo,did not enter other counties,0.296681499,18653
+3/8/20,San Mateo,did not enter other counties,0.321945037,17357
+3/9/20,San Mateo,did not enter other counties,0.277463436,18734
+3/10/20,San Mateo,did not enter other counties,0.333765794,17728
+3/11/20,San Mateo,did not enter other counties,0.340209653,17839
+3/12/20,San Mateo,did not enter other counties,0.346498394,17749
+3/13/20,San Mateo,did not enter other counties,0.352636282,16785
+3/14/20,San Mateo,did not enter other counties,0.35528757,16170
+3/15/20,San Mateo,did not enter other counties,0.411755725,13100
+3/16/20,San Mateo,did not enter other counties,0.358176983,13538
+3/17/20,San Mateo,did not enter other counties,0.397792102,13497
+3/18/20,San Mateo,did not enter other counties,0.47790398,10477
+3/19/20,San Mateo,did not enter other counties,0.4844294,10340
+3/20/20,San Mateo,did not enter other counties,0.482346491,9120
+3/21/20,San Mateo,did not enter other counties,0.487741739,6567
+3/22/20,San Mateo,did not enter other counties,0.544202267,5735
+3/23/20,San Mateo,did not enter other counties,0.508811278,9363
+3/24/20,San Mateo,did not enter other counties,0.512481171,9294
+3/25/20,San Mateo,did not enter other counties,0.519885108,9052
+3/26/20,San Mateo,did not enter other counties,0.512913943,9331
+3/27/20,San Mateo,did not enter other counties,0.516556291,9211
+3/28/20,San Mateo,did not enter other counties,0.520213239,9004
+3/29/20,San Mateo,did not enter other counties,0.580592925,8028
+3/30/20,San Mateo,did not enter other counties,0.520706598,8548
+3/31/20,San Mateo,did not enter other counties,0.509732762,9093
+3/2/20,San Mateo,Marin,0.038603393,5323
+3/3/20,San Mateo,Marin,0.021133674,4422
+3/4/20,San Mateo,Marin,0.024417597,4625
+3/5/20,San Mateo,Marin,0.026635874,4670
+3/6/20,San Mateo,Marin,0.028676583,4703
+3/7/20,San Mateo,Marin,0.029807538,4675
+3/8/20,San Mateo,Marin,0.036642277,4692
+3/9/20,San Mateo,Marin,0.036617914,4946
+3/10/20,San Mateo,Marin,0.024988718,4429
+3/11/20,San Mateo,Marin,0.020404731,4389
+3/12/20,San Mateo,Marin,0.023663305,4498
+3/13/20,San Mateo,Marin,0.023711647,4202
+3/14/20,San Mateo,Marin,0.030488559,4185
+3/15/20,San Mateo,Marin,0.027328244,3431
+3/16/20,San Mateo,Marin,0.027773674,3608
+3/17/20,San Mateo,Marin,0.021708528,3332
+3/18/20,San Mateo,Marin,0.020043906,2726
+3/19/20,San Mateo,Marin,0.016247582,2623
+3/20/20,San Mateo,Marin,0.017324561,2427
+3/21/20,San Mateo,Marin,0.022689204,1774
+3/22/20,San Mateo,Marin,0.023365301,1602
+3/23/20,San Mateo,Marin,0.018263377,2635
+3/24/20,San Mateo,Marin,0.013987519,2348
+3/25/20,San Mateo,Marin,0.013146266,2333
+3/26/20,San Mateo,Marin,0.01221734,2422
+3/27/20,San Mateo,Marin,0.015307784,2375
+3/28/20,San Mateo,Marin,0.015326522,2435
+3/29/20,San Mateo,Marin,0.013328351,2115
+3/30/20,San Mateo,Marin,0.011230697,2199
+3/31/20,San Mateo,Marin,0.015396459,2362
+3/2/20,San Mateo,Napa,0.026456848,5618
+3/3/20,San Mateo,Napa,0.012091149,4344
+3/4/20,San Mateo,Napa,0.01299893,4465
+3/5/20,San Mateo,Napa,0.014267385,4431
+3/6/20,San Mateo,Napa,0.015897357,4632
+3/7/20,San Mateo,Napa,0.023910363,4911
+3/8/20,San Mateo,Napa,0.025177162,4886
+3/9/20,San Mateo,Napa,0.02818405,5357
+3/10/20,San Mateo,Napa,0.013932762,4326
+3/11/20,San Mateo,Napa,0.014518751,4408
+3/12/20,San Mateo,Napa,0.013071159,4509
+3/13/20,San Mateo,Napa,0.014417635,4187
+3/14/20,San Mateo,Napa,0.020408163,4198
+3/15/20,San Mateo,Napa,0.020381679,3540
+3/16/20,San Mateo,Napa,0.023193973,3790
+3/17/20,San Mateo,Napa,0.014003112,3605
+3/18/20,San Mateo,Napa,0.014317076,3227
+3/19/20,San Mateo,Napa,0.0155706,3073
+3/20/20,San Mateo,Napa,0.01502193,2794
+3/21/20,San Mateo,Napa,0.012029846,1783
+3/22/20,San Mateo,Napa,0.010810811,1390
+3/23/20,San Mateo,Napa,0.012495995,2567
+3/24/20,San Mateo,Napa,0.011297611,2625
+3/25/20,San Mateo,Napa,0.011931065,2513
+3/26/20,San Mateo,Napa,0.012860358,2674
+3/27/20,San Mateo,Napa,0.010530887,2602
+3/28/20,San Mateo,Napa,0.013549534,2509
+3/29/20,San Mateo,Napa,0.008844046,2006
+3/30/20,San Mateo,Napa,0.012166589,2441
+3/31/20,San Mateo,Napa,0.011657319,2554
+3/2/20,San Mateo,Sacramento,0.032751414,31896
+3/3/20,San Mateo,Sacramento,0.01048933,31802
+3/4/20,San Mateo,Sacramento,0.010857929,32037
+3/5/20,San Mateo,Sacramento,0.012214524,32020
+3/6/20,San Mateo,Sacramento,0.014875019,31919
+3/7/20,San Mateo,Sacramento,0.026483676,30911
+3/8/20,San Mateo,Sacramento,0.022123639,29682
+3/9/20,San Mateo,Sacramento,0.035069926,30505
+3/10/20,San Mateo,Sacramento,0.013030235,30514
+3/11/20,San Mateo,Sacramento,0.011491676,30877
+3/12/20,San Mateo,Sacramento,0.012057017,30800
+3/13/20,San Mateo,Sacramento,0.013166518,29591
+3/14/20,San Mateo,Sacramento,0.018676562,28442
+3/15/20,San Mateo,Sacramento,0.016564886,25340
+3/16/20,San Mateo,Sacramento,0.019648397,24923
+3/17/20,San Mateo,Sacramento,0.012521301,26163
+3/18/20,San Mateo,Sacramento,0.011740002,25300
+3/19/20,San Mateo,Sacramento,0.011411992,24455
+3/20/20,San Mateo,Sacramento,0.011622807,21986
+3/21/20,San Mateo,Sacramento,0.012638952,15430
+3/22/20,San Mateo,Sacramento,0.007323452,14583
+3/23/20,San Mateo,Sacramento,0.011000748,21120
+3/24/20,San Mateo,Sacramento,0.008607704,22005
+3/25/20,San Mateo,Sacramento,0.00784357,21690
+3/26/20,San Mateo,Sacramento,0.011145644,21929
+3/27/20,San Mateo,Sacramento,0.009553794,21679
+3/28/20,San Mateo,Sacramento,0.011772546,21263
+3/29/20,San Mateo,Sacramento,0.006975585,19623
+3/30/20,San Mateo,Sacramento,0.01146467,20294
+3/31/20,San Mateo,Sacramento,0.009677774,21116
+3/2/20,San Mateo,San Francisco,0.428128842,16571
+3/3/20,San Mateo,San Francisco,0.372138687,15985
+3/4/20,San Mateo,San Francisco,0.375694551,16288
+3/5/20,San Mateo,San Francisco,0.382909931,16382
+3/6/20,San Mateo,San Francisco,0.387108317,16379
+3/7/20,San Mateo,San Francisco,0.405028682,15562
+3/8/20,San Mateo,San Francisco,0.410785274,13832
+3/9/20,San Mateo,San Francisco,0.412618768,15183
+3/10/20,San Mateo,San Francisco,0.362364621,14509
+3/11/20,San Mateo,San Francisco,0.366892763,14663
+3/12/20,San Mateo,San Francisco,0.363006367,14190
+3/13/20,San Mateo,San Francisco,0.358713137,13160
+3/14/20,San Mateo,San Francisco,0.374458875,12460
+3/15/20,San Mateo,San Francisco,0.358625954,9834
+3/16/20,San Mateo,San Francisco,0.378933373,10610
+3/17/20,San Mateo,San Francisco,0.349781433,10378
+3/18/20,San Mateo,San Francisco,0.302949318,7831
+3/19/20,San Mateo,San Francisco,0.30377176,7781
+3/20/20,San Mateo,San Francisco,0.306798246,6948
+3/21/20,San Mateo,San Francisco,0.305619004,5082
+3/22/20,San Mateo,San Francisco,0.277070619,4329
+3/23/20,San Mateo,San Francisco,0.300971911,7106
+3/24/20,San Mateo,San Francisco,0.285345384,7003
+3/25/20,San Mateo,San Francisco,0.275740168,6913
+3/26/20,San Mateo,San Francisco,0.285178438,7084
+3/27/20,San Mateo,San Francisco,0.280968407,6963
+3/28/20,San Mateo,San Francisco,0.286317192,6671
+3/29/20,San Mateo,San Francisco,0.251993024,5768
+3/30/20,San Mateo,San Francisco,0.277491811,6327
+3/31/20,San Mateo,San Francisco,0.281535247,6770
+3/2/20,San Mateo,Santa Clara,0.316105237,34488
+3/3/20,San Mateo,Santa Clara,0.300521883,34533
+3/4/20,San Mateo,Santa Clara,0.30351226,35119
+3/5/20,San Mateo,Santa Clara,0.30233513,34789
+3/6/20,San Mateo,Santa Clara,0.30532127,34503
+3/7/20,San Mateo,Santa Clara,0.297056774,32776
+3/8/20,San Mateo,Santa Clara,0.285763669,31078
+3/9/20,San Mateo,Santa Clara,0.308743461,32668
+3/10/20,San Mateo,Santa Clara,0.286326715,32383
+3/11/20,San Mateo,Santa Clara,0.281349851,32203
+3/12/20,San Mateo,Santa Clara,0.275114091,31899
+3/13/20,San Mateo,Santa Clara,0.269466786,30478
+3/14/20,San Mateo,Santa Clara,0.254174397,29007
+3/15/20,San Mateo,Santa Clara,0.207633588,24621
+3/16/20,San Mateo,Santa Clara,0.243315113,24672
+3/17/20,San Mateo,Santa Clara,0.230792028,25270
+3/18/20,San Mateo,Santa Clara,0.188317266,20472
+3/19/20,San Mateo,Santa Clara,0.187427466,20485
+3/20/20,San Mateo,Santa Clara,0.186622807,18337
+3/21/20,San Mateo,Santa Clara,0.185625095,13619
+3/22/20,San Mateo,Santa Clara,0.160767219,12587
+3/23/20,San Mateo,Santa Clara,0.169283349,18647
+3/24/20,San Mateo,Santa Clara,0.172261674,19127
+3/25/20,San Mateo,Santa Clara,0.174768007,18937
+3/26/20,San Mateo,Santa Clara,0.175222377,18959
+3/27/20,San Mateo,Santa Clara,0.180110737,19004
+3/28/20,San Mateo,Santa Clara,0.174366948,18478
+3/29/20,San Mateo,Santa Clara,0.152590932,17208
+3/30/20,San Mateo,Santa Clara,0.175830604,17884
+3/31/20,San Mateo,Santa Clara,0.185857253,18675
+3/2/20,San Mateo,Solano,0.047897713,13192
+3/3/20,San Mateo,Solano,0.023200537,10854
+3/4/20,San Mateo,Solano,0.023805883,11018
+3/5/20,San Mateo,Solano,0.025147549,11064
+3/6/20,San Mateo,Solano,0.029085519,11230
+3/7/20,San Mateo,Solano,0.042352437,11961
+3/8/20,San Mateo,Solano,0.039465345,11968
+3/9/20,San Mateo,Solano,0.048628163,12733
+3/10/20,San Mateo,Solano,0.025722022,10732
+3/11/20,San Mateo,Solano,0.025449857,10765
+3/12/20,San Mateo,Solano,0.024170376,10848
+3/13/20,San Mateo,Solano,0.027524576,10593
+3/14/20,San Mateo,Solano,0.035745207,10615
+3/15/20,San Mateo,Solano,0.031068702,9103
+3/16/20,San Mateo,Solano,0.037154676,9433
+3/17/20,San Mateo,Solano,0.025487145,9176
+3/18/20,San Mateo,Solano,0.0252935,8559
+3/19/20,San Mateo,Solano,0.02417795,8189
+3/20/20,San Mateo,Solano,0.028179825,7346
+3/21/20,San Mateo,Solano,0.029389371,5428
+3/22/20,San Mateo,Solano,0.024062772,4684
+3/23/20,San Mateo,Solano,0.022108299,7267
+3/24/20,San Mateo,Solano,0.020228104,7246
+3/25/20,San Mateo,Solano,0.020216527,7178
+3/26/20,San Mateo,Solano,0.022184117,7298
+3/27/20,San Mateo,Solano,0.019976116,7286
+3/28/20,San Mateo,Solano,0.023100844,7097
+3/29/20,San Mateo,Solano,0.017812656,6177
+3/30/20,San Mateo,Solano,0.021993449,6765
+3/31/20,San Mateo,Solano,0.020125371,7101
+3/2/20,San Mateo,Sonoma,0.016277354,7868
+3/3/20,San Mateo,Sonoma,0.007285692,7174
+3/4/20,San Mateo,Sonoma,0.008869858,7420
+3/5/20,San Mateo,Sonoma,0.008827303,7354
+3/6/20,San Mateo,Sonoma,0.009763329,7344
+3/7/20,San Mateo,Sonoma,0.011901571,7309
+3/8/20,San Mateo,Sonoma,0.015843752,7367
+3/9/20,San Mateo,Sonoma,0.016440696,7460
+3/10/20,San Mateo,Sonoma,0.010435469,7146
+3/11/20,San Mateo,Sonoma,0.009137283,7207
+3/12/20,San Mateo,Sonoma,0.010085075,7241
+3/13/20,San Mateo,Sonoma,0.010306822,7005
+3/14/20,San Mateo,Sonoma,0.015027829,6800
+3/15/20,San Mateo,Sonoma,0.013053435,5962
+3/16/20,San Mateo,Sonoma,0.014108436,5836
+3/17/20,San Mateo,Sonoma,0.009705861,5812
+3/18/20,San Mateo,Sonoma,0.010403742,5393
+3/19/20,San Mateo,Sonoma,0.008123791,4896
+3/20/20,San Mateo,Sonoma,0.007785088,4539
+3/21/20,San Mateo,Sonoma,0.009288869,3348
+3/22/20,San Mateo,Sonoma,0.010985179,3172
+3/23/20,San Mateo,Sonoma,0.007155826,4872
+3/24/20,San Mateo,Sonoma,0.006240585,4914
+3/25/20,San Mateo,Sonoma,0.006517897,4735
+3/26/20,San Mateo,Sonoma,0.005679991,4797
+3/27/20,San Mateo,Sonoma,0.006296819,4781
+3/28/20,San Mateo,Sonoma,0.007885384,4806
+3/29/20,San Mateo,Sonoma,0.005231689,4300
+3/30/20,San Mateo,Sonoma,0.004445484,4420
+3/31/20,San Mateo,Sonoma,0.006818432,4618
+3/2/20,Santa Clara,Alameda,0.23164579,37341
+3/3/20,Santa Clara,Alameda,0.176729505,34554
+3/4/20,Santa Clara,Alameda,0.180215838,35252
+3/5/20,Santa Clara,Alameda,0.178734658,35119
+3/6/20,Santa Clara,Alameda,0.18659247,35206
+3/7/20,Santa Clara,Alameda,0.202312668,35092
+3/8/20,Santa Clara,Alameda,0.20979471,33310
+3/9/20,Santa Clara,Alameda,0.233806783,35460
+3/10/20,Santa Clara,Alameda,0.175740358,33170
+3/11/20,Santa Clara,Alameda,0.17026364,33371
+3/12/20,Santa Clara,Alameda,0.167183924,32820
+3/13/20,Santa Clara,Alameda,0.164184002,31413
+3/14/20,Santa Clara,Alameda,0.169097115,30132
+3/15/20,Santa Clara,Alameda,0.149344056,25155
+3/16/20,Santa Clara,Alameda,0.170679313,25791
+3/17/20,Santa Clara,Alameda,0.152552434,26244
+3/18/20,Santa Clara,Alameda,0.118649863,20700
+3/19/20,Santa Clara,Alameda,0.117695875,20677
+3/20/20,Santa Clara,Alameda,0.125756667,18536
+3/21/20,Santa Clara,Alameda,0.120199721,13643
+3/22/20,Santa Clara,Alameda,0.089616271,11780
+3/23/20,Santa Clara,Alameda,0.104145439,18327
+3/24/20,Santa Clara,Alameda,0.106603231,18894
+3/25/20,Santa Clara,Alameda,0.107936843,18580
+3/26/20,Santa Clara,Alameda,0.111240044,19060
+3/27/20,Santa Clara,Alameda,0.11134498,18685
+3/28/20,Santa Clara,Alameda,0.104394415,18066
+3/29/20,Santa Clara,Alameda,0.077812645,15845
+3/30/20,Santa Clara,Alameda,0.098915231,17344
+3/31/20,Santa Clara,Alameda,0.108433735,18432
+3/2/20,Santa Clara,Contra Costa,0.067414753,28505
+3/3/20,Santa Clara,Contra Costa,0.036834332,25960
+3/4/20,Santa Clara,Contra Costa,0.038583103,26515
+3/5/20,Santa Clara,Contra Costa,0.037310644,26334
+3/6/20,Santa Clara,Contra Costa,0.042720923,26381
+3/7/20,Santa Clara,Contra Costa,0.053819868,26550
+3/8/20,Santa Clara,Contra Costa,0.063807195,25897
+3/9/20,Santa Clara,Contra Costa,0.070068569,27274
+3/10/20,Santa Clara,Contra Costa,0.039990118,25291
+3/11/20,Santa Clara,Contra Costa,0.036300966,25576
+3/12/20,Santa Clara,Contra Costa,0.035518355,25432
+3/13/20,Santa Clara,Contra Costa,0.035008859,24536
+3/14/20,Santa Clara,Contra Costa,0.040059296,23917
+3/15/20,Santa Clara,Contra Costa,0.039397263,20503
+3/16/20,Santa Clara,Contra Costa,0.045314527,20675
+3/17/20,Santa Clara,Contra Costa,0.03494262,20394
+3/18/20,Santa Clara,Contra Costa,0.028917546,16802
+3/19/20,Santa Clara,Contra Costa,0.02728826,16919
+3/20/20,Santa Clara,Contra Costa,0.031684572,15293
+3/21/20,Santa Clara,Contra Costa,0.032821793,11168
+3/22/20,Santa Clara,Contra Costa,0.02772702,10050
+3/23/20,Santa Clara,Contra Costa,0.025258755,15816
+3/24/20,Santa Clara,Contra Costa,0.024102055,15589
+3/25/20,Santa Clara,Contra Costa,0.02492475,15397
+3/26/20,Santa Clara,Contra Costa,0.025317791,15791
+3/27/20,Santa Clara,Contra Costa,0.024415912,15620
+3/28/20,Santa Clara,Contra Costa,0.024082693,15491
+3/29/20,Santa Clara,Contra Costa,0.018421664,13748
+3/30/20,Santa Clara,Contra Costa,0.023652427,14754
+3/31/20,Santa Clara,Contra Costa,0.026024096,15430
+3/2/20,Santa Clara,did not enter other counties,0.623637207,34488
+3/3/20,Santa Clara,did not enter other counties,0.692757652,34533
+3/4/20,Santa Clara,did not enter other counties,0.689598223,35119
+3/5/20,Santa Clara,did not enter other counties,0.691367961,34789
+3/6/20,Santa Clara,did not enter other counties,0.682201548,34503
+3/7/20,Santa Clara,did not enter other counties,0.669453259,32776
+3/8/20,Santa Clara,did not enter other counties,0.665808611,31078
+3/9/20,Santa Clara,did not enter other counties,0.630219175,32668
+3/10/20,Santa Clara,did not enter other counties,0.704165766,32383
+3/11/20,Santa Clara,did not enter other counties,0.709250691,32203
+3/12/20,Santa Clara,did not enter other counties,0.714536506,31899
+3/13/20,Santa Clara,did not enter other counties,0.720749393,30478
+3/14/20,Santa Clara,did not enter other counties,0.72006757,29007
+3/15/20,Santa Clara,did not enter other counties,0.761788717,24621
+3/16/20,Santa Clara,did not enter other counties,0.720249676,24672
+3/17/20,Santa Clara,did not enter other counties,0.751523546,25270
+3/18/20,Santa Clara,did not enter other counties,0.805978898,20472
+3/19/20,Santa Clara,did not enter other counties,0.810251404,20485
+3/20/20,Santa Clara,did not enter other counties,0.803239352,18337
+3/21/20,Santa Clara,did not enter other counties,0.811146193,13619
+3/22/20,Santa Clara,did not enter other counties,0.849845078,12587
+3/23/20,Santa Clara,did not enter other counties,0.825494718,18647
+3/24/20,Santa Clara,did not enter other counties,0.829194333,19127
+3/25/20,Santa Clara,did not enter other counties,0.829223214,18937
+3/26/20,Santa Clara,did not enter other counties,0.822828208,18959
+3/27/20,Santa Clara,did not enter other counties,0.820932435,19004
+3/28/20,Santa Clara,did not enter other counties,0.829527005,18478
+3/29/20,Santa Clara,did not enter other counties,0.864132961,17208
+3/30/20,Santa Clara,did not enter other counties,0.832084545,17884
+3/31/20,Santa Clara,did not enter other counties,0.823239625,18675
+3/2/20,Santa Clara,Marin,0.010815356,5323
+3/3/20,Santa Clara,Marin,0.005212406,4422
+3/4/20,Santa Clara,Marin,0.004698311,4625
+3/5/20,Santa Clara,Marin,0.005030326,4670
+3/6/20,Santa Clara,Marin,0.006057444,4703
+3/7/20,Santa Clara,Marin,0.007780083,4675
+3/8/20,Santa Clara,Marin,0.009717485,4692
+3/9/20,Santa Clara,Marin,0.010530182,4946
+3/10/20,Santa Clara,Marin,0.005126146,4429
+3/11/20,Santa Clara,Marin,0.004036891,4389
+3/12/20,Santa Clara,Marin,0.004357503,4498
+3/13/20,Santa Clara,Marin,0.005151257,4202
+3/14/20,Santa Clara,Marin,0.006963836,4185
+3/15/20,Santa Clara,Marin,0.005117583,3431
+3/16/20,Santa Clara,Marin,0.006890402,3608
+3/17/20,Santa Clara,Marin,0.005104867,3332
+3/18/20,Santa Clara,Marin,0.004152013,2726
+3/19/20,Santa Clara,Marin,0.003661216,2623
+3/20/20,Santa Clara,Marin,0.003544746,2427
+3/21/20,Santa Clara,Marin,0.004332183,1774
+3/22/20,Santa Clara,Marin,0.003972352,1602
+3/23/20,Santa Clara,Marin,0.003861211,2635
+3/24/20,Santa Clara,Marin,0.00345062,2348
+3/25/20,Santa Clara,Marin,0.0031684,2333
+3/26/20,Santa Clara,Marin,0.002848251,2422
+3/27/20,Santa Clara,Marin,0.002999369,2375
+3/28/20,Santa Clara,Marin,0.003788289,2435
+3/29/20,Santa Clara,Marin,0.002963738,2115
+3/30/20,Santa Clara,Marin,0.0024603,2199
+3/31/20,Santa Clara,Marin,0.003534137,2362
+3/2/20,Santa Clara,Napa,0.006292044,5618
+3/3/20,Santa Clara,Napa,0.00277995,4344
+3/4/20,Santa Clara,Napa,0.002733563,4465
+3/5/20,Santa Clara,Napa,0.002730748,4431
+3/6/20,Santa Clara,Napa,0.003043214,4632
+3/7/20,Santa Clara,Napa,0.005095192,4911
+3/8/20,Santa Clara,Napa,0.005341399,4886
+3/9/20,Santa Clara,Napa,0.006275254,5357
+3/10/20,Santa Clara,Napa,0.003365964,4326
+3/11/20,Santa Clara,Napa,0.002515294,4408
+3/12/20,Santa Clara,Napa,0.002696009,4509
+3/13/20,Santa Clara,Napa,0.003117002,4187
+3/14/20,Santa Clara,Napa,0.003412969,4198
+3/15/20,Santa Clara,Napa,0.003208643,3540
+3/16/20,Santa Clara,Napa,0.004904345,3790
+3/17/20,Santa Clara,Napa,0.002532647,3605
+3/18/20,Santa Clara,Napa,0.003028527,3227
+3/19/20,Santa Clara,Napa,0.002099097,3073
+3/20/20,Santa Clara,Napa,0.0029994,2794
+3/21/20,Santa Clara,Napa,0.001541963,1783
+3/22/20,Santa Clara,Napa,0.001430047,1390
+3/23/20,Santa Clara,Napa,0.001501582,2567
+3/24/20,Santa Clara,Napa,0.002352695,2625
+3/25/20,Santa Clara,Napa,0.002165074,2513
+3/26/20,Santa Clara,Napa,0.002531779,2674
+3/27/20,Santa Clara,Napa,0.002210061,2602
+3/28/20,Santa Clara,Napa,0.001894144,2509
+3/29/20,Santa Clara,Napa,0.001569038,2006
+3/30/20,Santa Clara,Napa,0.001509729,2441
+3/31/20,Santa Clara,Napa,0.002463186,2554
+3/2/20,Santa Clara,Sacramento,0.02519717,31896
+3/3/20,Santa Clara,Sacramento,0.009063794,31802
+3/4/20,Santa Clara,Sacramento,0.007659671,32037
+3/5/20,Santa Clara,Sacramento,0.009313289,32020
+3/6/20,Santa Clara,Sacramento,0.010607773,31919
+3/7/20,Santa Clara,Sacramento,0.019862094,30911
+3/8/20,Santa Clara,Sacramento,0.019595856,29682
+3/9/20,Santa Clara,Sacramento,0.028988613,30505
+3/10/20,Santa Clara,Sacramento,0.01003613,30514
+3/11/20,Santa Clara,Sacramento,0.008756948,30877
+3/12/20,Santa Clara,Sacramento,0.008213424,30800
+3/13/20,Santa Clara,Sacramento,0.009318197,29591
+3/14/20,Santa Clara,Sacramento,0.013651877,28442
+3/15/20,Santa Clara,Sacramento,0.009179156,25340
+3/16/20,Santa Clara,Sacramento,0.013983463,24923
+3/17/20,Santa Clara,Sacramento,0.010051444,26163
+3/18/20,Santa Clara,Sacramento,0.009183275,25300
+3/19/20,Santa Clara,Sacramento,0.007420063,24455
+3/20/20,Santa Clara,Sacramento,0.010416099,21986
+3/21/20,Santa Clara,Sacramento,0.008517512,15430
+3/22/20,Santa Clara,Sacramento,0.007626917,14583
+3/23/20,Santa Clara,Sacramento,0.007990561,21120
+3/24/20,Santa Clara,Sacramento,0.006796675,22005
+3/25/20,Santa Clara,Sacramento,0.008237841,21690
+3/26/20,Santa Clara,Sacramento,0.007489847,21929
+3/27/20,Santa Clara,Sacramento,0.008682383,21679
+3/28/20,Santa Clara,Sacramento,0.007576578,21263
+3/29/20,Santa Clara,Sacramento,0.0041841,19623
+3/30/20,Santa Clara,Sacramento,0.006374413,20294
+3/31/20,Santa Clara,Sacramento,0.007603748,21116
+3/2/20,Santa Clara,San Francisco,0.056338437,16571
+3/3/20,Santa Clara,San Francisco,0.038166392,15985
+3/4/20,Santa Clara,San Francisco,0.040092258,16288
+3/5/20,Santa Clara,San Francisco,0.041593607,16382
+3/6/20,Santa Clara,San Francisco,0.044604817,16379
+3/7/20,Santa Clara,San Francisco,0.045978765,15562
+3/8/20,Santa Clara,San Francisco,0.049263144,13832
+3/9/20,Santa Clara,San Francisco,0.050783641,15183
+3/10/20,Santa Clara,San Francisco,0.034277244,14509
+3/11/20,Santa Clara,San Francisco,0.035338323,14663
+3/12/20,Santa Clara,San Francisco,0.034515189,14190
+3/13/20,Santa Clara,San Francisco,0.032351204,13160
+3/14/20,Santa Clara,San Francisco,0.032578343,12460
+3/15/20,Santa Clara,San Francisco,0.025303603,9834
+3/16/20,Santa Clara,San Francisco,0.03376297,10610
+3/17/20,Santa Clara,San Francisco,0.025286901,10378
+3/18/20,Santa Clara,San Francisco,0.01870848,7831
+3/19/20,Santa Clara,San Francisco,0.01840371,7781
+3/20/20,Santa Clara,San Francisco,0.019796041,6948
+3/21/20,Santa Clara,San Francisco,0.020779793,5082
+3/22/20,Santa Clara,San Francisco,0.017875586,4329
+3/23/20,Santa Clara,San Francisco,0.018072612,7106
+3/24/20,Santa Clara,San Francisco,0.014273017,7003
+3/25/20,Santa Clara,San Francisco,0.015630776,6913
+3/26/20,Santa Clara,San Francisco,0.017195,7084
+3/27/20,Santa Clara,San Francisco,0.017364765,6963
+3/28/20,Santa Clara,San Francisco,0.016939063,6671
+3/29/20,Santa Clara,San Francisco,0.012959089,5768
+3/30/20,Santa Clara,San Francisco,0.016327444,6327
+3/31/20,Santa Clara,San Francisco,0.017188755,6770
+3/2/20,Santa Clara,San Mateo,0.18638367,20335
+3/3/20,Santa Clara,San Mateo,0.168418614,19353
+3/4/20,Santa Clara,San Mateo,0.169537857,19617
+3/5/20,Santa Clara,San Mateo,0.169335135,19485
+3/6/20,Santa Clara,San Mateo,0.173115381,19563
+3/7/20,Santa Clara,San Mateo,0.169056627,18653
+3/8/20,Santa Clara,San Mateo,0.15959843,17357
+3/9/20,Santa Clara,San Mateo,0.177053998,18734
+3/10/20,Santa Clara,San Mateo,0.156748912,17728
+3/11/20,Santa Clara,San Mateo,0.155855045,17839
+3/12/20,Santa Clara,San Mateo,0.153076899,17749
+3/13/20,Santa Clara,San Mateo,0.148402126,16785
+3/14/20,Santa Clara,San Mateo,0.141689937,16170
+3/15/20,Santa Clara,San Mateo,0.110474798,13100
+3/16/20,Santa Clara,San Mateo,0.133511673,13538
+3/17/20,Santa Clara,San Mateo,0.123268698,13497
+3/18/20,Santa Clara,San Mateo,0.096375537,10477
+3/19/20,Santa Clara,San Mateo,0.094605809,10340
+3/20/20,Santa Clara,San Mateo,0.0928178,9120
+3/21/20,Santa Clara,San Mateo,0.089507306,6567
+3/22/20,Santa Clara,San Mateo,0.073250179,5735
+3/23/20,Santa Clara,San Mateo,0.085000268,9363
+3/24/20,Santa Clara,San Mateo,0.083703665,9294
+3/25/20,Santa Clara,San Mateo,0.083540159,9052
+3/26/20,Santa Clara,San Mateo,0.086238726,9331
+3/27/20,Santa Clara,San Mateo,0.087297411,9211
+3/28/20,Santa Clara,San Mateo,0.084965905,9004
+3/29/20,Santa Clara,San Mateo,0.07118782,8028
+3/30/20,Santa Clara,San Mateo,0.084041601,8548
+3/31/20,Santa Clara,San Mateo,0.090495315,9093
+3/2/20,Santa Clara,Solano,0.026414985,13192
+3/3/20,Santa Clara,Solano,0.011814786,10854
+3/4/20,Santa Clara,Solano,0.010592557,11018
+3/5/20,Santa Clara,Solano,0.011382908,11064
+3/6/20,Santa Clara,Solano,0.012636582,11230
+3/7/20,Santa Clara,Solano,0.021021479,11961
+3/8/20,Santa Clara,Solano,0.022298732,11968
+3/9/20,Santa Clara,Solano,0.02706012,12733
+3/10/20,Santa Clara,Solano,0.013803539,10732
+3/11/20,Santa Clara,Solano,0.010806447,10765
+3/12/20,Santa Clara,Solano,0.010752688,10848
+3/13/20,Santa Clara,Solano,0.012107094,10593
+3/14/20,Santa Clara,Solano,0.015582446,10615
+3/15/20,Santa Clara,Solano,0.013321961,9103
+3/16/20,Santa Clara,Solano,0.018036641,9433
+3/17/20,Santa Clara,Solano,0.012900673,9176
+3/18/20,Santa Clara,Solano,0.011967565,8559
+3/19/20,Santa Clara,Solano,0.00990969,8189
+3/20/20,Santa Clara,Solano,0.013088291,7346
+3/21/20,Santa Clara,Solano,0.012555988,5428
+3/22/20,Santa Clara,Solano,0.010963693,4684
+3/23/20,Santa Clara,Solano,0.00906312,7267
+3/24/20,Santa Clara,Solano,0.008469703,7246
+3/25/20,Santa Clara,Solano,0.009293975,7178
+3/26/20,Santa Clara,Solano,0.01065457,7298
+3/27/20,Santa Clara,Solano,0.009629552,7286
+3/28/20,Santa Clara,Solano,0.00920013,7097
+3/29/20,Santa Clara,Solano,0.006334263,6177
+3/30/20,Santa Clara,Solano,0.009449788,6765
+3/31/20,Santa Clara,Solano,0.010281125,7101
+3/2/20,Santa Clara,Sonoma,0.006031083,7868
+3/3/20,Santa Clara,Sonoma,0.002606203,7174
+3/4/20,Santa Clara,Sonoma,0.002050172,7420
+3/5/20,Santa Clara,Sonoma,0.002299577,7354
+3/6/20,Santa Clara,Sonoma,0.002898299,7344
+3/7/20,Santa Clara,Sonoma,0.004179888,7309
+3/8/20,Santa Clara,Sonoma,0.004955274,7367
+3/9/20,Santa Clara,Sonoma,0.006122199,7460
+3/10/20,Santa Clara,Sonoma,0.00228515,7146
+3/11/20,Santa Clara,Sonoma,0.002360029,7207
+3/12/20,Santa Clara,Sonoma,0.002633311,7241
+3/13/20,Santa Clara,Sonoma,0.002624844,7005
+3/14/20,Santa Clara,Sonoma,0.004240356,6800
+3/15/20,Santa Clara,Sonoma,0.003168027,5962
+3/16/20,Santa Clara,Sonoma,0.004985409,5836
+3/17/20,Santa Clara,Sonoma,0.003126237,5812
+3/18/20,Santa Clara,Sonoma,0.003028527,5393
+3/19/20,Santa Clara,Sonoma,0.002196729,4896
+3/20/20,Santa Clara,Sonoma,0.001963244,4539
+3/21/20,Santa Clara,Sonoma,0.002349659,3348
+3/22/20,Santa Clara,Sonoma,0.002303964,3172
+3/23/20,Santa Clara,Sonoma,0.002091489,4872
+3/24/20,Santa Clara,Sonoma,0.002248131,4914
+3/25/20,Santa Clara,Sonoma,0.002165074,4735
+3/26/20,Santa Clara,Sonoma,0.001318635,4797
+3/27/20,Santa Clara,Sonoma,0.001999579,4781
+3/28/20,Santa Clara,Sonoma,0.003030631,4806
+3/29/20,Santa Clara,Sonoma,0.001801488,4300
+3/30/20,Santa Clara,Sonoma,0.001733393,4420
+3/31/20,Santa Clara,Sonoma,0.002516734,4618
+3/2/20,Solano,Alameda,0.267283202,37341
+3/3/20,Solano,Alameda,0.188409803,34554
+3/4/20,Solano,Alameda,0.18197495,35252
+3/5/20,Solano,Alameda,0.187002892,35119
+3/6/20,Solano,Alameda,0.198753339,35206
+3/7/20,Solano,Alameda,0.246718502,35092
+3/8/20,Solano,Alameda,0.233706551,33310
+3/9/20,Solano,Alameda,0.269535852,35460
+3/10/20,Solano,Alameda,0.190458442,33170
+3/11/20,Solano,Alameda,0.184858337,33371
+3/12/20,Solano,Alameda,0.178466077,32820
+3/13/20,Solano,Alameda,0.177192486,31413
+3/14/20,Solano,Alameda,0.196325954,30132
+3/15/20,Solano,Alameda,0.171372075,25155
+3/16/20,Solano,Alameda,0.208205237,25791
+3/17/20,Solano,Alameda,0.177528335,26244
+3/18/20,Solano,Alameda,0.145928263,20700
+3/19/20,Solano,Alameda,0.142141898,20677
+3/20/20,Solano,Alameda,0.153825211,18536
+3/21/20,Solano,Alameda,0.157516581,13643
+3/22/20,Solano,Alameda,0.117421008,11780
+3/23/20,Solano,Alameda,0.12976469,18327
+3/24/20,Solano,Alameda,0.135799062,18894
+3/25/20,Solano,Alameda,0.132209529,18580
+3/26/20,Solano,Alameda,0.137983009,19060
+3/27/20,Solano,Alameda,0.133269284,18685
+3/28/20,Solano,Alameda,0.133295759,18066
+3/29/20,Solano,Alameda,0.088230533,15845
+3/30/20,Solano,Alameda,0.13037694,17344
+3/31/20,Solano,Alameda,0.132375722,18432
+3/2/20,Solano,Contra Costa,0.424727107,28505
+3/3/20,Solano,Contra Costa,0.329555924,25960
+3/4/20,Solano,Contra Costa,0.333182066,26515
+3/5/20,Solano,Contra Costa,0.333875633,26334
+3/6/20,Solano,Contra Costa,0.338646483,26381
+3/7/20,Solano,Contra Costa,0.388178246,26550
+3/8/20,Solano,Contra Costa,0.385026738,25897
+3/9/20,Solano,Contra Costa,0.428885573,27274
+3/10/20,Solano,Contra Costa,0.332370481,25291
+3/11/20,Solano,Contra Costa,0.330143985,25576
+3/12/20,Solano,Contra Costa,0.32300885,25432
+3/13/20,Solano,Contra Costa,0.32068347,24536
+3/14/20,Solano,Contra Costa,0.341215261,23917
+3/15/20,Solano,Contra Costa,0.29363946,20503
+3/16/20,Solano,Contra Costa,0.347397435,20675
+3/17/20,Solano,Contra Costa,0.310047951,20394
+3/18/20,Solano,Contra Costa,0.265334735,16802
+3/19/20,Solano,Contra Costa,0.26254732,16919
+3/20/20,Solano,Contra Costa,0.274026681,15293
+3/21/20,Solano,Contra Costa,0.278739867,11168
+3/22/20,Solano,Contra Costa,0.219043553,10050
+3/23/20,Solano,Contra Costa,0.241502683,15816
+3/24/20,Solano,Contra Costa,0.244548717,15589
+3/25/20,Solano,Contra Costa,0.243103929,15397
+3/26/20,Solano,Contra Costa,0.250890655,15791
+3/27/20,Solano,Contra Costa,0.246637387,15620
+3/28/20,Solano,Contra Costa,0.240383261,15491
+3/29/20,Solano,Contra Costa,0.179860774,13748
+3/30/20,Solano,Contra Costa,0.237546194,14754
+3/31/20,Solano,Contra Costa,0.251373046,15430
+3/2/20,Solano,did not enter other counties,0.310946028,13192
+3/3/20,Solano,did not enter other counties,0.424083287,10854
+3/4/20,Solano,did not enter other counties,0.413686695,11018
+3/5/20,Solano,did not enter other counties,0.408803326,11064
+3/6/20,Solano,did not enter other counties,0.397951915,11230
+3/7/20,Solano,did not enter other counties,0.351977259,11961
+3/8/20,Solano,did not enter other counties,0.355531417,11968
+3/9/20,Solano,did not enter other counties,0.305426844,12733
+3/10/20,Solano,did not enter other counties,0.407845695,10732
+3/11/20,Solano,did not enter other counties,0.41634928,10765
+3/12/20,Solano,did not enter other counties,0.408923304,10848
+3/13/20,Solano,did not enter other counties,0.4134806,10593
+3/14/20,Solano,did not enter other counties,0.402072539,10615
+3/15/20,Solano,did not enter other counties,0.475447655,9103
+3/16/20,Solano,did not enter other counties,0.403901198,9433
+3/17/20,Solano,did not enter other counties,0.450632084,9176
+3/18/20,Solano,did not enter other counties,0.494800795,8559
+3/19/20,Solano,did not enter other counties,0.503113933,8189
+3/20/20,Solano,did not enter other counties,0.489245848,7346
+3/21/20,Solano,did not enter other counties,0.507369197,5428
+3/22/20,Solano,did not enter other counties,0.599274125,4684
+3/23/20,Solano,did not enter other counties,0.542176964,7267
+3/24/20,Solano,did not enter other counties,0.546370411,7246
+3/25/20,Solano,did not enter other counties,0.547784898,7178
+3/26/20,Solano,did not enter other counties,0.532748698,7298
+3/27/20,Solano,did not enter other counties,0.541174856,7286
+3/28/20,Solano,did not enter other counties,0.55474144,7097
+3/29/20,Solano,did not enter other counties,0.640116561,6177
+3/30/20,Solano,did not enter other counties,0.550628234,6765
+3/31/20,Solano,did not enter other counties,0.538374877,7101
+3/2/20,Solano,Marin,0.05344148,5323
+3/3/20,Solano,Marin,0.039432467,4422
+3/4/20,Solano,Marin,0.045652569,4625
+3/5/20,Solano,Marin,0.041847433,4670
+3/6/20,Solano,Marin,0.047373108,4703
+3/7/20,Solano,Marin,0.043976256,4675
+3/8/20,Solano,Marin,0.043282086,4692
+3/9/20,Solano,Marin,0.049791879,4946
+3/10/20,Solano,Marin,0.044166977,4429
+3/11/20,Solano,Marin,0.042731073,4389
+3/12/20,Solano,Marin,0.043233776,4498
+3/13/20,Solano,Marin,0.041253658,4202
+3/14/20,Solano,Marin,0.043334903,4185
+3/15/20,Solano,Marin,0.034274415,3431
+3/16/20,Solano,Marin,0.038799958,3608
+3/17/20,Solano,Marin,0.036072363,3332
+3/18/20,Solano,Marin,0.037270709,2726
+3/19/20,Solano,Marin,0.033703749,2623
+3/20/20,Solano,Marin,0.035937925,2427
+3/21/20,Solano,Marin,0.040346352,1774
+3/22/20,Solano,Marin,0.030956447,1602
+3/23/20,Solano,Marin,0.034677308,2635
+3/24/20,Solano,Marin,0.03422578,2348
+3/25/20,Solano,Marin,0.036918362,2333
+3/26/20,Solano,Marin,0.035900247,2422
+3/27/20,Solano,Marin,0.033077134,2375
+3/28/20,Solano,Marin,0.032830774,2435
+3/29/20,Solano,Marin,0.026064433,2115
+3/30/20,Solano,Marin,0.032076866,2199
+3/31/20,Solano,Marin,0.036192086,2362
+3/2/20,Solano,Napa,0.3254245,5618
+3/3/20,Solano,Napa,0.270683619,4344
+3/4/20,Solano,Napa,0.274913778,4465
+3/5/20,Solano,Napa,0.271420824,4431
+3/6/20,Solano,Napa,0.285841496,4632
+3/7/20,Solano,Napa,0.297048742,4911
+3/8/20,Solano,Napa,0.306567513,4886
+3/9/20,Solano,Napa,0.323725752,5357
+3/10/20,Solano,Napa,0.276835632,4326
+3/11/20,Solano,Napa,0.281281932,4408
+3/12/20,Solano,Napa,0.285490413,4509
+3/13/20,Solano,Napa,0.272444067,4187
+3/14/20,Solano,Napa,0.278285445,4198
+3/15/20,Solano,Napa,0.264088762,3540
+3/16/20,Solano,Napa,0.287289304,3790
+3/17/20,Solano,Napa,0.265911072,3605
+3/18/20,Solano,Napa,0.248042996,3227
+3/19/20,Solano,Napa,0.241543534,3073
+3/20/20,Solano,Napa,0.24680098,2794
+3/21/20,Solano,Napa,0.197310243,1783
+3/22/20,Solano,Napa,0.159906063,1390
+3/23/20,Solano,Napa,0.222925554,2567
+3/24/20,Solano,Napa,0.222743583,2625
+3/25/20,Solano,Napa,0.223739203,2513
+3/26/20,Solano,Napa,0.231022198,2674
+3/27/20,Solano,Napa,0.218501235,2602
+3/28/20,Solano,Napa,0.218824856,2509
+3/29/20,Solano,Napa,0.186822082,2006
+3/30/20,Solano,Napa,0.228529194,2441
+3/31/20,Solano,Napa,0.225038727,2554
+3/2/20,Solano,Sacramento,0.287371134,31896
+3/3/20,Solano,Sacramento,0.201216142,31802
+3/4/20,Solano,Sacramento,0.20575422,32037
+3/5/20,Solano,Sacramento,0.210412148,32020
+3/6/20,Solano,Sacramento,0.223953696,31919
+3/7/20,Solano,Sacramento,0.275645849,30911
+3/8/20,Solano,Sacramento,0.27364639,29682
+3/9/20,Solano,Sacramento,0.305269772,30505
+3/10/20,Solano,Sacramento,0.208907939,30514
+3/11/20,Solano,Sacramento,0.204273107,30877
+3/12/20,Solano,Sacramento,0.205844395,30800
+3/13/20,Solano,Sacramento,0.206173888,29591
+3/14/20,Solano,Sacramento,0.217899199,28442
+3/15/20,Solano,Sacramento,0.187740305,25340
+3/16/20,Solano,Sacramento,0.216792113,24923
+3/17/20,Solano,Sacramento,0.193439407,26163
+3/18/20,Solano,Sacramento,0.18027807,25300
+3/19/20,Solano,Sacramento,0.17132739,24455
+3/20/20,Solano,Sacramento,0.168663218,21986
+3/21/20,Solano,Sacramento,0.173913044,15430
+3/22/20,Solano,Sacramento,0.138983775,14583
+3/23/20,Solano,Sacramento,0.159488097,21120
+3/24/20,Solano,Sacramento,0.152083908,22005
+3/25/20,Solano,Sacramento,0.15324603,21690
+3/26/20,Solano,Sacramento,0.162647301,21929
+3/27/20,Solano,Sacramento,0.159621191,21679
+3/28/20,Solano,Sacramento,0.147668029,21263
+3/29/20,Solano,Sacramento,0.109923911,19623
+3/30/20,Solano,Sacramento,0.14781966,20294
+3/31/20,Solano,Sacramento,0.152654556,21116
+3/2/20,Solano,San Francisco,0.117343845,16571
+3/3/20,Solano,San Francisco,0.077575088,15985
+3/4/20,Solano,San Francisco,0.077418769,16288
+3/5/20,Solano,San Francisco,0.080531453,16382
+3/6/20,Solano,San Francisco,0.08824577,16379
+3/7/20,Solano,San Francisco,0.106680044,15562
+3/8/20,Solano,San Francisco,0.090324198,13832
+3/9/20,Solano,San Francisco,0.11521244,15183
+3/10/20,Solano,San Francisco,0.07864331,14509
+3/11/20,Solano,San Francisco,0.077380399,14663
+3/12/20,Solano,San Francisco,0.073193215,14190
+3/13/20,Solano,San Francisco,0.074671953,13160
+3/14/20,Solano,San Francisco,0.082430523,12460
+3/15/20,Solano,San Francisco,0.070855762,9834
+3/16/20,Solano,San Francisco,0.085232694,10610
+3/17/20,Solano,San Francisco,0.065932868,10378
+3/18/20,Solano,San Francisco,0.051057367,7831
+3/19/20,Solano,San Francisco,0.049578703,7781
+3/20/20,Solano,San Francisco,0.05377076,6948
+3/21/20,Solano,San Francisco,0.058216654,5082
+3/22/20,Solano,San Francisco,0.043766012,4329
+3/23/20,Solano,San Francisco,0.049539012,7106
+3/24/20,Solano,San Francisco,0.045542368,7003
+3/25/20,Solano,San Francisco,0.046809696,6913
+3/26/20,Solano,San Francisco,0.049876679,7084
+3/27/20,Solano,San Francisco,0.047351084,6963
+3/28/20,Solano,San Francisco,0.050302945,6671
+3/29/20,Solano,San Francisco,0.036911122,5768
+3/30/20,Solano,San Francisco,0.051293422,6327
+3/31/20,Solano,San Francisco,0.04788058,6770
+3/2/20,Solano,San Mateo,0.073832626,20335
+3/3/20,Solano,San Mateo,0.041367238,19353
+3/4/20,Solano,San Mateo,0.042385188,19617
+3/5/20,Solano,San Mateo,0.04428778,19485
+3/6/20,Solano,San Mateo,0.050667854,19563
+3/7/20,Solano,San Mateo,0.066047989,18653
+3/8/20,Solano,San Mateo,0.057235963,17357
+3/9/20,Solano,San Mateo,0.071546376,18734
+3/10/20,Solano,San Mateo,0.04248975,17728
+3/11/20,Solano,San Mateo,0.042173711,17839
+3/12/20,Solano,San Mateo,0.03954646,17749
+3/13/20,Solano,San Mateo,0.043613707,16785
+3/14/20,Solano,San Mateo,0.054451248,16170
+3/15/20,Solano,San Mateo,0.044710535,13100
+3/16/20,Solano,San Mateo,0.053323439,13538
+3/17/20,Solano,San Mateo,0.037489102,13497
+3/18/20,Solano,San Mateo,0.030961561,10477
+3/19/20,Solano,San Mateo,0.030528758,10340
+3/20/20,Solano,San Mateo,0.034985026,9120
+3/21/20,Solano,San Mateo,0.035556374,6567
+3/22/20,Solano,San Mateo,0.029461998,5735
+3/23/20,Solano,San Mateo,0.028484932,9363
+3/24/20,Solano,San Mateo,0.025945349,9294
+3/25/20,Solano,San Mateo,0.025494567,9052
+3/26/20,Solano,San Mateo,0.028363935,9331
+3/27/20,Solano,San Mateo,0.025253912,9211
+3/28/20,Solano,San Mateo,0.029308158,9004
+3/29/20,Solano,San Mateo,0.023150397,8028
+3/30/20,Solano,San Mateo,0.027790096,8548
+3/31/20,Solano,San Mateo,0.025771018,9093
+3/2/20,Solano,Santa Clara,0.069057004,34488
+3/3/20,Solano,Santa Clara,0.037589829,34533
+3/4/20,Solano,Santa Clara,0.033762933,35119
+3/5/20,Solano,Santa Clara,0.035791757,34789
+3/6/20,Solano,Santa Clara,0.038824577,34503
+3/7/20,Solano,Santa Clara,0.057603879,32776
+3/8/20,Solano,Santa Clara,0.057904412,31078
+3/9/20,Solano,Santa Clara,0.069425901,32668
+3/10/20,Solano,Santa Clara,0.041651137,32383
+3/11/20,Solano,Santa Clara,0.032326986,32203
+3/12/20,Solano,Santa Clara,0.031618732,31899
+3/13/20,Solano,Santa Clara,0.034834325,30478
+3/14/20,Solano,Santa Clara,0.042581253,29007
+3/15/20,Solano,Santa Clara,0.036032077,24621
+3/16/20,Solano,Santa Clara,0.047174812,24672
+3/17/20,Solano,Santa Clara,0.035527463,25270
+3/18/20,Solano,Santa Clara,0.028624839,20472
+3/19/20,Solano,Santa Clara,0.024789352,20485
+3/20/20,Solano,Santa Clara,0.032670841,18337
+3/21/20,Solano,Santa Clara,0.031503316,13619
+3/22/20,Solano,Santa Clara,0.029461998,12587
+3/23/20,Solano,Santa Clara,0.023255814,18647
+3/24/20,Solano,Santa Clara,0.022357163,19127
+3/25/20,Solano,Santa Clara,0.024519365,18937
+3/26/20,Solano,Santa Clara,0.027678816,18959
+3/27/20,Solano,Santa Clara,0.025116662,19004
+3/28/20,Solano,Santa Clara,0.023953783,18478
+3/29/20,Solano,Santa Clara,0.017646107,17208
+3/30/20,Solano,Santa Clara,0.024981523,17884
+3/31/20,Solano,Santa Clara,0.027038445,18675
+3/2/20,Solano,Sonoma,0.09460279,7868
+3/3/20,Solano,Sonoma,0.062373319,7174
+3/4/20,Solano,Sonoma,0.069794881,7420
+3/5/20,Solano,Sonoma,0.065075922,7354
+3/6/20,Solano,Sonoma,0.071148709,7344
+3/7/20,Solano,Sonoma,0.076415015,7309
+3/8/20,Solano,Sonoma,0.084893048,7367
+3/9/20,Solano,Sonoma,0.086154088,7460
+3/10/20,Solano,Sonoma,0.064852777,7146
+3/11/20,Solano,Sonoma,0.066604738,7207
+3/12/20,Solano,Sonoma,0.070888643,7241
+3/13/20,Solano,Sonoma,0.066647786,7005
+3/14/20,Solano,Sonoma,0.072727273,6800
+3/15/20,Solano,Sonoma,0.065143359,5962
+3/16/20,Solano,Sonoma,0.073889537,5836
+3/17/20,Solano,Sonoma,0.066477768,5812
+3/18/20,Solano,Sonoma,0.065311368,5393
+3/19/20,Solano,Sonoma,0.059225791,4896
+3/20/20,Solano,Sonoma,0.065477811,4539
+3/21/20,Solano,Sonoma,0.064112012,3348
+3/22/20,Solano,Sonoma,0.054867635,3172
+3/23/20,Solano,Sonoma,0.060134856,4872
+3/24/20,Solano,Sonoma,0.054926856,4914
+3/25/20,Solano,Sonoma,0.059208693,4735
+3/26/20,Solano,Sonoma,0.058098109,4797
+3/27/20,Solano,Sonoma,0.054899808,4781
+3/28/20,Solano,Sonoma,0.056080034,4806
+3/29/20,Solano,Sonoma,0.047110248,4300
+3/30/20,Solano,Sonoma,0.05646711,4420
+3/31/20,Solano,Sonoma,0.057879172,4618
+3/2/20,Sonoma,Alameda,0.083884087,37341
+3/3/20,Sonoma,Alameda,0.04711458,34554
+3/4/20,Sonoma,Alameda,0.050404313,35252
+3/5/20,Sonoma,Alameda,0.045825401,35119
+3/6/20,Sonoma,Alameda,0.0541939,35206
+3/7/20,Sonoma,Alameda,0.06731427,35092
+3/8/20,Sonoma,Alameda,0.071535225,33310
+3/9/20,Sonoma,Alameda,0.08310992,35460
+3/10/20,Sonoma,Alameda,0.049958018,33170
+3/11/20,Sonoma,Alameda,0.049257666,33371
+3/12/20,Sonoma,Alameda,0.050131197,32820
+3/13/20,Sonoma,Alameda,0.053533191,31413
+3/14/20,Sonoma,Alameda,0.055441176,30132
+3/15/20,Sonoma,Alameda,0.053673264,25155
+3/16/20,Sonoma,Alameda,0.068368746,25791
+3/17/20,Sonoma,Alameda,0.048004129,26244
+3/18/20,Sonoma,Alameda,0.043204154,20700
+3/19/20,Sonoma,Alameda,0.045751634,20677
+3/20/20,Sonoma,Alameda,0.044062569,18536
+3/21/20,Sonoma,Alameda,0.04181601,13643
+3/22/20,Sonoma,Alameda,0.041298865,11780
+3/23/20,Sonoma,Alameda,0.035509031,18327
+3/24/20,Sonoma,Alameda,0.036426536,18894
+3/25/20,Sonoma,Alameda,0.035480465,18580
+3/26/20,Sonoma,Alameda,0.032103398,19060
+3/27/20,Sonoma,Alameda,0.034302447,18685
+3/28/20,Sonoma,Alameda,0.037037037,18066
+3/29/20,Sonoma,Alameda,0.03,15845
+3/30/20,Sonoma,Alameda,0.030542986,17344
+3/31/20,Sonoma,Alameda,0.036162841,18432
+3/2/20,Sonoma,Contra Costa,0.107269954,28505
+3/3/20,Sonoma,Contra Costa,0.064259827,25960
+3/4/20,Sonoma,Contra Costa,0.069946092,26515
+3/5/20,Sonoma,Contra Costa,0.066766386,26334
+3/6/20,Sonoma,Contra Costa,0.071350763,26381
+3/7/20,Sonoma,Contra Costa,0.083869202,26550
+3/8/20,Sonoma,Contra Costa,0.091217592,25897
+3/9/20,Sonoma,Contra Costa,0.102010724,27274
+3/10/20,Sonoma,Contra Costa,0.06759026,25291
+3/11/20,Sonoma,Contra Costa,0.067989455,25576
+3/12/20,Sonoma,Contra Costa,0.068913134,25432
+3/13/20,Sonoma,Contra Costa,0.068236974,24536
+3/14/20,Sonoma,Contra Costa,0.072205882,23917
+3/15/20,Sonoma,Contra Costa,0.069104327,20503
+3/16/20,Sonoma,Contra Costa,0.082076765,20675
+3/17/20,Sonoma,Contra Costa,0.066414315,20394
+3/18/20,Sonoma,Contra Costa,0.06044873,16802
+3/19/20,Sonoma,Contra Costa,0.061478758,16919
+3/20/20,Sonoma,Contra Costa,0.060145406,15293
+3/21/20,Sonoma,Contra Costa,0.056451613,11168
+3/22/20,Sonoma,Contra Costa,0.05075662,10050
+3/23/20,Sonoma,Contra Costa,0.05090312,15816
+3/24/20,Sonoma,Contra Costa,0.05046805,15589
+3/25/20,Sonoma,Contra Costa,0.05343189,15397
+3/26/20,Sonoma,Contra Costa,0.049822806,15791
+3/27/20,Sonoma,Contra Costa,0.045806317,15620
+3/28/20,Sonoma,Contra Costa,0.047232626,15491
+3/29/20,Sonoma,Contra Costa,0.04,13748
+3/30/20,Sonoma,Contra Costa,0.042986425,14754
+3/31/20,Sonoma,Contra Costa,0.051537462,15430
+3/2/20,Sonoma,did not enter other counties,0.598500254,7868
+3/3/20,Sonoma,did not enter other counties,0.718567048,7174
+3/4/20,Sonoma,did not enter other counties,0.703773585,7420
+3/5/20,Sonoma,did not enter other counties,0.706962197,7354
+3/6/20,Sonoma,did not enter other counties,0.695669935,7344
+3/7/20,Sonoma,did not enter other counties,0.659187303,7309
+3/8/20,Sonoma,did not enter other counties,0.644767205,7367
+3/9/20,Sonoma,did not enter other counties,0.617560322,7460
+3/10/20,Sonoma,did not enter other counties,0.713266163,7146
+3/11/20,Sonoma,did not enter other counties,0.703898987,7207
+3/12/20,Sonoma,did not enter other counties,0.697831791,7241
+3/13/20,Sonoma,did not enter other counties,0.709064954,7005
+3/14/20,Sonoma,did not enter other counties,0.680882353,6800
+3/15/20,Sonoma,did not enter other counties,0.724924522,5962
+3/16/20,Sonoma,did not enter other counties,0.667580535,5836
+3/17/20,Sonoma,did not enter other counties,0.712663455,5812
+3/18/20,Sonoma,did not enter other counties,0.742258483,5393
+3/19/20,Sonoma,did not enter other counties,0.75,4896
+3/20/20,Sonoma,did not enter other counties,0.736946464,4539
+3/21/20,Sonoma,did not enter other counties,0.742532855,3348
+3/22/20,Sonoma,did not enter other counties,0.779003783,3172
+3/23/20,Sonoma,did not enter other counties,0.764778325,4872
+3/24/20,Sonoma,did not enter other counties,0.778184778,4914
+3/25/20,Sonoma,did not enter other counties,0.775290391,4735
+3/26/20,Sonoma,did not enter other counties,0.777152387,4797
+3/27/20,Sonoma,did not enter other counties,0.778289061,4781
+3/28/20,Sonoma,did not enter other counties,0.778401998,4806
+3/29/20,Sonoma,did not enter other counties,0.826744186,4300
+3/30/20,Sonoma,did not enter other counties,0.784162896,4420
+3/31/20,Sonoma,did not enter other counties,0.771979212,4618
+3/2/20,Sonoma,Marin,0.271606507,5323
+3/3/20,Sonoma,Marin,0.192221913,4422
+3/4/20,Sonoma,Marin,0.205929919,4625
+3/5/20,Sonoma,Marin,0.203834648,4670
+3/6/20,Sonoma,Marin,0.209694989,4703
+3/7/20,Sonoma,Marin,0.226296347,4675
+3/8/20,Sonoma,Marin,0.242432469,4692
+3/9/20,Sonoma,Marin,0.26233244,4946
+3/10/20,Sonoma,Marin,0.204170165,4429
+3/11/20,Sonoma,Marin,0.206743444,4389
+3/12/20,Sonoma,Marin,0.205496478,4498
+3/13/20,Sonoma,Marin,0.196859386,4202
+3/14/20,Sonoma,Marin,0.218088235,4185
+3/15/20,Sonoma,Marin,0.189869171,3431
+3/16/20,Sonoma,Marin,0.227553119,3608
+3/17/20,Sonoma,Marin,0.196490021,3332
+3/18/20,Sonoma,Marin,0.170220656,2726
+3/19/20,Sonoma,Marin,0.164215686,2623
+3/20/20,Sonoma,Marin,0.174708086,2427
+3/21/20,Sonoma,Marin,0.172043011,1774
+3/22/20,Sonoma,Marin,0.156998739,1602
+3/23/20,Sonoma,Marin,0.165024631,2635
+3/24/20,Sonoma,Marin,0.153439153,2348
+3/25/20,Sonoma,Marin,0.154171067,2333
+3/26/20,Sonoma,Marin,0.148634563,2422
+3/27/20,Sonoma,Marin,0.14411211,2375
+3/28/20,Sonoma,Marin,0.150436954,2435
+3/29/20,Sonoma,Marin,0.116511628,2115
+3/30/20,Sonoma,Marin,0.147058824,2199
+3/31/20,Sonoma,Marin,0.154179298,2362
+3/2/20,Sonoma,Napa,0.16052364,5618
+3/3/20,Sonoma,Napa,0.114441037,4344
+3/4/20,Sonoma,Napa,0.123315364,4465
+3/5/20,Sonoma,Napa,0.11680718,4431
+3/6/20,Sonoma,Napa,0.131808279,4632
+3/7/20,Sonoma,Napa,0.137228075,4911
+3/8/20,Sonoma,Napa,0.141984526,4886
+3/9/20,Sonoma,Napa,0.148257373,5357
+3/10/20,Sonoma,Napa,0.110131542,4326
+3/11/20,Sonoma,Napa,0.116969613,4408
+3/12/20,Sonoma,Napa,0.124430327,4509
+3/13/20,Sonoma,Napa,0.115488937,4187
+3/14/20,Sonoma,Napa,0.127647059,4198
+3/15/20,Sonoma,Napa,0.107178799,3540
+3/16/20,Sonoma,Napa,0.12131597,3790
+3/17/20,Sonoma,Napa,0.11321404,3605
+3/18/20,Sonoma,Napa,0.114407565,3227
+3/19/20,Sonoma,Napa,0.107843137,3073
+3/20/20,Sonoma,Napa,0.107292355,2794
+3/21/20,Sonoma,Napa,0.093189964,1783
+3/22/20,Sonoma,Napa,0.065889029,1390
+3/23/20,Sonoma,Napa,0.086206897,2567
+3/24/20,Sonoma,Napa,0.091168091,2625
+3/25/20,Sonoma,Napa,0.095459345,2513
+3/26/20,Sonoma,Napa,0.095059412,2674
+3/27/20,Sonoma,Napa,0.09600502,2602
+3/28/20,Sonoma,Napa,0.087598835,2509
+3/29/20,Sonoma,Napa,0.073023256,2006
+3/30/20,Sonoma,Napa,0.089819005,2441
+3/31/20,Sonoma,Napa,0.091814638,2554
+3/2/20,Sonoma,Sacramento,0.063294357,31896
+3/3/20,Sonoma,Sacramento,0.025926958,31802
+3/4/20,Sonoma,Sacramento,0.032345013,32037
+3/5/20,Sonoma,Sacramento,0.027332064,32020
+3/6/20,Sonoma,Sacramento,0.03662854,31919
+3/7/20,Sonoma,Sacramento,0.046244356,30911
+3/8/20,Sonoma,Sacramento,0.054703407,29682
+3/9/20,Sonoma,Sacramento,0.058981233,30505
+3/10/20,Sonoma,Sacramento,0.027707809,30514
+3/11/20,Sonoma,Sacramento,0.027612044,30877
+3/12/20,Sonoma,Sacramento,0.028863417,30800
+3/13/20,Sonoma,Sacramento,0.030977873,29591
+3/14/20,Sonoma,Sacramento,0.041764706,28442
+3/15/20,Sonoma,Sacramento,0.033713519,25340
+3/16/20,Sonoma,Sacramento,0.041980809,24923
+3/17/20,Sonoma,Sacramento,0.033723331,26163
+3/18/20,Sonoma,Sacramento,0.032820323,25300
+3/19/20,Sonoma,Sacramento,0.034313725,24455
+3/20/20,Sonoma,Sacramento,0.032385988,21986
+3/21/20,Sonoma,Sacramento,0.033452808,15430
+3/22/20,Sonoma,Sacramento,0.02332913,14583
+3/23/20,Sonoma,Sacramento,0.031609195,21120
+3/24/20,Sonoma,Sacramento,0.021367521,22005
+3/25/20,Sonoma,Sacramento,0.026610348,21690
+3/26/20,Sonoma,Sacramento,0.022514071,21929
+3/27/20,Sonoma,Sacramento,0.024053545,21679
+3/28/20,Sonoma,Sacramento,0.021223471,21263
+3/29/20,Sonoma,Sacramento,0.019069767,19623
+3/30/20,Sonoma,Sacramento,0.024208145,20294
+3/31/20,Sonoma,Sacramento,0.024902555,21116
+3/2/20,Sonoma,San Francisco,0.096847992,16571
+3/3/20,Sonoma,San Francisco,0.052132701,15985
+3/4/20,Sonoma,San Francisco,0.057142857,16288
+3/5/20,Sonoma,San Francisco,0.058743541,16382
+3/6/20,Sonoma,San Francisco,0.063453159,16379
+3/7/20,Sonoma,San Francisco,0.069229717,15562
+3/8/20,Sonoma,San Francisco,0.073435591,13832
+3/9/20,Sonoma,San Francisco,0.08766756,15183
+3/10/20,Sonoma,San Francisco,0.059054016,14509
+3/11/20,Sonoma,San Francisco,0.055917858,14663
+3/12/20,Sonoma,San Francisco,0.055102886,14190
+3/13/20,Sonoma,San Francisco,0.051534618,13160
+3/14/20,Sonoma,San Francisco,0.066323529,12460
+3/15/20,Sonoma,San Francisco,0.056189198,9834
+3/16/20,Sonoma,San Francisco,0.064770391,10610
+3/17/20,Sonoma,San Francisco,0.049724708,10378
+3/18/20,Sonoma,San Francisco,0.038383089,7831
+3/19/20,Sonoma,San Francisco,0.035334967,7781
+3/20/20,Sonoma,San Francisco,0.035250055,6948
+3/21/20,Sonoma,San Francisco,0.040919952,5082
+3/22/20,Sonoma,San Francisco,0.039092055,4329
+3/23/20,Sonoma,San Francisco,0.037766831,7106
+3/24/20,Sonoma,San Francisco,0.029304029,7003
+3/25/20,Sonoma,San Francisco,0.029567054,6913
+3/26/20,Sonoma,San Francisco,0.027517198,7084
+3/27/20,Sonoma,San Francisco,0.029700899,6963
+3/28/20,Sonoma,San Francisco,0.036204744,6671
+3/29/20,Sonoma,San Francisco,0.024418605,5768
+3/30/20,Sonoma,San Francisco,0.03280543,6327
+3/31/20,Sonoma,San Francisco,0.034647033,6770
+3/2/20,Sonoma,San Mateo,0.042069141,20335
+3/3/20,Sonoma,San Mateo,0.019654307,19353
+3/4/20,Sonoma,San Mateo,0.023450135,19617
+3/5/20,Sonoma,San Mateo,0.023388632,19485
+3/6/20,Sonoma,San Mateo,0.026007625,19563
+3/7/20,Sonoma,San Mateo,0.030373512,18653
+3/8/20,Sonoma,San Mateo,0.037328628,17357
+3/9/20,Sonoma,San Mateo,0.041286863,18734
+3/10/20,Sonoma,San Mateo,0.025888609,17728
+3/11/20,Sonoma,San Mateo,0.0226169,17839
+3/12/20,Sonoma,San Mateo,0.024720342,17749
+3/13/20,Sonoma,San Mateo,0.024696645,16785
+3/14/20,Sonoma,San Mateo,0.035735294,16170
+3/15/20,Sonoma,San Mateo,0.02868165,13100
+3/16/20,Sonoma,San Mateo,0.032727896,13538
+3/17/20,Sonoma,San Mateo,0.022539573,13497
+3/18/20,Sonoma,San Mateo,0.020211385,10477
+3/19/20,Sonoma,San Mateo,0.017156863,10340
+3/20/20,Sonoma,San Mateo,0.015642212,9120
+3/21/20,Sonoma,San Mateo,0.018219833,6567
+3/22/20,Sonoma,San Mateo,0.019861286,5735
+3/23/20,Sonoma,San Mateo,0.013752053,9363
+3/24/20,Sonoma,San Mateo,0.011803012,9294
+3/25/20,Sonoma,San Mateo,0.012460401,9052
+3/26/20,Sonoma,San Mateo,0.011048572,9331
+3/27/20,Sonoma,San Mateo,0.012131353,9211
+3/28/20,Sonoma,San Mateo,0.0147732,9004
+3/29/20,Sonoma,San Mateo,0.009767442,8028
+3/30/20,Sonoma,San Mateo,0.008597285,8548
+3/31/20,Sonoma,San Mateo,0.013425725,9093
+3/2/20,Sonoma,Santa Clara,0.026436197,34488
+3/3/20,Sonoma,Santa Clara,0.012545302,34533
+3/4/20,Sonoma,Santa Clara,0.009703504,35119
+3/5/20,Sonoma,Santa Clara,0.010878434,34789
+3/6/20,Sonoma,Santa Clara,0.013616558,34503
+3/7/20,Sonoma,Santa Clara,0.018744014,32776
+3/8/20,Sonoma,Santa Clara,0.020904031,31078
+3/9/20,Sonoma,Santa Clara,0.026809651,32668
+3/10/20,Sonoma,Santa Clara,0.010355444,32383
+3/11/20,Sonoma,Santa Clara,0.010545303,32203
+3/12/20,Sonoma,Santa Clara,0.011600608,31899
+3/13/20,Sonoma,Santa Clara,0.011420414,30478
+3/14/20,Sonoma,Santa Clara,0.018088235,29007
+3/15/20,Sonoma,Santa Clara,0.013082858,24621
+3/16/20,Sonoma,Santa Clara,0.02107608,24672
+3/17/20,Sonoma,Santa Clara,0.013592567,25270
+3/18/20,Sonoma,Santa Clara,0.011496384,20472
+3/19/20,Sonoma,Santa Clara,0.009191176,20485
+3/20/20,Sonoma,Santa Clara,0.007931262,18337
+3/21/20,Sonoma,Santa Clara,0.009557945,13619
+3/22/20,Sonoma,Santa Clara,0.009142497,12587
+3/23/20,Sonoma,Santa Clara,0.008004926,18647
+3/24/20,Sonoma,Santa Clara,0.008750509,19127
+3/25/20,Sonoma,Santa Clara,0.008658923,18937
+3/26/20,Sonoma,Santa Clara,0.005211591,18959
+3/27/20,Sonoma,Santa Clara,0.007948128,19004
+3/28/20,Sonoma,Santa Clara,0.011652102,18478
+3/29/20,Sonoma,Santa Clara,0.007209302,17208
+3/30/20,Sonoma,Santa Clara,0.007013575,17884
+3/31/20,Sonoma,Santa Clara,0.010177566,18675
+3/2/20,Sonoma,Solano,0.158617184,13192
+3/3/20,Sonoma,Solano,0.094368553,10854
+3/4/20,Sonoma,Solano,0.103638814,11018
+3/5/20,Sonoma,Solano,0.097905902,11064
+3/6/20,Sonoma,Solano,0.108796296,11230
+3/7/20,Sonoma,Solano,0.125051307,11961
+3/8/20,Sonoma,Solano,0.137912312,11968
+3/9/20,Sonoma,Solano,0.147050938,12733
+3/10/20,Sonoma,Solano,0.097397145,10732
+3/11/20,Sonoma,Solano,0.09948661,10765
+3/12/20,Sonoma,Solano,0.106200801,10848
+3/13/20,Sonoma,Solano,0.100785154,10593
+3/14/20,Sonoma,Solano,0.113529412,10615
+3/15/20,Sonoma,Solano,0.099463267,9103
+3/16/20,Sonoma,Solano,0.119431117,9433
+3/17/20,Sonoma,Solano,0.104955265,9176
+3/18/20,Sonoma,Solano,0.103652883,8559
+3/19/20,Sonoma,Solano,0.099060458,8189
+3/20/20,Sonoma,Solano,0.105970478,7346
+3/21/20,Sonoma,Solano,0.103942652,5428
+3/22/20,Sonoma,Solano,0.081021438,4684
+3/23/20,Sonoma,Solano,0.089696223,7267
+3/24/20,Sonoma,Solano,0.080993081,7246
+3/25/20,Sonoma,Solano,0.089757128,7178
+3/26/20,Sonoma,Solano,0.088388576,7298
+3/27/20,Sonoma,Solano,0.083664505,7286
+3/28/20,Sonoma,Solano,0.08281315,7097
+3/29/20,Sonoma,Solano,0.067674419,6177
+3/30/20,Sonoma,Solano,0.086425339,6765
+3/31/20,Sonoma,Solano,0.088999567,7101
