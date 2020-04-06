@@ -16,3 +16,5 @@ Spoke: The surrounding county to which devices in the “hub” county can trave
 Value: For intercounty comparisons, Value represents the proportion of devices in the hub county that appear in the spoke county per day. For rows with "did not enter other counties" in the “Spoke” field, Value represents the proportion of     devices in the “hub” county that did not appear in any of the “spoke” counties.
 
 Device sample: The number of device IDs in the "hub" county that were used to generate these statistics, after filtering.
+
+If you use this data, please attribute it to the Bay Area Council Economic Institute and Descartes Labs. 
