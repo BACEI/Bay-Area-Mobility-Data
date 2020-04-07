@@ -496,3 +496,10 @@ date,samples,median_distance_traveled_km,median_distance_traveled_mi,mobility_in
 4/3/20,2527,1.27,0.78914117,21,US,California,Yolo County,6113
 4/4/20,2463,0.073,0.045360083,1,US,California,Yolo County,6113
 4/5/20,2704,0.031,0.019262501,0,US,California,Yolo County,6113
+3/1/20,,3.876,2.408433996,33,US,California,San Benito County,6062
+3/2/20,,10.86,6.74808906,93,US,California,San Benito County,6063
+3/3/20,,9.784,6.079493864,84,US,California,San Benito County,6064
+3/4/20,,11.628,7.225301988,100,US,California,San Benito County,6065
+3/5/20,,12.027,7.473229017,103,US,California,San Benito County,6066
+3/6/20,,13.651,8.482335521,117,US,California,San Benito County,6067
+3/7/20,,8.212,5.102698652,70,US,California,San Benito County,6068
