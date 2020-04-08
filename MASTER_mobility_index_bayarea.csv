@@ -503,3 +503,17 @@ date,samples,median_distance_traveled_km,median_distance_traveled_mi,mobility_in
 4/5/20,4471,0.033,0.020505243,0,US,California,Solano County,6095
 4/5/20,3974,0.038,0.023612098,0,US,California,Sonoma County,6097
 4/5/20,2704,0.031,0.019262501,0,US,California,Yolo County,6113
+4/6/20,13409,0.031,0.019262501,0,US,California,Alameda County,6001
+4/6/20,11629,0.057,0.035418147,0,US,California,Contra Costa County,6013
+4/6/20,1482,0.128,0.079535488,1,US,California,Marin County,6041
+4/6/20,1211,0.519,0.322491549,10,US,California,Napa County,6055
+4/6/20,16938,0.472,0.293287112,6,US,California,Sacramento County,6067
+4/6/20,706,1.085,0.674187535,9,US,California,San Benito County,6069
+4/6/20,2771,0.023,0.014291533,0,US,California,San Francisco County,6075
+4/6/20,7589,1.005,0.624477855,15,US,California,San Joaquin County,6077
+4/6/20,8511,0.032,0.019883872,0,US,California,San Mateo County,6081
+4/6/20,15506,0.029,0.018019759,0,US,California,Santa Clara County,6085
+4/6/20,1543,0.062,0.038525002,1,US,California,Santa Cruz County,6087
+4/6/20,4138,1.069,0.664245599,14,US,California,Solano County,6095
+4/6/20,3747,0.737,0.457950427,11,US,California,Sonoma County,6097
+4/6/20,2430,0.51,0.31689921,8,US,California,Yolo County,6113
