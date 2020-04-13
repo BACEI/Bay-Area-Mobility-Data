@@ -559,3 +559,31 @@ date,samples,median_distance_traveled_km,median_distance_traveled_mi,mobility_in
 4/9/20,4311,1.402,0.871162142,19,US,California,Solano County,6095
 4/9/20,3871,0.75,0.46602825,12,US,California,Sonoma County,6097
 4/9/20,2523,0.631,0.392085101,10,US,California,Yolo County,6113
+4/10/20,12694,0.35,0.21747985,5,US,California,Alameda County,6001
+4/10/20,10941,1.143,0.710227053,15,US,California,Contra Costa County,6013
+4/10/20,1390,1.312,0.815238752,19,US,California,Marin County,6041
+4/10/20,1140,1.946,1.209187966,37,US,California,Napa County,6055
+4/10/20,16105,1.58,0.98176618,22,US,California,Sacramento County,6067
+4/10/20,709,1.37,0.85127827,11,US,California,San Benito County,6069
+4/10/20,2684,0.05,0.03106855,1,US,California,San Francisco County,6075
+4/10/20,7403,1.971,1.224722241,30,US,California,San Joaquin County,6077
+4/10/20,7872,0.593,0.368473003,8,US,California,San Mateo County,6081
+4/10/20,14416,0.336,0.208780656,4,US,California,Santa Clara County,6085
+4/10/20,1517,0.568,0.352938728,12,US,California,Santa Cruz County,6087
+4/10/20,3928,2.122,1.318549262,29,US,California,Solano County,6095
+4/10/20,3570,1.598,0.992950858,25,US,California,Sonoma County,6097
+4/10/20,2339,1.417,0.880482707,24,US,California,Yolo County,6113
+4/11/20,13369,0.036,0.022369356,0,US,California,Alameda County,6001
+4/11/20,11387,0.357,0.221829447,4,US,California,Contra Costa County,6013
+4/11/20,1463,0.359,0.223072189,5,US,California,Marin County,6041
+4/11/20,1166,0.424,0.263461304,8,US,California,Napa County,6055
+4/11/20,16610,0.448,0.278374208,6,US,California,Sacramento County,6067
+4/11/20,721,0.806,0.500825026,6,US,California,San Benito County,6069
+4/11/20,2843,0.027,0.016777017,0,US,California,San Francisco County,6075
+4/11/20,7454,0.582,0.361637922,8,US,California,San Joaquin County,6077
+4/11/20,8586,0.054,0.033554034,0,US,California,San Mateo County,6081
+4/11/20,15262,0.049,0.030447179,0,US,California,Santa Clara County,6085
+4/11/20,1596,0.046,0.028583066,1,US,California,Santa Cruz County,6087
+4/11/20,4035,0.773,0.480319783,10,US,California,Solano County,6095
+4/11/20,3679,0.382,0.237363722,6,US,California,Sonoma County,6097
+4/11/20,2348,0.725,0.450493975,12,US,California,Yolo County,6113
