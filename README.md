@@ -18,7 +18,7 @@ Hub: The central county whose device IDs are being compared to each surrounding 
 
 Spoke: The surrounding county to which devices in the “hub” county can travel.
 
-Date: Local date of samples (currently UTC -7).
+Date: Local date of samples.
 
 Device sample: The number of device IDs in the "hub" county that were used to generate
 these statistics, after filtering.
