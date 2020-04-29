@@ -936,3 +936,73 @@ date,samples,median_distance_traveled_km,median_distance_traveled_mi,mobility_in
 4/23/20,6040,2.385,0.859977464,31,US,2,California,Solano County,6095
 4/23/20,5309,1.965,0.859977464,30,US,2,California,Sonoma County,6097
 4/23/20,3618,1.44,0.859977464,27,US,2,California,Yolo County,6113
+4/23/20,17748,0.079,0.049088309,1,US,2,California,Alameda County,6001
+4/23/20,16285,0.904,0.561719384,12,US,2,California,Contra Costa County,6013
+4/23/20,2172,0.971,0.603351241,14,US,2,California,Marin County,6041
+4/23/20,1699,2.425,1.506824675,43,US,2,California,Napa County,6055
+4/23/20,23856,2.145,1.332840795,28,US,2,California,Sacramento County,6067
+4/23/20,1120,2.263,1.406162573,21,US,2,California,San Benito County,6069
+4/23/20,3080,0.05,0.03106855,1,US,2,California,San Francisco County,6075
+4/23/20,11141,2.477,1.539135967,35,US,2,California,San Joaquin County,6077
+4/23/20,11751,0.251,0.155964121,3,US,2,California,San Mateo County,6081
+4/23/20,22791,0.042,0.026097582,0,US,2,California,Santa Clara County,6085
+4/23/20,2285,1.435,0.891667385,26,US,2,California,Santa Cruz County,6087
+4/23/20,6040,2.385,1.481969835,31,US,2,California,Solano County,6095
+4/23/20,5309,1.965,1.220994015,30,US,2,California,Sonoma County,6097
+4/23/20,3618,1.44,0.89477424,27,US,2,California,Yolo County,6113
+4/24/20,18173,0.386,0.239849206,6,US,2,California,Alameda County,6001
+4/24/20,16569,1.465,0.910308515,20,US,2,California,Contra Costa County,6013
+4/24/20,2203,1.206,0.749373426,17,US,2,California,Marin County,6041
+4/24/20,1800,2.506,1.557155726,45,US,2,California,Napa County,6055
+4/24/20,24287,2.444,1.518630724,32,US,2,California,Sacramento County,6067
+4/24/20,1140,2.422,1.504960562,23,US,2,California,San Benito County,6069
+4/24/20,3176,0.118,0.073321778,3,US,2,California,San Francisco County,6075
+4/24/20,11270,2.857,1.775256947,40,US,2,California,San Joaquin County,6077
+4/24/20,12142,0.607,0.377172197,9,US,2,California,San Mateo County,6081
+4/24/20,23259,0.133,0.082642343,1,US,2,California,Santa Clara County,6085
+4/24/20,2341,1.782,1.107283122,33,US,2,California,Santa Cruz County,6087
+4/24/20,6234,2.568,1.595680728,34,US,2,California,Solano County,6095
+4/24/20,5384,2.594,1.611836374,40,US,2,California,Sonoma County,6097
+4/24/20,3624,1.86,1.15575006,35,US,2,California,Yolo County,6113
+4/25/20,17985,0.272,0.169012912,4,US,2,California,Alameda County,6001
+4/25/20,16445,1.155,0.717683505,16,US,2,California,Contra Costa County,6013
+4/25/20,2208,1.514,0.940755694,22,US,2,California,Marin County,6041
+4/25/20,1755,1.787,1.110389977,32,US,2,California,Napa County,6055
+4/25/20,24046,1.917,1.191168207,25,US,2,California,Sacramento County,6067
+4/25/20,1093,1.88,1.16817748,18,US,2,California,San Benito County,6069
+4/25/20,3166,0.338,0.210023398,8,US,2,California,San Francisco County,6075
+4/25/20,11095,2.05,1.27381055,29,US,2,California,San Joaquin County,6077
+4/25/20,11868,0.611,0.379657681,9,US,2,California,San Mateo County,6081
+4/25/20,23088,0.115,0.071457665,1,US,2,California,Santa Clara County,6085
+4/25/20,2299,1.482,0.920871822,27,US,2,California,Santa Cruz County,6087
+4/25/20,5985,2.066,1.283752486,27,US,2,California,Solano County,6095
+4/25/20,5254,1.606,0.997921826,25,US,2,California,Sonoma County,6097
+4/25/20,3584,1.721,1.069379491,32,US,2,California,Yolo County,6113
+4/26/20,17953,0.039,0.024233469,0,US,2,California,Alameda County,6001
+4/26/20,16432,0.333,0.206916543,4,US,2,California,Contra Costa County,6013
+4/26/20,2200,0.969,0.602108499,14,US,2,California,Marin County,6041
+4/26/20,1729,1.219,0.757451249,21,US,2,California,Napa County,6055
+4/26/20,23783,0.817,0.507660107,10,US,2,California,Sacramento County,6067
+4/26/20,1097,0.256,0.159070976,2,US,2,California,San Benito County,6069
+4/26/20,3049,0.036,0.022369356,0,US,2,California,San Francisco County,6075
+4/26/20,11028,0.796,0.494611316,11,US,2,California,San Joaquin County,6077
+4/26/20,11773,0.05,0.03106855,0,US,2,California,San Mateo County,6081
+4/26/20,22995,0.036,0.022369356,0,US,2,California,Santa Clara County,6085
+4/26/20,2252,0.81,0.50331051,15,US,2,California,Santa Cruz County,6087
+4/26/20,6059,1.019,0.633177049,13,US,2,California,Solano County,6095
+4/26/20,5246,0.835,0.518844785,13,US,2,California,Sonoma County,6097
+4/26/20,3512,0.734,0.456086314,14,US,2,California,Yolo County,6113
+4/27/20,17995,0.058,0.036039518,0,US,2,California,Alameda County,6001
+4/27/20,16536,0.804,0.499582284,11,US,2,California,Contra Costa County,6013
+4/27/20,2192,0.9,0.5592339,13,US,2,California,Marin County,6041
+4/27/20,1724,2.047,1.271946437,36,US,2,California,Napa County,6055
+4/27/20,23901,1.875,1.165070625,24,US,2,California,Sacramento County,6067
+4/27/20,1122,2.065,1.283131115,19,US,2,California,San Benito County,6069
+4/27/20,3049,0.04,0.02485484,1,US,2,California,San Francisco County,6075
+4/27/20,11247,2.555,1.587602905,36,US,2,California,San Joaquin County,6077
+4/27/20,11919,0.288,0.178954848,4,US,2,California,San Mateo County,6081
+4/27/20,22861,0.044,0.027340324,0,US,2,California,Santa Clara County,6085
+4/27/20,2234,1.33,0.82642343,24,US,2,California,Santa Cruz County,6087
+4/27/20,6120,2.328,1.446551688,30,US,2,California,Solano County,6095
+4/27/20,5315,1.989,1.235906919,31,US,2,California,Sonoma County,6097
+4/27/20,3511,1.286,0.799083106,24,US,2,California,Yolo County,6113
